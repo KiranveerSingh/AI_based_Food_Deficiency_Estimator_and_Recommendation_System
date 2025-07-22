@@ -1,0 +1,1001 @@
+Food_Item,Category,Calories,Protein_g,Fat_g,Carbs_g,Fiber_g,Vitamin_A_mcg,Vitamin_C_mg,Vitamin_D_IU,Vitamin_B12_mcg,Iron_mg,Calcium_mg,Zinc_mg,Folate_mcg,Magnesium_mg,Tags,Allergens,Health_Benefits
+Watermelon (87g),Fruit,34.5,7.2,6.8,44.5,8.2,713.9,7.8,168.8,0.07,2.3,156.6,0.2,83.5,99.2,Diabetic-Friendly,Nuts,Supports Bone Health
+Beetroot (117g),Vegetable,181.4,21.8,22.8,10.4,5.2,223.0,19.4,305.4,0.25,3.9,114.1,1.8,109.5,11.3,Low-Fat,Soy,Boosts Immunity
+Fish (Pomfret) (85g),Seafood,340.2,20.8,18.6,51.8,7.0,564.0,4.1,91.2,0.69,0.9,77.5,0.6,114.8,97.2,High-Protein,Dairy,Improves Digestion
+Mutton (93g),Meat,408.7,17.7,20.5,5.2,7.7,427.8,22.0,184.9,0.65,9.3,209.6,1.2,133.1,116.4,Vegan,Dairy,Boosts Immunity
+Egg (105g),Protein,175.3,5.7,28.3,52.7,3.9,524.7,35.6,365.8,1.1,2.7,81.5,2.9,108.8,89.8,Diabetic-Friendly,Nuts,Improves Digestion
+Milk (Cow) (88g),Dairy,315.5,2.7,1.5,7.5,7.6,633.9,38.0,25.4,0.92,10.0,163.4,4.9,345.0,6.7,Vegan,Soy,Improves Digestion
+Muskmelon (101g),Fruit,84.7,11.2,13.7,57.3,10.5,211.4,45.1,71.5,2.19,8.7,96.5,3.2,245.5,27.2,Vegetarian,Soy,Energy Boost
+Spinach (118g),Vegetable,208.0,1.0,27.9,52.8,10.0,246.7,5.2,351.2,2.27,0.9,150.9,0.4,305.4,116.0,Vegetarian,Nuts,Energy Boost
+Mango (96g),Fruit,326.1,15.4,28.9,55.8,9.1,552.2,64.2,159.6,1.61,3.8,270.9,2.3,102.9,14.3,Vegan,Soy,Energy Boost
+Milk (Cow) (117g),Dairy,147.7,2.2,19.0,14.5,10.9,687.8,6.4,95.2,1.61,2.2,48.4,4.7,230.6,73.5,Low-Fat,Nuts,Supports Bone Health
+Cabbage (86g),Vegetable,402.2,9.2,12.4,52.0,0.8,523.1,58.2,24.2,1.75,8.0,41.7,1.0,216.8,25.3,Vegetarian,Gluten,Heart Healthy
+Paneer (84g),Dairy,277.0,21.6,16.6,4.0,12.0,669.0,87.2,370.5,2.04,1.7,150.8,1.1,163.4,13.5,Low-Fat,None,Heart Healthy
+Curd (109g),Dairy,185.4,17.6,21.9,47.2,8.0,389.9,17.1,87.1,0.14,7.4,27.7,1.6,24.8,74.1,Diabetic-Friendly,Dairy,Boosts Immunity
+Green Peas (85g),Legume,513.8,2.2,2.1,51.8,5.0,753.3,51.3,231.6,0.1,0.9,200.6,2.9,130.0,42.8,High-Protein,Dairy,Improves Digestion
+Bottle Gourd (88g),Vegetable,409.6,7.8,9.6,45.4,1.1,367.2,89.9,398.4,0.18,2.2,86.9,4.7,352.9,132.5,High-Protein,Gluten,Supports Bone Health
+Beetroot (114g),Vegetable,428.1,15.5,29.6,39.6,0.3,653.9,26.9,265.4,2.25,1.4,43.5,0.6,223.5,44.5,Diabetic-Friendly,Dairy,Improves Digestion
+Orange (120g),Fruit,514.7,12.9,7.6,54.6,0.8,507.8,74.6,17.6,0.8,1.4,294.1,0.9,179.5,107.3,Diabetic-Friendly,None,Boosts Immunity
+White Rice (89g),Grain,336.4,20.9,17.5,9.7,1.7,247.3,80.9,318.4,2.07,9.0,70.9,1.3,45.6,118.1,Low-Fat,Soy,Supports Bone Health
+Paneer (90g),Dairy,586.2,20.4,26.5,2.5,8.9,266.4,83.8,320.9,2.07,8.1,87.4,4.0,47.7,131.5,Low-Fat,Dairy,Supports Bone Health
+Cucumber (102g),Vegetable,197.0,20.0,6.9,2.4,2.5,263.3,77.8,386.8,0.67,6.5,125.9,4.9,216.8,141.2,Vegan,Gluten,Supports Bone Health
+Papaya (96g),Fruit,42.2,15.1,10.4,47.4,5.3,787.4,10.4,359.8,0.46,0.5,136.5,2.6,323.6,104.6,Vegetarian,Gluten,Heart Healthy
+White Rice (101g),Grain,381.4,16.8,3.8,54.1,6.2,533.8,29.4,278.9,1.33,2.0,202.8,2.0,300.5,30.2,Diabetic-Friendly,Gluten,Heart Healthy
+Tofu (80g),Soy Product,196.2,5.6,23.6,36.8,4.0,354.0,60.8,204.5,1.9,9.6,223.4,3.3,117.1,101.3,Diabetic-Friendly,Gluten,Boosts Immunity
+Paneer (99g),Dairy,150.3,5.4,0.8,15.4,5.8,679.9,6.6,165.8,1.51,2.0,211.9,2.5,101.4,100.1,Vegan,None,Heart Healthy
+Milk (Cow) (91g),Dairy,486.4,17.5,14.0,33.9,11.0,98.0,12.0,185.9,1.27,5.6,102.0,3.8,179.8,123.2,Diabetic-Friendly,Nuts,Energy Boost
+Beetroot (90g),Vegetable,451.3,12.1,7.8,15.6,7.7,612.9,46.9,250.7,0.66,0.9,92.9,1.4,131.3,83.3,Vegetarian,Dairy,Supports Bone Health
+Fish (Pomfret) (89g),Seafood,429.7,2.1,12.3,33.0,5.1,166.3,37.8,361.9,1.4,7.0,258.5,3.9,155.3,5.9,High-Protein,Gluten,Heart Healthy
+Bitter Gourd (114g),Vegetable,453.6,13.9,18.1,14.0,2.8,349.2,2.6,134.5,1.63,4.1,57.9,2.4,55.4,95.2,Vegan,Nuts,Energy Boost
+Mushroom (81g),Fungus,68.7,11.0,26.0,11.7,3.3,262.6,40.9,135.0,2.11,2.9,285.8,2.2,334.8,73.2,Diabetic-Friendly,None,Improves Digestion
+Milk (Cow) (84g),Dairy,473.1,16.5,22.7,57.0,2.6,17.3,13.7,50.5,1.61,5.7,73.2,3.5,307.9,29.3,Diabetic-Friendly,None,Supports Bone Health
+Groundnuts (86g),Nut,355.6,23.3,17.3,54.6,4.6,753.2,17.8,236.8,1.99,2.5,212.2,1.6,275.3,121.8,Diabetic-Friendly,None,Improves Digestion
+Soybeans (107g),Legume,403.7,2.2,19.5,1.7,5.2,392.7,39.0,144.9,2.14,4.7,54.4,1.0,211.1,99.3,Diabetic-Friendly,Soy,Heart Healthy
+Cucumber (107g),Vegetable,498.9,15.0,9.7,15.5,11.2,223.9,40.6,300.2,1.37,6.7,107.6,2.5,133.4,75.7,High-Protein,Gluten,Improves Digestion
+Almonds (118g),Nut,426.7,7.3,0.4,56.9,1.2,576.3,44.0,303.3,1.66,6.5,152.3,4.0,41.8,37.1,Vegetarian,Gluten,Energy Boost
+Fish (Rohu) (110g),Seafood,341.0,8.9,29.9,33.5,4.4,363.5,27.6,92.2,1.73,3.2,225.4,4.8,277.6,32.8,Low-Fat,Gluten,Energy Boost
+Rajma (Kidney Beans) (118g),Legume,184.1,3.0,5.9,14.4,2.3,12.3,48.1,109.7,2.34,5.6,212.3,0.7,348.0,76.2,Vegan,Soy,Improves Digestion
+Sweet Potato (110g),Root,275.5,5.0,1.6,56.5,5.8,657.9,36.1,29.6,1.51,0.6,53.3,2.9,125.0,149.1,Vegan,Soy,Heart Healthy
+Guava (118g),Fruit,478.6,6.0,15.7,27.6,5.4,688.3,89.1,122.2,1.49,6.1,224.6,4.7,87.1,35.6,Vegan,Dairy,Supports Bone Health
+Banana (115g),Fruit,63.5,0.6,13.6,36.0,3.6,185.9,63.6,281.2,1.09,6.9,277.9,4.0,251.9,100.9,Vegetarian,Nuts,Boosts Immunity
+Soybeans (94g),Legume,395.6,22.8,24.8,5.2,2.2,246.8,67.4,227.7,0.69,1.3,209.7,3.5,377.4,77.6,Low-Fat,Nuts,Boosts Immunity
+Guava (82g),Fruit,535.9,18.5,18.2,2.5,2.9,539.8,77.4,234.8,0.05,7.7,248.2,2.9,306.4,30.4,Diabetic-Friendly,Nuts,Improves Digestion
+Banana (117g),Fruit,272.8,20.4,29.1,28.7,5.0,257.5,9.4,64.3,0.99,5.0,202.1,2.1,305.4,10.3,Vegan,Gluten,Improves Digestion
+Egg (87g),Protein,582.7,10.4,15.5,59.3,8.0,434.5,37.2,75.0,0.87,7.6,191.4,3.8,85.4,84.6,High-Protein,Nuts,Heart Healthy
+Tomato (81g),Vegetable,584.4,15.4,7.3,10.3,6.7,442.2,8.4,396.9,2.19,4.7,44.1,4.2,201.9,108.9,Diabetic-Friendly,Gluten,Heart Healthy
+Sweet Potato (110g),Root,161.4,14.0,11.6,55.4,6.2,703.6,77.8,110.5,1.9,4.2,280.9,2.6,329.1,46.0,High-Protein,Soy,Energy Boost
+Potato (89g),Root,279.0,12.4,10.0,46.0,4.7,746.3,78.3,392.3,0.57,3.9,258.2,2.1,130.7,73.6,Low-Fat,Nuts,Supports Bone Health
+Potato (82g),Root,93.2,24.2,10.0,6.9,10.2,80.7,81.9,6.1,0.35,8.7,291.3,0.5,313.7,43.4,Diabetic-Friendly,Nuts,Boosts Immunity
+Chicken Breast (114g),Meat,240.4,8.3,21.6,45.8,10.5,29.7,6.2,252.5,2.21,10.0,226.6,2.2,43.9,96.9,Vegan,Nuts,Supports Bone Health
+Groundnuts (81g),Nut,46.7,20.0,8.9,23.1,1.9,425.4,50.9,317.0,0.41,0.9,262.5,3.1,100.1,137.4,Vegetarian,Dairy,Heart Healthy
+Watermelon (96g),Fruit,286.6,16.8,27.0,28.4,3.6,437.7,6.6,378.1,2.37,3.1,289.0,3.5,185.5,48.8,Low-Fat,Nuts,Boosts Immunity
+Paneer (104g),Dairy,351.7,14.6,29.8,18.4,11.7,526.9,24.7,226.4,1.65,7.5,24.2,3.1,201.2,136.1,High-Protein,Dairy,Energy Boost
+Mutton (94g),Meat,389.2,15.7,20.4,43.5,8.0,670.8,56.5,361.4,1.55,3.2,137.8,2.9,294.3,18.1,High-Protein,Gluten,Heart Healthy
+Banana (92g),Fruit,96.7,13.7,29.1,32.3,11.0,664.5,23.1,329.9,1.16,8.1,226.5,1.8,50.5,144.6,Vegetarian,Dairy,Heart Healthy
+Tofu (103g),Soy Product,72.4,10.2,8.0,8.3,4.5,599.5,23.6,152.4,1.53,3.8,205.7,2.4,249.7,141.8,High-Protein,Soy,Supports Bone Health
+Muskmelon (84g),Fruit,388.5,11.9,21.1,39.3,1.6,37.2,3.3,398.4,0.28,2.4,165.9,2.0,151.5,142.7,Diabetic-Friendly,Nuts,Energy Boost
+Cauliflower (106g),Vegetable,399.9,20.9,18.5,56.4,3.5,552.5,19.6,177.9,0.57,3.7,294.5,1.9,361.2,98.5,Vegan,Nuts,Improves Digestion
+Apple (87g),Fruit,570.4,20.7,2.8,13.5,7.7,776.9,4.6,133.4,2.37,7.9,69.5,4.2,223.9,90.0,Vegetarian,Gluten,Supports Bone Health
+Guava (80g),Fruit,180.8,24.6,29.6,32.9,9.6,88.8,78.0,52.7,0.86,7.9,180.8,0.2,109.8,23.4,Low-Fat,Soy,Boosts Immunity
+White Rice (110g),Grain,280.0,9.4,17.9,27.7,2.8,492.5,65.5,363.5,1.58,3.1,196.6,0.3,399.4,127.9,Low-Fat,None,Heart Healthy
+Beetroot (84g),Vegetable,541.6,8.4,4.5,8.4,7.6,468.7,64.1,152.4,1.43,3.0,156.6,2.2,318.3,21.6,Diabetic-Friendly,Dairy,Heart Healthy
+Beetroot (94g),Vegetable,260.0,20.8,12.0,44.0,3.9,250.7,22.9,381.4,1.65,4.8,36.5,0.5,175.6,113.0,High-Protein,Dairy,Energy Boost
+Brown Rice (117g),Grain,574.8,14.3,20.1,25.2,10.5,753.0,38.1,366.3,0.12,2.9,100.6,0.6,205.4,27.4,Low-Fat,Dairy,Boosts Immunity
+Mutton (115g),Meat,233.2,19.2,17.3,48.6,10.2,779.7,73.7,245.4,1.54,0.4,279.4,4.2,110.6,31.2,High-Protein,Gluten,Improves Digestion
+Spinach (91g),Vegetable,524.5,14.4,12.1,9.4,7.7,25.5,67.2,86.1,1.01,3.5,117.3,3.6,311.9,87.3,Vegan,None,Supports Bone Health
+Mango (119g),Fruit,48.9,2.5,13.3,26.0,7.4,331.9,19.4,204.9,0.83,1.2,206.7,3.0,213.1,49.7,Vegetarian,Nuts,Energy Boost
+Brown Rice (80g),Grain,138.6,23.7,23.0,46.1,3.6,96.9,44.8,172.3,0.31,5.4,76.7,2.8,268.9,56.4,Low-Fat,None,Heart Healthy
+Lentils (Toor Dal) (109g),Legume,554.3,21.6,17.3,34.8,8.6,334.7,10.4,8.3,0.78,8.0,189.3,4.2,368.3,17.8,Vegan,Dairy,Heart Healthy
+Papaya (105g),Fruit,323.9,10.2,9.4,21.0,4.1,135.3,45.9,45.6,1.22,9.1,111.3,3.7,328.5,123.2,Vegetarian,None,Supports Bone Health
+Curd (92g),Dairy,120.6,4.2,22.8,5.4,11.4,502.7,41.8,225.5,1.39,6.8,265.8,3.3,394.7,51.9,High-Protein,Dairy,Heart Healthy
+White Rice (110g),Grain,276.5,7.9,8.3,4.3,6.2,249.0,40.7,22.8,2.0,0.9,260.6,4.3,247.9,78.5,Low-Fat,Soy,Energy Boost
+Chickpeas (108g),Legume,547.2,14.5,5.7,36.7,6.1,766.2,40.5,324.4,2.01,9.8,34.5,3.3,20.5,107.6,Low-Fat,Soy,Energy Boost
+Pineapple (90g),Fruit,231.1,23.0,11.7,46.7,8.2,42.8,56.8,133.9,0.79,5.6,122.1,1.3,341.4,144.8,Diabetic-Friendly,Dairy,Improves Digestion
+Chapati (Whole Wheat) (117g),Grain,404.9,23.0,9.4,39.7,8.0,104.0,63.8,33.9,1.34,6.5,105.3,0.7,282.6,142.3,Diabetic-Friendly,None,Heart Healthy
+Green Peas (103g),Legume,30.6,8.1,28.5,21.2,9.2,154.4,90.0,62.0,0.71,7.9,157.2,2.7,296.8,81.3,High-Protein,Soy,Supports Bone Health
+Guava (104g),Fruit,109.5,4.9,20.8,37.9,10.9,577.2,3.9,145.7,1.73,9.7,187.1,3.8,314.6,38.9,Vegetarian,Gluten,Heart Healthy
+Apple (103g),Fruit,413.4,14.5,13.3,46.4,9.4,402.8,37.7,64.8,0.48,6.1,263.2,0.4,194.8,58.8,Vegan,Soy,Boosts Immunity
+Cashews (85g),Nut,462.6,7.2,27.2,9.7,5.4,757.2,20.0,180.5,0.84,0.4,25.4,2.6,98.1,149.2,High-Protein,Dairy,Boosts Immunity
+Egg (86g),Protein,506.7,16.4,23.8,9.1,3.6,664.0,62.6,55.5,1.69,4.5,11.5,0.5,106.1,126.1,Diabetic-Friendly,Soy,Energy Boost
+Brinjal (87g),Vegetable,470.2,6.3,3.7,15.1,7.7,498.6,5.7,334.7,1.2,5.4,193.3,2.9,288.8,47.2,Vegan,Soy,Improves Digestion
+Paneer (116g),Dairy,261.6,16.8,2.7,58.5,1.0,421.3,45.7,395.3,1.33,4.0,146.3,3.2,392.5,41.8,Vegan,Gluten,Boosts Immunity
+Mutton (95g),Meat,445.1,15.9,23.2,44.4,4.1,36.4,49.1,325.4,0.42,7.8,144.7,3.5,254.5,122.7,Vegan,Nuts,Boosts Immunity
+Cashews (92g),Nut,45.4,5.4,1.4,56.1,6.3,791.3,48.9,101.3,1.81,2.0,113.5,3.9,347.0,53.1,Vegan,Gluten,Heart Healthy
+Bottle Gourd (108g),Vegetable,538.9,10.0,29.2,30.3,6.1,739.5,46.7,320.5,1.74,0.9,184.7,4.1,220.5,51.6,Vegan,Gluten,Improves Digestion
+Groundnuts (108g),Nut,369.5,10.9,20.7,21.7,0.7,696.2,31.7,399.3,0.66,9.8,284.9,0.5,256.8,57.7,Vegetarian,None,Supports Bone Health
+Guava (108g),Fruit,40.2,2.1,23.4,22.6,4.7,454.2,54.5,271.6,2.28,3.8,231.3,2.9,214.1,62.7,High-Protein,Dairy,Boosts Immunity
+Lentils (Toor Dal) (91g),Legume,309.4,10.0,16.9,16.4,3.3,357.6,89.7,114.2,2.2,5.0,45.6,4.3,183.6,135.3,Low-Fat,None,Improves Digestion
+Mutton (84g),Meat,339.0,7.6,9.1,10.3,8.6,560.5,15.7,144.6,0.54,9.9,239.7,1.3,200.1,57.3,Diabetic-Friendly,Gluten,Heart Healthy
+Tofu (88g),Soy Product,374.9,2.6,9.3,60.0,8.7,421.0,69.2,329.3,0.18,9.7,196.3,2.3,273.6,55.0,Diabetic-Friendly,Soy,Supports Bone Health
+Carrot (107g),Vegetable,311.7,21.8,25.0,31.6,3.8,130.4,84.1,90.2,2.27,5.2,92.4,0.5,82.5,143.7,High-Protein,Dairy,Improves Digestion
+Pineapple (114g),Fruit,74.2,16.2,17.8,35.3,2.2,500.0,81.2,135.0,2.22,0.5,260.5,0.5,379.7,116.8,High-Protein,Dairy,Energy Boost
+Bitter Gourd (119g),Vegetable,390.6,12.7,18.9,18.1,11.5,386.9,72.4,274.0,0.71,0.8,27.4,2.3,196.3,34.6,Diabetic-Friendly,Dairy,Improves Digestion
+Egg (102g),Protein,585.7,3.7,11.2,34.1,4.0,373.7,24.1,99.2,0.23,3.0,121.4,3.1,103.1,130.5,Vegetarian,Gluten,Energy Boost
+Egg (92g),Protein,462.6,12.7,15.5,30.4,3.8,19.5,85.1,202.2,2.32,2.2,112.3,0.3,200.5,132.9,Low-Fat,Gluten,Energy Boost
+Spinach (86g),Vegetable,269.9,22.1,21.9,46.1,4.5,321.1,51.3,77.9,1.33,0.8,156.2,3.8,115.5,148.4,Diabetic-Friendly,None,Supports Bone Health
+Cabbage (105g),Vegetable,236.5,24.7,16.8,22.6,1.9,482.4,36.1,16.1,0.09,7.2,243.2,2.6,63.8,134.5,Vegetarian,Gluten,Energy Boost
+Egg (90g),Protein,247.9,15.6,25.3,36.0,6.2,408.3,44.1,225.2,1.14,0.3,106.1,0.6,169.5,49.6,Vegan,Soy,Heart Healthy
+Curd (117g),Dairy,355.0,18.2,17.5,11.1,7.6,496.2,75.7,59.1,1.63,0.4,285.0,0.6,12.5,50.5,Vegetarian,Nuts,Supports Bone Health
+Bitter Gourd (112g),Vegetable,469.5,23.1,26.2,44.4,0.9,111.3,18.7,130.0,1.59,5.3,101.0,0.9,365.3,54.6,High-Protein,Gluten,Energy Boost
+Sweet Potato (92g),Root,575.3,7.3,9.0,56.5,11.8,617.2,63.4,276.1,1.17,4.9,172.5,4.7,290.1,46.7,Diabetic-Friendly,Soy,Heart Healthy
+Bottle Gourd (102g),Vegetable,573.7,20.2,8.8,18.0,8.6,277.7,39.8,102.6,1.15,2.1,166.2,4.7,280.0,24.9,Diabetic-Friendly,Soy,Supports Bone Health
+Paneer (83g),Dairy,408.5,13.5,19.2,4.1,5.1,574.2,9.0,308.3,0.01,5.5,279.4,2.1,374.3,132.4,Low-Fat,Dairy,Improves Digestion
+Egg (98g),Protein,394.6,22.7,2.8,34.9,6.5,578.8,84.3,365.3,0.42,8.8,61.0,4.6,398.9,62.6,Low-Fat,Dairy,Improves Digestion
+Chickpeas (80g),Legume,193.1,15.3,27.9,20.8,5.6,513.4,47.2,355.7,0.32,5.1,89.1,4.1,135.6,111.0,High-Protein,Dairy,Boosts Immunity
+Chicken Breast (98g),Meat,349.3,19.1,5.3,51.5,10.8,661.8,46.4,34.7,1.61,1.9,50.8,1.7,103.0,42.8,Vegetarian,Nuts,Improves Digestion
+Chicken Breast (99g),Meat,357.8,14.5,7.9,22.2,3.0,534.6,41.9,63.9,1.65,9.2,267.5,3.9,277.7,97.6,High-Protein,Gluten,Energy Boost
+Milk (Cow) (94g),Dairy,575.3,12.2,13.7,59.3,4.6,561.9,82.2,302.9,1.92,8.3,230.9,3.4,240.3,119.2,Diabetic-Friendly,Nuts,Energy Boost
+Fish (Rohu) (84g),Seafood,552.0,3.2,24.9,54.3,2.6,429.8,14.8,341.8,1.06,6.8,217.9,2.5,360.1,69.6,Vegan,Nuts,Supports Bone Health
+Green Peas (106g),Legume,284.9,1.9,13.9,48.6,8.7,317.4,73.5,298.3,1.39,0.5,109.9,0.4,397.7,140.5,Vegan,Nuts,Boosts Immunity
+Cashews (106g),Nut,124.4,3.8,19.3,44.0,11.6,300.2,80.2,179.4,2.2,3.8,33.3,4.8,350.4,24.3,High-Protein,None,Supports Bone Health
+Soybeans (105g),Legume,326.7,18.3,6.8,1.2,0.5,239.4,60.6,217.8,1.28,8.3,81.8,1.8,113.9,140.9,Vegan,None,Heart Healthy
+Pineapple (81g),Fruit,159.6,2.1,17.9,27.3,8.1,697.9,22.0,17.7,1.05,5.4,228.8,3.9,60.4,149.1,Vegetarian,Soy,Improves Digestion
+Mushroom (118g),Fungus,468.1,20.6,7.2,52.7,11.8,417.5,37.2,110.1,1.34,6.0,223.2,1.0,273.1,85.6,Vegan,Gluten,Heart Healthy
+Rajma (Kidney Beans) (100g),Legume,423.9,10.5,9.1,11.8,6.5,193.5,20.3,343.0,0.35,4.7,26.7,2.1,169.5,81.8,Low-Fat,Dairy,Improves Digestion
+Orange (101g),Fruit,395.1,23.1,25.4,6.5,8.8,153.2,24.2,269.5,1.45,8.7,64.6,3.8,291.1,86.0,Low-Fat,Dairy,Improves Digestion
+Groundnuts (80g),Nut,142.8,5.2,22.3,45.1,9.1,731.6,62.6,281.5,0.95,2.5,103.3,1.5,189.2,99.1,High-Protein,Gluten,Improves Digestion
+Green Peas (111g),Legume,290.3,20.2,21.7,45.9,4.0,163.3,28.2,18.3,2.07,7.4,14.7,2.8,235.7,109.4,High-Protein,Dairy,Supports Bone Health
+Chicken Breast (94g),Meat,240.3,20.9,15.0,39.6,8.3,206.6,73.9,386.6,1.54,5.0,58.8,4.0,71.9,109.4,Low-Fat,Dairy,Energy Boost
+Muskmelon (83g),Fruit,323.9,21.1,2.3,49.3,0.8,6.1,12.4,252.3,0.16,1.6,73.4,2.3,28.9,97.5,Diabetic-Friendly,Nuts,Heart Healthy
+Lentils (Toor Dal) (80g),Legume,328.7,10.6,0.6,43.6,6.5,230.1,45.2,279.1,1.03,9.4,62.0,4.6,212.1,39.9,Diabetic-Friendly,Soy,Improves Digestion
+Mutton (97g),Meat,481.1,2.4,28.8,28.1,3.1,558.1,27.0,331.2,0.19,9.9,198.5,0.3,165.1,59.7,Low-Fat,None,Boosts Immunity
+Mango (85g),Fruit,309.9,11.1,23.6,34.4,10.3,77.2,47.5,17.0,0.51,8.7,267.4,2.4,23.4,15.8,High-Protein,Soy,Energy Boost
+Chickpeas (91g),Legume,558.7,8.2,28.8,35.6,9.1,570.5,35.8,30.8,0.39,2.5,252.0,2.0,359.1,53.1,Vegetarian,None,Energy Boost
+Mutton (83g),Meat,76.7,6.2,2.4,36.7,7.4,476.9,87.2,130.6,1.52,7.9,140.7,1.2,223.4,59.4,Vegetarian,Soy,Heart Healthy
+Chapati (Whole Wheat) (119g),Grain,191.3,6.5,2.3,16.8,4.7,627.3,13.9,155.8,0.87,1.0,283.5,2.3,305.7,19.8,Vegan,Dairy,Heart Healthy
+Beetroot (115g),Vegetable,341.7,10.5,0.9,21.9,1.3,478.8,29.2,154.1,0.7,3.9,34.6,4.5,362.6,146.8,Diabetic-Friendly,Soy,Supports Bone Health
+Fish (Pomfret) (90g),Seafood,100.5,7.9,14.8,4.7,5.3,337.5,43.6,30.8,0.6,2.5,191.3,3.0,82.2,20.5,High-Protein,None,Heart Healthy
+Chicken Breast (119g),Meat,240.3,21.6,13.3,26.4,9.9,521.2,53.5,120.2,1.45,7.0,148.9,1.0,162.3,51.3,Low-Fat,Soy,Supports Bone Health
+Egg (104g),Protein,182.6,19.8,11.0,56.0,2.6,797.8,16.2,307.0,0.06,7.3,283.5,1.1,320.1,125.5,Vegan,Nuts,Heart Healthy
+Carrot (120g),Vegetable,195.6,6.7,4.7,26.0,4.6,359.8,53.8,232.9,1.28,9.2,262.2,2.1,19.5,145.4,Diabetic-Friendly,Soy,Boosts Immunity
+Cabbage (95g),Vegetable,401.4,9.2,19.4,3.6,11.8,542.3,36.0,301.1,2.32,4.4,13.1,1.4,206.7,80.2,Diabetic-Friendly,Soy,Supports Bone Health
+Beetroot (103g),Vegetable,246.9,19.4,17.7,30.5,4.3,20.6,9.4,166.4,2.31,1.2,282.8,0.8,128.2,71.0,Vegetarian,Soy,Heart Healthy
+Mutton (110g),Meat,76.6,18.2,13.6,5.0,0.7,568.9,2.0,137.2,0.26,8.0,279.7,3.7,208.8,85.0,High-Protein,Soy,Heart Healthy
+Cucumber (94g),Vegetable,482.7,15.9,5.7,39.8,4.9,590.2,79.5,179.8,1.03,0.1,72.3,1.5,283.0,120.4,Diabetic-Friendly,None,Energy Boost
+Banana (103g),Fruit,209.1,11.7,7.9,51.9,6.4,511.6,53.7,244.5,1.41,3.5,255.2,3.1,326.4,107.4,High-Protein,Soy,Energy Boost
+Chapati (Whole Wheat) (88g),Grain,201.6,6.3,3.6,23.0,1.9,311.4,53.7,229.9,1.02,4.9,165.8,4.6,372.6,30.1,Vegetarian,Nuts,Improves Digestion
+Carrot (91g),Vegetable,202.5,11.5,1.7,22.2,0.3,110.1,73.4,385.5,1.21,5.0,208.6,2.1,336.8,75.9,Vegan,Soy,Boosts Immunity
+Milk (Cow) (98g),Dairy,39.0,6.0,8.7,47.1,6.9,618.3,44.6,204.3,1.37,2.8,167.5,5.0,219.1,114.7,Low-Fat,Soy,Supports Bone Health
+Brinjal (86g),Vegetable,446.9,16.5,7.5,52.6,0.6,211.0,77.6,34.8,2.08,1.3,245.4,1.1,296.4,104.9,Diabetic-Friendly,Nuts,Supports Bone Health
+Pineapple (88g),Fruit,475.2,20.4,24.2,34.6,6.5,477.9,15.2,391.6,0.7,5.8,286.2,2.6,360.6,123.2,Vegetarian,Nuts,Boosts Immunity
+Almonds (88g),Nut,426.8,3.8,4.5,20.0,3.1,675.0,35.3,56.9,1.52,6.3,118.8,0.5,318.9,116.5,Low-Fat,Soy,Improves Digestion
+Fish (Rohu) (109g),Seafood,571.1,8.5,0.2,46.7,8.8,585.0,41.3,265.7,0.86,0.7,165.0,1.2,174.7,35.7,High-Protein,Gluten,Improves Digestion
+Chicken Breast (115g),Meat,355.2,14.4,14.6,21.3,8.3,39.7,9.0,313.6,1.1,1.3,258.7,2.3,5.3,143.9,Vegetarian,Dairy,Improves Digestion
+Mango (97g),Fruit,74.1,9.3,2.6,40.2,7.9,42.4,56.3,290.4,1.81,4.3,36.4,0.6,89.3,16.3,Diabetic-Friendly,Dairy,Energy Boost
+Beetroot (80g),Vegetable,24.7,8.9,3.7,51.8,8.4,382.7,20.6,35.7,1.93,1.1,116.6,1.6,156.2,122.9,Vegetarian,Dairy,Boosts Immunity
+Rajma (Kidney Beans) (116g),Legume,24.9,16.4,13.3,43.6,7.6,121.9,37.1,274.6,2.06,1.0,39.1,3.8,237.9,60.7,Low-Fat,Gluten,Supports Bone Health
+Paneer (97g),Dairy,393.9,6.6,18.1,43.5,3.6,753.1,2.4,338.8,2.1,2.1,186.0,1.0,159.7,98.7,Vegetarian,Nuts,Heart Healthy
+Tomato (95g),Vegetable,309.8,15.1,15.9,58.7,11.8,747.2,11.9,344.3,1.36,3.7,208.1,3.8,382.0,116.7,Vegan,Soy,Boosts Immunity
+Spinach (96g),Vegetable,145.1,23.1,28.5,24.5,3.6,570.4,69.0,169.4,0.97,6.4,165.9,0.8,38.0,16.5,Vegetarian,Dairy,Energy Boost
+Egg (105g),Protein,360.1,19.2,19.5,38.9,3.9,350.6,85.8,95.5,0.59,9.3,43.6,3.1,26.7,101.6,Vegetarian,None,Boosts Immunity
+Carrot (80g),Vegetable,115.0,23.8,15.7,47.2,8.7,134.4,11.4,312.4,0.65,8.9,233.7,0.2,323.8,44.4,Vegan,Gluten,Energy Boost
+Watermelon (84g),Fruit,307.8,13.0,1.8,51.7,2.2,126.7,69.6,357.7,1.62,1.2,224.8,0.1,344.2,6.8,Vegan,Nuts,Improves Digestion
+Fish (Pomfret) (89g),Seafood,123.8,24.0,1.2,48.4,8.6,524.9,20.2,99.3,2.2,3.3,249.5,2.9,52.2,102.6,Vegan,Dairy,Supports Bone Health
+Rajma (Kidney Beans) (82g),Legume,573.4,2.2,14.0,17.7,10.2,262.5,49.8,3.2,0.48,5.7,98.1,3.2,188.3,90.8,Low-Fat,Dairy,Energy Boost
+Paneer (89g),Dairy,23.7,10.5,7.1,21.4,10.1,701.9,85.6,0.6,1.58,8.5,220.9,0.6,214.3,39.5,Low-Fat,None,Supports Bone Health
+Almonds (85g),Nut,45.5,6.2,25.4,25.4,10.8,367.3,67.3,232.3,1.21,6.4,124.4,3.0,29.6,101.1,Vegetarian,Dairy,Improves Digestion
+Curd (100g),Dairy,557.1,10.1,25.0,20.2,5.5,187.7,84.9,54.4,1.85,1.2,40.6,2.3,129.0,22.5,High-Protein,Dairy,Heart Healthy
+Groundnuts (109g),Nut,173.7,3.4,4.8,41.5,10.0,557.8,3.6,334.4,0.79,1.0,82.0,1.8,207.8,103.2,High-Protein,Dairy,Boosts Immunity
+Bottle Gourd (108g),Vegetable,342.5,14.0,2.9,7.0,9.6,98.0,5.6,312.4,0.53,2.1,126.2,3.5,375.3,17.2,Diabetic-Friendly,Gluten,Boosts Immunity
+Lentils (Toor Dal) (84g),Legume,134.7,16.3,24.3,6.4,10.2,647.3,11.0,376.9,0.12,9.2,135.6,3.6,201.0,60.5,Low-Fat,Dairy,Improves Digestion
+Orange (91g),Fruit,179.5,11.4,4.5,37.2,7.5,518.2,44.9,353.1,1.15,1.0,121.1,2.2,258.8,120.6,Vegetarian,Soy,Boosts Immunity
+Fish (Pomfret) (102g),Seafood,298.2,19.6,10.4,34.4,4.0,217.1,2.3,238.8,0.07,8.1,91.5,4.1,191.3,56.8,Diabetic-Friendly,Dairy,Supports Bone Health
+Cabbage (95g),Vegetable,401.0,7.0,24.5,55.1,0.9,797.1,19.7,338.6,1.91,3.6,253.4,4.2,74.6,90.9,High-Protein,Soy,Boosts Immunity
+Mutton (116g),Meat,346.9,14.3,5.7,59.3,10.6,394.3,27.8,196.2,0.22,2.4,73.5,2.7,5.3,138.1,Vegetarian,Dairy,Improves Digestion
+Banana (100g),Fruit,54.5,4.1,21.2,9.4,1.5,421.5,32.8,29.0,1.69,6.7,179.9,1.7,132.4,146.5,Low-Fat,Nuts,Improves Digestion
+Banana (115g),Fruit,422.3,23.3,23.6,14.2,7.1,141.1,27.6,275.4,0.31,7.3,285.1,4.7,159.7,149.2,Diabetic-Friendly,None,Supports Bone Health
+Guava (100g),Fruit,554.2,24.2,6.7,34.4,11.3,113.4,67.1,95.2,2.36,1.8,266.7,0.5,285.0,97.7,High-Protein,Nuts,Boosts Immunity
+Curd (93g),Dairy,164.7,2.2,7.8,7.4,0.2,309.4,65.9,387.6,2.12,5.0,119.8,2.8,45.1,74.5,Diabetic-Friendly,Dairy,Supports Bone Health
+Beetroot (84g),Vegetable,483.5,1.3,0.7,16.4,1.4,274.1,79.9,64.4,0.18,9.4,293.6,1.8,394.2,134.5,Vegan,Nuts,Supports Bone Health
+Guava (107g),Fruit,111.1,3.0,6.2,12.2,8.4,577.9,65.7,106.1,0.68,2.5,24.4,2.9,336.7,27.3,High-Protein,None,Heart Healthy
+Chapati (Whole Wheat) (98g),Grain,497.9,15.8,14.5,6.7,2.6,510.9,87.9,189.4,0.28,7.9,146.6,4.5,109.7,98.1,Low-Fat,Dairy,Improves Digestion
+Fish (Pomfret) (103g),Seafood,128.2,1.6,13.2,16.5,10.1,451.8,13.6,278.6,0.23,6.7,244.4,2.1,303.8,38.0,Vegan,Nuts,Energy Boost
+Bitter Gourd (114g),Vegetable,418.5,23.4,17.2,14.9,3.7,316.4,76.9,13.9,1.37,5.2,175.7,4.9,63.2,142.6,Low-Fat,Dairy,Supports Bone Health
+Orange (92g),Fruit,93.2,10.9,29.6,26.7,12.0,502.2,75.1,103.2,2.19,9.2,29.4,2.0,162.0,52.3,High-Protein,Soy,Heart Healthy
+Spinach (119g),Vegetable,360.8,19.7,3.5,9.8,6.9,466.6,86.8,40.1,0.25,7.8,237.9,4.4,352.7,132.3,High-Protein,Nuts,Heart Healthy
+Mushroom (118g),Fungus,294.4,4.7,12.1,37.5,8.2,322.0,35.6,351.6,1.66,0.6,147.8,1.4,152.1,54.0,High-Protein,Gluten,Improves Digestion
+Potato (86g),Root,584.0,6.1,9.1,44.9,9.3,257.4,65.6,242.0,0.21,4.5,274.9,2.1,196.4,79.9,High-Protein,None,Energy Boost
+Mango (84g),Fruit,200.5,12.9,4.2,51.2,10.6,24.1,17.3,333.2,2.01,2.6,142.4,4.6,283.3,44.7,Low-Fat,Soy,Heart Healthy
+Watermelon (87g),Fruit,415.1,6.4,14.7,27.3,11.5,380.2,49.6,137.7,2.01,2.7,251.0,0.5,15.8,12.2,Diabetic-Friendly,Dairy,Supports Bone Health
+Muskmelon (94g),Fruit,413.1,7.1,12.3,2.2,9.4,614.3,0.8,364.6,1.55,6.1,12.5,1.3,323.0,49.3,High-Protein,Nuts,Heart Healthy
+Mutton (109g),Meat,166.2,11.9,20.3,49.6,4.9,82.7,46.0,264.9,2.02,3.8,197.7,3.1,122.9,20.7,Vegan,Gluten,Improves Digestion
+Watermelon (100g),Fruit,519.7,6.9,21.4,53.7,3.7,120.8,68.9,359.9,1.93,8.0,184.0,3.3,273.9,109.6,Low-Fat,Gluten,Improves Digestion
+Bitter Gourd (105g),Vegetable,245.2,1.4,21.3,34.8,2.4,581.5,20.0,213.9,1.88,9.1,204.8,2.6,338.9,126.9,Diabetic-Friendly,Dairy,Improves Digestion
+Cabbage (110g),Vegetable,94.2,6.8,24.3,46.0,2.4,544.1,30.2,35.7,0.85,7.5,99.1,4.0,135.9,42.8,High-Protein,Nuts,Boosts Immunity
+Sweet Potato (83g),Root,522.5,14.8,28.3,5.2,10.7,400.9,78.1,152.7,0.72,0.6,257.7,0.8,84.1,64.3,Diabetic-Friendly,Nuts,Supports Bone Health
+Egg (91g),Protein,471.8,12.4,19.0,11.4,7.7,4.8,24.6,304.5,0.4,7.7,152.0,3.8,39.8,94.1,Low-Fat,Nuts,Heart Healthy
+Sweet Potato (104g),Root,22.7,13.6,21.9,57.1,10.7,605.7,47.8,7.2,0.01,7.4,75.6,4.4,128.3,19.9,Diabetic-Friendly,Soy,Improves Digestion
+Mango (84g),Fruit,497.8,7.8,8.8,43.9,7.2,270.9,79.9,398.2,0.82,9.0,114.2,1.0,379.5,138.1,Low-Fat,None,Supports Bone Health
+Milk (Cow) (88g),Dairy,142.5,1.0,15.2,8.3,8.6,633.9,33.8,256.1,1.85,6.3,182.2,0.3,47.7,126.2,Vegan,None,Heart Healthy
+Beetroot (104g),Vegetable,91.7,6.7,21.1,13.1,8.3,8.4,37.9,40.4,1.25,6.3,213.2,2.2,360.0,79.2,Diabetic-Friendly,None,Improves Digestion
+Tomato (86g),Vegetable,308.7,15.4,23.4,50.1,11.7,287.0,36.9,64.1,1.32,9.1,209.6,2.5,97.6,6.8,Vegan,None,Energy Boost
+Potato (89g),Root,570.7,19.6,2.3,43.7,10.9,515.8,41.1,390.9,0.63,0.6,245.8,4.4,341.6,57.2,High-Protein,Nuts,Boosts Immunity
+Cabbage (82g),Vegetable,25.6,3.9,19.5,20.4,10.8,764.1,24.1,293.2,0.89,3.5,43.0,2.1,185.3,126.2,Low-Fat,Nuts,Supports Bone Health
+Tomato (88g),Vegetable,423.8,1.9,28.3,10.4,5.1,473.0,72.2,271.4,0.44,3.9,114.0,0.2,275.4,126.6,Vegetarian,Nuts,Heart Healthy
+Tomato (106g),Vegetable,275.6,2.1,19.7,1.7,10.4,420.3,66.9,289.5,0.54,9.6,263.2,2.6,276.9,94.6,Low-Fat,Dairy,Heart Healthy
+Mutton (104g),Meat,106.2,20.7,26.8,37.2,0.3,747.6,45.5,187.7,1.19,1.7,227.9,1.7,135.7,45.3,Diabetic-Friendly,Dairy,Energy Boost
+Muskmelon (104g),Fruit,253.9,6.3,13.8,48.3,5.5,685.4,40.2,47.5,1.19,6.6,39.8,2.1,225.1,5.0,Vegan,Soy,Energy Boost
+Watermelon (99g),Fruit,536.3,14.3,19.7,27.9,4.2,660.4,73.5,337.7,0.8,7.7,184.0,3.6,148.5,70.6,Vegan,Dairy,Boosts Immunity
+Chicken Breast (102g),Meat,501.3,24.1,8.8,31.8,8.5,37.6,14.8,56.2,1.72,7.2,41.0,3.1,79.1,139.9,Low-Fat,Dairy,Heart Healthy
+Apple (101g),Fruit,82.5,10.7,27.8,50.4,7.1,617.9,40.5,263.4,2.29,1.4,154.7,2.7,24.2,140.6,Diabetic-Friendly,Nuts,Energy Boost
+Banana (117g),Fruit,120.7,20.5,3.2,39.8,7.4,258.2,79.3,167.5,1.46,7.0,82.0,2.0,140.4,47.7,Vegetarian,Dairy,Heart Healthy
+Guava (112g),Fruit,193.4,17.7,25.8,43.0,11.2,506.4,18.1,249.7,0.7,3.5,205.0,4.9,261.8,144.0,Diabetic-Friendly,Soy,Improves Digestion
+Tomato (102g),Vegetable,346.1,14.8,28.3,42.9,8.2,715.2,48.1,351.0,1.01,0.2,40.9,2.0,26.0,13.2,High-Protein,Dairy,Improves Digestion
+Curd (89g),Dairy,506.8,17.4,8.9,45.5,0.6,651.4,9.2,347.2,1.77,8.7,225.3,2.9,98.9,118.7,High-Protein,None,Heart Healthy
+Fish (Pomfret) (106g),Seafood,574.9,24.4,9.4,33.6,0.4,201.8,55.9,312.4,2.09,8.3,274.3,3.6,260.8,114.5,Diabetic-Friendly,Soy,Supports Bone Health
+Apple (98g),Fruit,280.3,24.6,2.3,57.8,8.9,96.4,3.7,111.6,0.63,1.7,255.3,0.1,189.2,140.9,Vegan,Dairy,Improves Digestion
+Guava (83g),Fruit,468.7,15.8,25.3,18.8,9.5,440.6,6.6,283.1,1.26,9.6,161.0,4.0,68.0,83.7,Low-Fat,None,Improves Digestion
+Milk (Cow) (93g),Dairy,404.7,8.6,8.9,57.1,7.5,380.4,50.5,300.9,1.56,1.2,110.3,1.3,258.7,138.2,Vegetarian,None,Improves Digestion
+Fish (Pomfret) (87g),Seafood,243.8,13.7,8.6,54.8,9.9,300.6,72.3,178.2,0.11,9.0,65.8,2.6,379.5,29.3,Diabetic-Friendly,Soy,Boosts Immunity
+Watermelon (84g),Fruit,142.3,15.9,6.5,41.4,10.1,165.3,74.6,351.5,1.78,4.4,246.9,0.5,276.0,8.4,High-Protein,None,Boosts Immunity
+White Rice (83g),Grain,123.2,6.7,2.2,49.5,10.9,326.7,40.6,161.8,0.76,4.0,44.3,0.1,289.5,14.2,Diabetic-Friendly,None,Boosts Immunity
+Mutton (112g),Meat,81.6,19.8,9.1,6.1,9.2,350.7,35.6,264.3,1.14,5.4,49.6,2.0,320.0,84.1,Vegetarian,Gluten,Improves Digestion
+Spinach (115g),Vegetable,527.4,4.0,1.3,34.8,4.9,438.5,7.7,84.0,1.78,7.3,71.4,4.5,341.3,25.7,Vegetarian,Dairy,Energy Boost
+Curd (92g),Dairy,86.5,16.9,17.1,4.2,9.1,792.1,49.4,257.9,0.18,6.7,82.7,1.1,234.3,143.0,High-Protein,Dairy,Supports Bone Health
+Cabbage (98g),Vegetable,379.3,22.6,9.6,27.6,7.5,245.2,52.6,226.2,0.87,3.2,134.2,0.1,102.2,37.1,Low-Fat,Gluten,Improves Digestion
+Carrot (101g),Vegetable,529.2,11.8,10.8,19.0,6.7,141.4,54.6,336.7,2.06,1.5,166.2,1.4,355.1,16.1,Vegan,None,Energy Boost
+Watermelon (81g),Fruit,491.3,14.7,23.1,13.6,0.6,209.2,80.5,215.9,1.57,1.6,123.8,4.5,237.9,129.3,Vegetarian,Nuts,Energy Boost
+Green Peas (85g),Legume,250.1,12.8,19.9,51.0,9.7,491.6,14.9,205.7,1.07,1.9,285.1,3.3,387.3,111.7,Low-Fat,Gluten,Boosts Immunity
+Milk (Cow) (111g),Dairy,154.4,7.0,7.1,40.4,6.3,633.4,34.9,367.2,2.12,0.5,198.1,0.6,387.5,96.9,High-Protein,Gluten,Energy Boost
+Soybeans (116g),Legume,120.8,16.5,11.0,39.5,10.1,413.8,33.9,362.9,1.24,3.6,261.6,2.5,195.4,92.6,Diabetic-Friendly,Dairy,Heart Healthy
+Mango (94g),Fruit,64.7,16.3,6.4,12.0,4.5,574.1,10.6,92.1,1.95,7.2,149.6,2.4,88.2,28.4,Low-Fat,None,Supports Bone Health
+Chickpeas (88g),Legume,352.6,4.4,18.9,3.3,7.0,45.7,23.2,72.0,2.3,6.0,173.4,0.2,289.2,101.0,High-Protein,None,Supports Bone Health
+Beetroot (118g),Vegetable,595.8,21.7,5.2,50.0,7.3,635.9,73.8,72.8,1.58,2.7,220.0,1.8,184.1,90.6,Vegetarian,Nuts,Heart Healthy
+Carrot (86g),Vegetable,29.6,13.3,27.3,41.4,10.0,484.8,16.0,360.6,1.44,8.8,164.1,3.8,41.8,100.6,Diabetic-Friendly,Soy,Boosts Immunity
+Muskmelon (107g),Fruit,322.8,9.6,1.4,32.3,2.9,642.0,71.1,152.5,1.41,7.4,230.8,3.5,43.6,24.4,Low-Fat,Dairy,Boosts Immunity
+Cashews (118g),Nut,528.5,10.5,5.8,42.8,9.5,462.8,10.6,2.9,1.57,6.9,101.6,1.9,66.1,99.5,High-Protein,Gluten,Energy Boost
+Brinjal (116g),Vegetable,232.1,7.3,20.5,45.5,5.1,627.2,43.4,148.1,1.33,2.6,98.9,1.8,283.7,111.7,Vegan,Dairy,Heart Healthy
+Mango (86g),Fruit,144.4,10.3,10.2,33.5,8.4,565.7,14.5,385.8,0.01,1.0,52.1,4.6,177.0,14.3,Vegetarian,Gluten,Boosts Immunity
+Guava (82g),Fruit,440.2,23.3,12.1,39.7,3.6,770.9,5.2,309.4,0.42,5.0,13.1,4.3,372.6,80.1,Vegetarian,None,Energy Boost
+Green Peas (113g),Legume,425.1,15.6,20.3,22.2,7.9,780.5,7.8,110.4,0.96,6.7,127.6,1.1,11.1,107.0,Vegan,Soy,Improves Digestion
+Tofu (117g),Soy Product,221.9,24.1,8.4,36.8,2.5,743.8,51.7,104.4,0.98,1.2,31.0,1.5,379.1,121.4,High-Protein,Soy,Energy Boost
+Curd (108g),Dairy,580.3,14.3,23.1,45.7,11.5,367.6,41.5,234.7,0.07,1.3,29.6,3.2,397.7,103.2,Vegetarian,Gluten,Heart Healthy
+Mutton (113g),Meat,330.7,17.7,8.0,18.0,4.9,599.3,30.8,221.8,0.43,3.2,73.4,2.9,77.2,113.2,Vegetarian,Nuts,Supports Bone Health
+Paneer (95g),Dairy,526.2,5.6,6.2,15.7,7.5,125.6,9.6,368.1,1.62,6.7,188.0,3.8,218.9,11.1,Low-Fat,Gluten,Energy Boost
+Egg (111g),Protein,540.9,22.1,17.3,17.2,2.4,611.6,46.0,159.2,1.8,1.4,162.5,2.2,376.2,9.7,High-Protein,Nuts,Supports Bone Health
+Cucumber (87g),Vegetable,425.0,11.8,20.7,1.7,2.7,465.2,29.3,245.1,0.62,5.5,78.8,2.4,247.2,58.1,Low-Fat,Nuts,Supports Bone Health
+Bitter Gourd (103g),Vegetable,231.7,10.3,13.6,34.7,11.8,549.1,73.3,288.3,1.93,5.6,258.3,1.1,321.0,112.1,Low-Fat,None,Supports Bone Health
+Bitter Gourd (111g),Vegetable,98.0,22.4,19.0,32.5,3.9,389.8,22.6,343.4,0.11,1.1,57.4,1.2,105.4,126.7,Vegan,Nuts,Improves Digestion
+Curd (103g),Dairy,229.0,14.2,24.3,21.3,5.1,281.5,61.2,242.2,1.38,6.5,166.1,4.9,117.4,52.1,Diabetic-Friendly,Nuts,Heart Healthy
+Chapati (Whole Wheat) (104g),Grain,375.9,11.9,28.7,52.2,7.8,742.9,38.0,244.9,0.97,9.1,32.9,1.8,128.8,99.7,High-Protein,Soy,Heart Healthy
+Almonds (108g),Nut,473.0,23.5,22.5,31.7,5.5,134.7,76.9,50.0,0.56,2.6,225.7,3.8,88.2,62.6,Vegan,None,Heart Healthy
+Tofu (83g),Soy Product,35.3,10.2,23.0,5.9,3.3,125.1,58.9,354.2,0.74,2.5,92.4,3.2,56.9,126.6,Vegan,None,Improves Digestion
+Egg (110g),Protein,291.0,21.8,28.1,33.4,1.8,758.8,48.5,236.3,1.1,7.5,264.4,2.2,257.7,82.4,High-Protein,Nuts,Energy Boost
+Milk (Cow) (85g),Dairy,276.3,9.5,7.9,18.9,0.2,652.5,76.3,137.6,1.13,0.2,277.4,4.7,193.4,6.3,Low-Fat,Gluten,Energy Boost
+Milk (Cow) (80g),Dairy,338.0,5.1,26.5,26.8,3.1,572.2,58.1,331.4,0.53,0.9,191.3,2.6,321.0,93.9,High-Protein,Gluten,Energy Boost
+Almonds (106g),Nut,129.0,2.2,4.2,7.5,5.6,362.8,63.0,196.8,0.77,1.6,291.2,0.2,389.1,45.9,Vegetarian,Nuts,Boosts Immunity
+Milk (Cow) (85g),Dairy,107.4,12.6,10.3,19.4,9.6,798.4,41.7,316.6,0.79,8.5,286.0,0.4,311.4,15.4,Low-Fat,Dairy,Supports Bone Health
+Curd (104g),Dairy,500.4,3.5,23.1,15.7,9.3,354.9,66.4,13.4,1.11,7.7,161.1,4.9,191.8,103.8,High-Protein,Gluten,Supports Bone Health
+Watermelon (82g),Fruit,451.9,14.0,3.8,29.4,3.7,289.0,4.7,266.7,2.34,2.4,135.9,0.2,318.8,89.8,Low-Fat,Dairy,Boosts Immunity
+Chickpeas (117g),Legume,474.4,12.1,17.9,22.9,1.3,127.0,8.2,247.5,2.23,10.0,191.3,0.4,259.6,106.7,Vegan,Dairy,Heart Healthy
+Milk (Cow) (100g),Dairy,589.4,19.8,22.7,48.5,5.4,155.2,62.0,143.3,0.32,9.0,150.7,2.2,121.4,106.1,Vegetarian,Soy,Supports Bone Health
+Soybeans (102g),Legume,207.7,12.0,26.0,36.3,10.4,129.1,47.8,179.8,1.97,5.5,141.7,3.9,204.9,111.4,Vegan,Soy,Improves Digestion
+Pineapple (95g),Fruit,206.0,2.1,29.0,49.3,2.4,546.9,68.9,61.7,0.68,4.2,103.4,0.6,265.3,11.3,Vegetarian,Dairy,Boosts Immunity
+Apple (86g),Fruit,301.5,2.9,17.2,50.3,8.0,421.1,63.1,102.4,0.88,6.1,30.6,4.7,87.5,76.3,Vegan,Nuts,Boosts Immunity
+Fish (Rohu) (115g),Seafood,451.2,22.3,24.7,47.9,0.9,493.9,47.6,293.7,2.0,0.9,72.6,2.6,45.0,38.5,Low-Fat,Dairy,Supports Bone Health
+Rajma (Kidney Beans) (95g),Legume,350.6,23.7,16.8,33.9,9.0,613.3,51.9,269.8,1.69,4.3,40.2,4.0,222.2,78.2,Vegetarian,Soy,Energy Boost
+Beetroot (102g),Vegetable,543.4,14.0,29.9,50.8,5.1,507.0,74.4,129.4,0.58,5.5,118.8,2.8,299.1,57.2,Low-Fat,Nuts,Heart Healthy
+Spinach (82g),Vegetable,590.1,15.1,15.6,59.6,3.8,241.0,20.0,342.3,0.05,8.2,210.0,1.5,223.7,85.7,Diabetic-Friendly,Dairy,Boosts Immunity
+Chickpeas (109g),Legume,226.3,3.9,11.1,35.3,2.9,649.0,8.3,159.9,2.2,7.4,219.8,4.0,73.3,124.7,Diabetic-Friendly,None,Energy Boost
+Muskmelon (99g),Fruit,41.7,20.3,11.5,47.0,11.1,268.2,79.2,173.7,2.23,1.3,233.4,3.8,340.5,139.7,Low-Fat,None,Improves Digestion
+Rajma (Kidney Beans) (82g),Legume,205.2,14.3,9.9,42.2,2.0,539.2,89.8,388.4,1.81,5.8,36.1,2.2,315.6,26.5,High-Protein,None,Heart Healthy
+Mushroom (83g),Fungus,337.9,6.9,12.0,26.6,8.4,609.9,43.3,79.2,0.95,5.8,172.7,5.0,212.1,40.1,High-Protein,Nuts,Improves Digestion
+Mushroom (85g),Fungus,85.3,10.6,11.0,12.2,4.3,524.7,69.3,67.7,0.84,8.2,242.8,3.2,179.0,139.0,Vegetarian,Dairy,Improves Digestion
+Cauliflower (85g),Vegetable,85.2,1.8,28.5,55.7,10.5,656.3,1.2,277.5,0.27,4.6,16.6,1.1,217.5,34.6,Diabetic-Friendly,Gluten,Energy Boost
+Sweet Potato (119g),Root,443.4,4.0,21.0,2.1,7.1,531.2,3.9,68.1,0.68,7.9,189.2,0.4,263.6,6.2,Low-Fat,Gluten,Improves Digestion
+Cabbage (81g),Vegetable,189.6,22.1,11.7,58.8,6.2,568.0,81.3,193.9,1.43,1.0,67.7,4.8,226.5,108.3,Vegan,Dairy,Energy Boost
+Groundnuts (101g),Nut,304.2,18.7,0.6,41.4,4.4,242.6,89.6,391.4,0.66,0.7,84.7,2.0,400.0,148.6,Diabetic-Friendly,Gluten,Supports Bone Health
+Cauliflower (101g),Vegetable,540.4,16.6,2.7,23.6,11.5,490.3,56.3,91.0,0.58,1.6,291.5,4.6,135.1,83.6,Vegetarian,Dairy,Energy Boost
+Soybeans (92g),Legume,520.3,8.1,21.2,31.9,1.8,796.6,87.8,58.1,2.24,9.2,102.1,2.8,379.7,22.2,High-Protein,Dairy,Boosts Immunity
+Egg (106g),Protein,577.5,7.9,22.4,49.5,7.7,590.9,13.7,75.2,0.32,0.4,295.9,3.1,244.2,93.8,Diabetic-Friendly,Dairy,Supports Bone Health
+Lentils (Toor Dal) (102g),Legume,66.1,19.6,4.1,50.9,5.7,520.0,16.6,155.0,1.14,1.7,75.6,2.1,387.7,139.2,Low-Fat,Dairy,Supports Bone Health
+Orange (84g),Fruit,122.7,23.9,13.2,37.4,8.3,693.6,79.9,171.0,1.86,6.1,249.1,3.6,160.7,141.2,Diabetic-Friendly,Soy,Energy Boost
+Rajma (Kidney Beans) (82g),Legume,322.0,11.6,24.8,3.5,12.0,415.4,35.6,294.1,1.34,5.2,192.9,0.3,120.0,62.7,High-Protein,Gluten,Heart Healthy
+Mango (107g),Fruit,190.8,23.0,20.7,54.3,5.7,517.2,8.1,200.3,0.43,5.9,269.4,2.8,160.3,51.9,Vegan,Dairy,Heart Healthy
+Papaya (92g),Fruit,531.9,2.7,9.8,39.3,8.6,132.0,66.0,36.5,1.69,6.4,34.7,3.6,292.1,146.4,Diabetic-Friendly,Dairy,Heart Healthy
+Tofu (104g),Soy Product,45.5,4.7,10.1,52.4,10.4,130.5,13.0,307.7,0.12,3.1,221.7,4.8,119.1,31.2,Vegetarian,Dairy,Boosts Immunity
+Pineapple (96g),Fruit,27.1,12.7,15.0,48.6,7.4,395.3,19.5,263.8,1.09,4.5,184.4,0.1,353.5,45.3,Diabetic-Friendly,Dairy,Boosts Immunity
+Banana (89g),Fruit,51.9,9.1,4.4,2.9,7.0,483.0,29.8,35.1,0.26,9.9,56.8,1.5,266.1,106.5,Diabetic-Friendly,Soy,Supports Bone Health
+Cucumber (117g),Vegetable,228.9,1.4,23.1,20.0,10.8,656.4,68.3,337.3,0.16,4.8,45.4,4.3,135.0,65.0,Vegetarian,Dairy,Energy Boost
+Brown Rice (86g),Grain,351.4,24.5,15.9,6.2,8.7,484.2,70.9,282.7,1.02,8.5,85.3,2.9,251.2,139.4,Diabetic-Friendly,Soy,Heart Healthy
+Rajma (Kidney Beans) (120g),Legume,308.7,20.3,26.5,14.7,3.6,155.7,10.6,186.0,1.91,7.4,70.1,3.1,168.8,11.6,High-Protein,Soy,Supports Bone Health
+Spinach (120g),Vegetable,136.7,7.4,23.7,19.2,6.2,259.8,0.6,274.3,0.82,7.3,188.6,0.2,74.4,52.9,High-Protein,Nuts,Heart Healthy
+Chickpeas (88g),Legume,299.3,15.9,26.8,32.7,4.2,627.4,37.3,297.0,2.0,3.1,220.2,1.6,216.7,35.2,High-Protein,Gluten,Boosts Immunity
+Cauliflower (97g),Vegetable,507.6,8.8,11.3,32.5,2.2,484.9,16.9,46.7,1.88,3.2,258.8,3.6,112.2,17.6,Vegetarian,Gluten,Heart Healthy
+Groundnuts (93g),Nut,324.6,4.8,11.3,3.2,2.6,75.0,45.5,319.6,2.17,1.6,108.6,2.5,350.2,50.0,High-Protein,Dairy,Boosts Immunity
+Rajma (Kidney Beans) (88g),Legume,139.0,1.4,11.7,52.0,1.6,249.5,4.0,339.2,2.09,3.4,267.9,0.6,307.6,113.1,Vegan,Soy,Improves Digestion
+Watermelon (93g),Fruit,206.1,5.2,8.4,19.8,5.4,95.0,13.4,109.5,0.04,6.3,159.1,1.1,143.4,51.2,Vegetarian,Gluten,Energy Boost
+Paneer (90g),Dairy,61.3,15.5,10.2,27.2,1.7,377.1,60.8,42.4,0.13,4.3,61.9,3.0,239.1,126.2,Low-Fat,Soy,Improves Digestion
+Groundnuts (101g),Nut,494.1,18.0,20.2,32.5,11.7,604.8,41.9,52.7,1.95,9.2,145.8,2.3,275.4,108.0,Low-Fat,Nuts,Supports Bone Health
+Milk (Cow) (89g),Dairy,519.4,15.6,27.4,24.1,8.5,532.5,71.0,353.0,1.09,0.4,147.8,1.8,187.2,29.8,High-Protein,Soy,Energy Boost
+Carrot (112g),Vegetable,79.7,20.5,23.9,20.2,7.9,634.2,47.9,160.3,0.99,6.2,168.9,4.9,156.6,54.4,Diabetic-Friendly,Nuts,Heart Healthy
+Mushroom (101g),Fungus,335.8,6.3,19.9,5.6,11.2,459.8,43.8,236.9,1.11,5.6,248.4,1.0,382.6,15.1,Vegan,Soy,Heart Healthy
+Egg (111g),Protein,394.1,2.0,6.6,9.2,7.1,604.2,72.9,302.8,1.59,4.6,94.5,3.1,181.6,34.8,High-Protein,Gluten,Energy Boost
+Groundnuts (107g),Nut,436.3,22.9,29.7,35.4,7.4,408.8,76.3,341.0,0.15,9.0,290.7,0.1,226.2,146.9,Vegan,Gluten,Boosts Immunity
+Paneer (107g),Dairy,427.3,10.2,9.6,23.6,4.7,436.5,59.6,189.9,0.45,3.9,278.1,4.2,65.9,149.6,Vegetarian,Dairy,Boosts Immunity
+White Rice (81g),Grain,103.5,22.2,19.8,58.5,1.8,110.6,72.5,344.1,2.14,7.0,279.8,3.2,184.5,66.5,Low-Fat,Nuts,Improves Digestion
+Milk (Cow) (91g),Dairy,266.4,0.7,15.0,44.1,8.6,216.1,83.4,230.5,0.08,0.5,150.1,1.9,234.2,144.5,Vegan,Dairy,Energy Boost
+Almonds (109g),Nut,319.8,13.3,18.3,15.5,7.6,531.3,60.2,273.6,1.29,5.8,187.8,4.5,216.3,6.6,Low-Fat,Soy,Heart Healthy
+Mushroom (101g),Fungus,264.2,24.0,24.0,18.1,0.6,738.4,67.4,290.8,1.35,0.7,147.2,0.9,25.4,148.6,Diabetic-Friendly,None,Improves Digestion
+Potato (85g),Root,93.6,2.4,23.5,15.9,7.5,220.9,23.1,296.6,1.45,9.1,224.3,3.3,151.1,30.4,Vegetarian,Nuts,Supports Bone Health
+Rajma (Kidney Beans) (82g),Legume,218.9,2.6,4.4,56.1,2.0,397.3,89.4,308.1,0.57,4.5,194.9,1.1,295.1,55.0,High-Protein,None,Boosts Immunity
+Mango (109g),Fruit,251.3,7.9,22.4,45.4,6.5,304.5,63.5,189.8,0.35,8.7,13.4,4.6,182.3,103.4,Diabetic-Friendly,None,Boosts Immunity
+Soybeans (120g),Legume,225.2,21.2,18.4,39.5,3.4,217.0,72.2,102.1,1.4,4.7,205.8,1.3,270.4,116.7,Diabetic-Friendly,Gluten,Supports Bone Health
+Egg (115g),Protein,26.1,0.7,2.1,25.3,6.4,548.7,31.6,290.1,0.6,0.4,189.6,0.4,239.7,134.6,Vegetarian,Soy,Boosts Immunity
+Tomato (85g),Vegetable,516.7,3.7,19.7,54.1,6.9,773.8,80.6,278.3,0.61,4.7,281.5,3.2,369.5,45.1,Low-Fat,Gluten,Improves Digestion
+Mango (84g),Fruit,180.8,2.0,11.7,59.8,3.2,650.4,16.0,27.8,2.35,2.1,123.9,3.3,47.8,83.4,Low-Fat,Dairy,Energy Boost
+Muskmelon (86g),Fruit,549.3,18.0,3.2,5.3,6.9,201.2,40.1,358.6,0.36,6.4,280.5,3.4,110.2,106.5,Low-Fat,Soy,Boosts Immunity
+Green Peas (111g),Legume,297.3,10.4,21.9,48.9,1.0,181.5,34.6,275.7,1.87,1.3,165.2,5.0,136.7,48.9,Vegan,None,Improves Digestion
+Soybeans (101g),Legume,66.7,11.8,23.0,39.2,2.3,32.4,34.6,76.4,1.67,9.0,192.9,1.9,38.5,96.8,Vegetarian,Dairy,Boosts Immunity
+Apple (81g),Fruit,437.4,15.0,14.7,4.7,6.6,246.9,48.1,333.7,1.08,10.0,20.7,0.4,316.2,11.2,Vegan,Dairy,Energy Boost
+Cucumber (114g),Vegetable,106.4,14.7,27.8,3.2,1.9,523.4,42.4,367.2,0.11,7.0,47.9,0.9,24.7,49.6,Vegan,Nuts,Energy Boost
+Mango (117g),Fruit,57.1,20.5,3.5,36.1,7.5,51.4,18.2,134.9,2.01,7.4,126.6,0.7,275.2,84.2,High-Protein,Dairy,Boosts Immunity
+Papaya (91g),Fruit,214.6,3.5,4.3,25.5,8.4,443.2,39.5,370.3,0.1,1.1,255.7,3.1,312.2,7.3,Low-Fat,None,Boosts Immunity
+Spinach (91g),Vegetable,557.2,17.8,17.9,17.7,8.4,634.0,42.8,50.8,0.34,2.8,140.6,1.3,73.9,105.3,Diabetic-Friendly,Dairy,Heart Healthy
+Pineapple (85g),Fruit,383.8,19.7,10.5,1.3,3.0,94.9,47.7,38.3,0.87,7.6,166.5,1.2,309.3,100.6,High-Protein,None,Supports Bone Health
+Tomato (89g),Vegetable,417.4,24.2,14.3,11.4,8.1,35.4,58.0,114.0,1.04,3.4,243.5,3.8,22.1,112.4,Diabetic-Friendly,Dairy,Supports Bone Health
+Lentils (Toor Dal) (111g),Legume,318.6,2.2,7.1,27.2,7.0,335.8,67.2,359.3,0.55,1.2,76.1,1.3,168.0,34.0,Vegetarian,None,Heart Healthy
+Papaya (111g),Fruit,51.5,11.2,6.6,37.0,2.3,299.4,41.2,77.7,0.86,2.8,107.4,0.3,229.6,45.7,Vegan,Nuts,Heart Healthy
+Bitter Gourd (90g),Vegetable,461.0,5.9,8.9,10.3,9.6,762.3,81.5,231.2,1.33,2.4,129.4,2.7,345.6,36.4,Low-Fat,Nuts,Improves Digestion
+Spinach (107g),Vegetable,447.0,6.5,9.9,35.2,10.7,473.8,13.4,229.5,0.01,9.8,21.6,2.4,308.6,9.9,Diabetic-Friendly,Nuts,Heart Healthy
+Cabbage (108g),Vegetable,307.3,2.5,22.6,41.9,5.0,175.2,32.3,95.6,2.4,0.3,204.0,0.9,186.4,87.7,Diabetic-Friendly,None,Heart Healthy
+Cucumber (88g),Vegetable,527.0,10.4,23.7,22.9,5.7,507.1,77.4,28.3,2.14,3.4,19.5,2.2,111.6,142.2,Diabetic-Friendly,Soy,Supports Bone Health
+Chapati (Whole Wheat) (119g),Grain,530.9,18.5,1.7,56.8,8.2,710.5,10.0,146.2,1.49,3.7,60.8,2.8,31.5,107.9,Vegetarian,Dairy,Improves Digestion
+Paneer (114g),Dairy,85.9,12.2,28.2,35.2,11.5,168.6,67.1,90.2,0.85,2.7,207.3,1.5,30.0,55.1,Low-Fat,Soy,Energy Boost
+Tomato (110g),Vegetable,431.7,17.1,16.0,18.2,7.5,640.1,85.1,323.5,2.26,0.7,268.7,2.3,36.7,135.2,High-Protein,None,Boosts Immunity
+Mango (97g),Fruit,85.0,4.1,4.6,13.1,11.4,19.1,37.5,273.0,2.24,4.8,131.8,3.7,13.5,32.4,Vegan,Dairy,Energy Boost
+Muskmelon (101g),Fruit,258.8,8.9,19.4,20.3,7.2,557.8,75.8,178.1,0.73,1.4,238.9,0.9,107.7,75.2,High-Protein,None,Supports Bone Health
+Mutton (98g),Meat,284.4,4.6,27.7,43.0,3.6,778.6,75.5,277.1,1.6,1.6,79.0,0.3,130.1,23.3,High-Protein,Gluten,Supports Bone Health
+Orange (115g),Fruit,430.1,16.8,29.3,9.7,5.5,780.4,48.0,48.6,0.06,9.3,232.9,4.7,371.5,27.6,Diabetic-Friendly,Soy,Improves Digestion
+Muskmelon (98g),Fruit,294.9,7.6,28.3,58.9,7.0,118.5,50.9,362.8,1.06,6.9,222.2,4.5,60.1,84.9,High-Protein,None,Heart Healthy
+Pineapple (94g),Fruit,278.7,2.8,1.7,38.8,7.1,178.5,84.2,111.2,0.05,5.4,139.2,3.4,39.5,79.2,Vegetarian,Nuts,Improves Digestion
+Guava (118g),Fruit,316.7,1.9,20.0,24.5,8.6,342.7,34.8,4.9,0.83,3.2,139.2,2.8,90.2,133.7,Low-Fat,Nuts,Improves Digestion
+Mango (107g),Fruit,442.6,10.6,25.1,36.3,1.9,243.3,89.0,210.1,0.81,9.3,181.3,1.9,7.6,97.6,High-Protein,Nuts,Supports Bone Health
+Tofu (109g),Soy Product,431.9,19.0,4.2,12.0,4.7,443.5,3.8,330.5,2.0,3.1,172.2,2.4,15.6,5.4,High-Protein,Gluten,Heart Healthy
+Tomato (98g),Vegetable,262.0,12.6,20.7,15.4,1.6,222.5,89.5,26.7,1.79,5.9,174.0,4.4,253.1,74.0,Vegan,Gluten,Energy Boost
+Mushroom (81g),Fungus,510.3,4.5,1.8,19.9,10.6,109.3,14.7,109.1,1.01,9.1,113.2,1.5,214.2,140.8,Diabetic-Friendly,Dairy,Supports Bone Health
+Cabbage (118g),Vegetable,456.5,13.8,26.2,49.8,8.3,241.6,61.7,275.3,0.23,5.8,248.8,0.2,209.7,59.1,Low-Fat,Nuts,Improves Digestion
+Mango (86g),Fruit,146.4,12.8,25.0,47.9,6.8,552.0,85.7,338.4,1.71,7.1,242.7,2.1,366.8,21.9,Vegetarian,None,Heart Healthy
+Mutton (99g),Meat,420.8,3.9,13.3,59.3,6.4,776.1,15.5,121.9,1.79,1.3,47.3,3.5,276.8,49.6,Vegetarian,Dairy,Boosts Immunity
+Brinjal (87g),Vegetable,65.1,19.5,22.7,3.5,1.5,634.7,46.2,23.7,0.29,2.6,29.2,3.4,303.0,118.4,Diabetic-Friendly,Dairy,Energy Boost
+Apple (91g),Fruit,408.9,1.2,4.5,45.0,3.5,464.2,31.7,342.1,1.87,6.2,156.4,0.4,328.7,115.7,Diabetic-Friendly,Dairy,Supports Bone Health
+Cashews (90g),Nut,543.0,13.7,29.2,6.8,2.7,403.9,63.7,146.6,1.41,4.5,287.7,1.0,145.2,60.0,Vegetarian,Soy,Supports Bone Health
+Bitter Gourd (87g),Vegetable,461.6,8.2,14.0,31.7,6.1,289.6,25.9,288.9,0.2,5.0,121.6,2.3,295.8,104.6,Low-Fat,Dairy,Energy Boost
+Bitter Gourd (98g),Vegetable,591.3,11.0,25.7,53.8,9.7,751.3,33.1,5.1,1.62,6.8,124.9,2.7,272.2,22.3,Low-Fat,Nuts,Energy Boost
+Cabbage (90g),Vegetable,57.5,24.4,10.2,36.1,11.9,99.1,75.4,290.1,0.67,7.2,178.8,1.4,316.8,98.4,Low-Fat,Gluten,Heart Healthy
+Guava (105g),Fruit,592.8,13.0,4.5,27.8,1.6,392.0,20.8,377.0,0.07,7.4,250.8,2.5,15.6,31.0,Diabetic-Friendly,Gluten,Supports Bone Health
+Groundnuts (119g),Nut,381.5,19.1,19.9,31.7,6.0,373.4,26.4,199.2,1.21,5.5,244.7,2.7,12.0,115.8,Low-Fat,None,Heart Healthy
+Beetroot (100g),Vegetable,514.7,11.3,1.2,11.4,8.0,623.7,79.6,65.7,1.03,3.2,122.8,3.8,229.7,76.1,Diabetic-Friendly,Soy,Energy Boost
+Sweet Potato (110g),Root,346.1,4.3,1.8,16.5,7.2,302.9,60.9,306.6,0.68,0.7,181.2,0.7,149.7,122.4,Diabetic-Friendly,None,Improves Digestion
+Fish (Pomfret) (86g),Seafood,268.3,24.8,12.4,4.3,3.1,188.5,28.1,34.0,1.65,8.7,43.2,0.9,217.7,10.4,Low-Fat,Soy,Energy Boost
+Bitter Gourd (97g),Vegetable,31.8,12.0,0.8,19.7,6.9,258.6,8.8,195.3,1.66,2.1,154.1,4.1,268.6,29.2,High-Protein,Gluten,Heart Healthy
+Apple (111g),Fruit,388.6,24.4,2.4,51.2,2.7,212.9,26.8,229.4,1.93,6.3,287.8,3.6,233.4,90.8,High-Protein,None,Energy Boost
+Rajma (Kidney Beans) (110g),Legume,267.7,9.0,2.4,49.6,6.2,240.6,59.7,125.3,0.99,2.6,159.5,3.4,221.3,132.7,Diabetic-Friendly,Dairy,Energy Boost
+Potato (93g),Root,403.3,20.7,28.1,16.8,7.7,647.3,76.7,362.7,2.24,7.3,27.4,1.1,187.7,39.9,High-Protein,Nuts,Heart Healthy
+Egg (84g),Protein,387.7,21.2,8.1,17.9,2.1,549.8,21.3,95.4,0.36,0.4,241.1,1.6,196.7,148.7,Low-Fat,None,Supports Bone Health
+Mango (97g),Fruit,99.1,6.8,24.1,39.9,2.3,682.2,86.7,194.3,0.05,8.6,34.3,3.0,347.5,135.6,Low-Fat,Gluten,Boosts Immunity
+Bottle Gourd (88g),Vegetable,156.9,14.5,15.1,8.1,8.0,464.8,69.8,210.1,1.19,1.0,183.9,3.9,128.8,125.7,Low-Fat,Dairy,Heart Healthy
+Orange (89g),Fruit,82.0,5.7,8.3,25.1,10.4,45.7,48.0,279.8,0.27,5.5,147.7,1.3,114.7,118.7,Vegetarian,Gluten,Heart Healthy
+Fish (Rohu) (99g),Seafood,32.2,24.2,18.2,50.6,8.0,752.7,62.2,315.5,0.58,5.6,99.7,4.8,148.3,122.8,Vegan,Soy,Supports Bone Health
+Beetroot (104g),Vegetable,24.6,24.0,27.8,55.2,3.8,749.1,68.1,119.0,2.06,1.7,137.3,1.7,325.8,98.4,Vegan,Gluten,Boosts Immunity
+Potato (110g),Root,447.4,23.2,10.0,25.9,11.0,81.2,14.4,104.4,0.16,4.3,221.5,2.8,134.1,105.8,Vegan,Dairy,Heart Healthy
+Muskmelon (88g),Fruit,21.8,5.4,9.2,35.0,1.5,200.4,64.2,307.0,1.56,1.4,182.3,2.1,376.1,70.5,Vegetarian,Gluten,Supports Bone Health
+Papaya (100g),Fruit,483.7,5.4,12.5,11.7,10.5,755.9,79.6,89.8,2.28,9.2,197.7,3.2,363.2,146.2,Vegetarian,Gluten,Supports Bone Health
+Brown Rice (105g),Grain,378.4,15.2,4.6,57.5,2.2,454.2,1.3,210.3,1.86,9.3,249.9,2.5,93.7,34.5,High-Protein,Gluten,Heart Healthy
+Fish (Pomfret) (88g),Seafood,270.2,5.6,6.5,49.6,8.8,152.3,16.2,317.0,0.07,9.8,78.3,2.3,103.1,89.5,Low-Fat,None,Boosts Immunity
+Sweet Potato (88g),Root,525.4,24.4,12.0,13.5,4.7,339.2,53.7,29.2,1.34,0.6,280.0,2.4,144.9,92.9,Diabetic-Friendly,None,Boosts Immunity
+Curd (112g),Dairy,379.4,7.9,11.9,22.9,11.6,448.1,52.2,104.1,1.21,9.3,264.6,0.7,130.3,81.9,Vegetarian,Gluten,Boosts Immunity
+Egg (82g),Protein,587.5,12.7,29.2,17.6,4.5,344.6,81.3,105.3,1.99,9.3,159.9,2.2,70.2,111.8,Low-Fat,Dairy,Energy Boost
+Watermelon (108g),Fruit,50.9,4.1,7.0,3.1,3.3,565.1,39.3,398.1,2.23,0.5,113.4,3.6,196.7,76.5,Vegetarian,None,Improves Digestion
+Chapati (Whole Wheat) (93g),Grain,523.5,4.9,5.1,31.0,3.4,712.8,52.7,233.4,2.33,5.3,175.5,2.1,35.4,116.4,Vegan,Gluten,Boosts Immunity
+Cashews (87g),Nut,248.6,15.0,28.5,50.4,2.0,65.8,74.8,263.8,1.09,9.6,182.3,0.1,388.1,100.1,Low-Fat,Gluten,Energy Boost
+Carrot (93g),Vegetable,520.7,20.1,8.6,48.1,9.0,438.2,54.2,37.0,0.61,2.5,233.6,2.1,13.1,35.2,Low-Fat,Nuts,Improves Digestion
+Muskmelon (89g),Fruit,89.9,12.5,13.0,48.6,3.9,548.3,11.8,266.2,2.0,5.2,152.0,4.4,193.2,86.6,Low-Fat,None,Heart Healthy
+Fish (Rohu) (119g),Seafood,128.1,16.0,2.9,31.3,11.7,541.5,58.3,285.5,2.23,5.3,197.7,0.5,189.9,16.5,Low-Fat,Gluten,Supports Bone Health
+Carrot (99g),Vegetable,508.1,13.3,8.9,3.8,1.1,37.0,9.7,170.0,0.23,6.6,174.9,1.3,105.7,16.9,Diabetic-Friendly,None,Boosts Immunity
+Cucumber (91g),Vegetable,476.0,21.2,1.5,25.6,8.5,251.8,65.2,302.9,1.08,8.1,109.0,4.6,325.0,35.6,Vegan,Soy,Improves Digestion
+Cabbage (107g),Vegetable,329.9,0.6,3.6,11.1,5.8,553.8,78.2,386.3,1.44,4.9,189.4,4.9,147.5,102.7,Low-Fat,Gluten,Boosts Immunity
+Carrot (88g),Vegetable,28.0,3.2,0.6,58.3,10.3,168.2,58.4,259.9,1.05,6.3,239.1,1.0,123.9,72.2,Low-Fat,Nuts,Boosts Immunity
+Tomato (90g),Vegetable,543.4,18.6,13.4,29.6,0.4,360.2,21.8,117.9,1.99,4.0,106.8,0.6,339.8,67.6,Low-Fat,Nuts,Energy Boost
+Guava (115g),Fruit,599.4,1.4,12.1,31.3,8.8,748.3,81.5,347.1,0.56,0.7,15.5,2.9,223.5,43.8,Low-Fat,Nuts,Boosts Immunity
+Potato (119g),Root,564.6,9.0,21.0,2.2,3.6,154.6,30.9,92.8,0.53,9.1,108.4,3.1,337.8,100.3,Vegetarian,Gluten,Heart Healthy
+Bitter Gourd (103g),Vegetable,481.7,20.1,25.4,37.7,3.5,599.7,60.0,51.6,0.48,6.1,39.3,2.1,397.5,49.0,Vegetarian,Soy,Boosts Immunity
+Lentils (Toor Dal) (102g),Legume,530.9,9.2,4.8,49.8,10.8,26.5,5.7,172.2,1.48,1.3,75.0,1.4,139.4,56.5,Vegan,Soy,Improves Digestion
+Cauliflower (112g),Vegetable,370.5,3.1,1.6,56.8,9.6,770.2,68.0,389.9,1.88,6.1,258.9,0.6,227.2,78.6,Vegetarian,None,Supports Bone Health
+Fish (Rohu) (90g),Seafood,442.4,17.9,22.9,30.4,10.5,124.3,32.7,327.7,0.3,2.1,291.2,3.9,7.6,126.0,Low-Fat,Gluten,Improves Digestion
+Green Peas (90g),Legume,69.4,9.6,22.7,22.3,8.0,122.1,67.8,168.7,0.55,8.0,129.9,2.1,186.2,128.6,High-Protein,None,Heart Healthy
+Cauliflower (80g),Vegetable,436.2,13.2,2.2,21.0,4.9,618.1,39.1,157.3,0.09,9.2,53.8,2.9,391.2,147.1,Diabetic-Friendly,Gluten,Heart Healthy
+Bottle Gourd (115g),Vegetable,526.7,18.2,9.5,21.3,10.0,720.3,54.9,58.7,0.97,6.5,267.4,3.2,249.2,69.1,High-Protein,Nuts,Supports Bone Health
+Groundnuts (85g),Nut,41.4,8.7,21.8,44.7,1.7,793.5,25.6,37.1,1.32,5.3,229.5,0.9,16.0,120.5,Diabetic-Friendly,Gluten,Supports Bone Health
+Groundnuts (107g),Nut,592.4,3.2,1.9,23.0,7.6,284.2,4.3,260.4,0.3,3.0,223.7,2.3,393.3,121.8,Diabetic-Friendly,Soy,Energy Boost
+Guava (94g),Fruit,223.2,7.5,23.6,43.2,8.1,571.8,46.8,99.1,0.79,5.9,248.6,1.9,43.7,108.2,Low-Fat,None,Boosts Immunity
+Brown Rice (107g),Grain,535.3,12.2,13.4,22.8,6.4,471.0,46.7,157.9,0.63,5.0,132.8,2.3,372.8,76.0,Low-Fat,Dairy,Supports Bone Health
+Green Peas (88g),Legume,301.2,11.7,29.0,31.3,6.4,555.9,41.0,13.0,0.38,5.6,277.3,0.7,341.7,21.0,High-Protein,Soy,Improves Digestion
+Chickpeas (113g),Legume,108.9,9.6,29.7,18.9,5.9,633.2,12.8,235.8,0.12,9.0,267.8,1.2,328.6,75.9,Vegan,Soy,Improves Digestion
+White Rice (82g),Grain,262.2,14.5,17.0,54.1,9.4,380.7,64.8,242.3,1.83,5.1,143.7,2.3,182.4,130.6,High-Protein,None,Energy Boost
+Pineapple (106g),Fruit,244.6,22.6,10.2,3.7,8.1,355.0,25.0,35.4,0.4,0.3,192.7,3.9,127.0,98.5,Diabetic-Friendly,None,Supports Bone Health
+Pineapple (114g),Fruit,354.6,1.8,17.2,12.2,5.8,717.6,10.8,374.5,0.43,0.3,238.2,1.3,283.7,133.7,Low-Fat,None,Energy Boost
+Guava (100g),Fruit,253.0,1.6,25.9,2.4,5.4,332.5,77.4,127.0,0.62,1.2,38.8,0.9,61.9,42.1,Vegan,Dairy,Improves Digestion
+Bitter Gourd (90g),Vegetable,54.2,24.0,5.5,43.1,3.7,79.9,12.8,357.2,0.62,9.4,270.9,0.4,99.7,91.6,Vegetarian,Nuts,Energy Boost
+Green Peas (104g),Legume,570.6,7.1,9.6,33.6,1.0,24.1,57.0,365.5,0.04,5.6,180.0,0.6,306.4,99.5,Vegetarian,Gluten,Energy Boost
+Bitter Gourd (108g),Vegetable,68.7,16.1,6.2,58.1,4.6,788.3,70.4,215.0,1.02,9.1,141.0,0.1,188.5,125.3,High-Protein,Dairy,Boosts Immunity
+Brown Rice (110g),Grain,178.5,6.6,20.4,60.0,10.1,171.0,75.7,112.5,0.39,5.4,30.3,0.5,280.9,125.4,Diabetic-Friendly,Gluten,Heart Healthy
+Orange (119g),Fruit,312.8,20.2,26.5,56.8,7.7,783.7,63.7,109.2,1.59,3.3,71.1,4.8,134.7,137.5,Vegetarian,None,Energy Boost
+Sweet Potato (80g),Root,542.8,17.0,12.5,53.8,8.5,610.2,48.4,314.9,1.56,0.9,19.0,4.2,270.3,102.5,High-Protein,Nuts,Energy Boost
+Mutton (104g),Meat,122.8,19.3,20.9,1.5,5.7,749.1,40.0,88.6,0.05,2.9,277.2,1.9,40.5,93.9,High-Protein,Dairy,Supports Bone Health
+Potato (103g),Root,41.3,12.6,21.2,36.8,0.3,787.4,57.5,44.4,0.67,5.1,59.4,1.0,296.8,102.5,Diabetic-Friendly,Soy,Supports Bone Health
+White Rice (117g),Grain,94.4,2.1,7.9,34.6,2.9,418.9,70.4,76.7,1.63,9.9,211.0,2.7,104.9,86.2,Low-Fat,None,Heart Healthy
+Muskmelon (83g),Fruit,515.2,8.4,25.3,25.0,1.6,415.1,44.6,206.9,0.1,7.2,23.6,4.6,215.3,50.9,Low-Fat,Dairy,Improves Digestion
+Chapati (Whole Wheat) (116g),Grain,488.5,24.8,6.8,41.7,11.5,733.7,17.7,131.7,0.15,6.3,18.1,2.2,14.5,120.6,High-Protein,Gluten,Supports Bone Health
+Cabbage (110g),Vegetable,158.2,8.8,1.7,20.7,9.6,754.9,69.8,247.8,1.83,6.3,177.9,0.5,29.0,9.8,High-Protein,None,Supports Bone Health
+Brown Rice (108g),Grain,51.8,15.5,13.0,7.0,0.9,42.7,76.5,160.7,1.48,4.2,260.7,4.0,251.5,70.7,Low-Fat,Nuts,Energy Boost
+Pineapple (86g),Fruit,217.0,23.5,23.5,27.8,4.1,154.8,9.2,238.1,0.16,7.9,66.1,2.9,256.8,42.2,Low-Fat,Nuts,Energy Boost
+Beetroot (91g),Vegetable,161.0,20.0,1.9,19.4,5.3,767.8,67.9,124.5,2.12,7.8,52.7,1.6,140.4,58.5,Vegan,Soy,Energy Boost
+Cauliflower (83g),Vegetable,157.7,20.6,16.8,4.2,4.3,781.2,57.6,80.5,0.16,2.0,148.0,3.5,189.6,105.4,Diabetic-Friendly,Soy,Improves Digestion
+Pineapple (99g),Fruit,262.8,4.5,13.7,47.6,0.7,176.3,0.3,89.2,0.55,6.3,79.3,3.7,381.3,53.1,Low-Fat,Dairy,Heart Healthy
+Banana (80g),Fruit,230.4,2.3,1.0,7.8,3.6,156.3,52.7,306.2,0.11,0.4,67.4,1.0,354.7,109.2,High-Protein,Soy,Supports Bone Health
+Banana (92g),Fruit,32.5,21.2,27.3,2.2,8.2,303.8,70.9,44.4,2.25,3.1,79.6,4.1,266.1,141.5,Diabetic-Friendly,Nuts,Boosts Immunity
+Tomato (89g),Vegetable,532.0,3.7,5.8,32.4,8.4,255.0,38.7,254.5,2.21,7.7,180.3,4.3,121.2,26.5,Vegetarian,None,Improves Digestion
+Carrot (112g),Vegetable,581.7,22.2,6.4,5.8,5.8,531.1,5.8,203.4,1.8,6.5,157.7,2.5,188.4,51.7,High-Protein,Soy,Heart Healthy
+Potato (110g),Root,175.6,10.3,27.6,35.5,0.6,176.4,18.3,345.3,0.95,3.1,267.7,2.9,374.5,59.2,Diabetic-Friendly,None,Supports Bone Health
+Chapati (Whole Wheat) (98g),Grain,277.8,9.1,17.6,28.4,7.5,341.5,42.1,163.6,1.93,3.2,120.9,1.0,97.3,98.6,High-Protein,None,Improves Digestion
+Green Peas (112g),Legume,337.1,2.4,8.4,14.4,1.6,288.8,49.1,133.5,1.62,2.6,226.1,3.9,339.0,32.6,Diabetic-Friendly,Dairy,Energy Boost
+Curd (80g),Dairy,466.6,7.4,10.5,59.8,11.4,657.7,68.2,4.8,1.57,9.9,285.9,4.3,94.9,109.9,Vegetarian,Nuts,Supports Bone Health
+Rajma (Kidney Beans) (117g),Legume,475.9,19.1,21.7,28.2,9.5,251.1,16.9,308.1,1.68,2.2,140.5,2.8,153.0,88.7,Vegetarian,Gluten,Boosts Immunity
+Potato (102g),Root,217.1,10.8,20.6,24.8,9.4,430.5,29.3,9.3,1.88,9.2,54.6,4.8,135.4,96.3,Diabetic-Friendly,Soy,Energy Boost
+Bottle Gourd (104g),Vegetable,138.4,10.1,16.1,12.1,1.5,456.0,40.6,357.9,0.22,1.1,170.3,0.3,277.2,75.8,Vegetarian,Dairy,Boosts Immunity
+Fish (Pomfret) (98g),Seafood,139.4,7.6,15.8,27.8,4.6,9.8,29.4,363.9,0.94,9.9,47.4,2.2,298.5,61.4,Vegetarian,Dairy,Supports Bone Health
+Groundnuts (107g),Nut,494.4,16.8,4.8,34.9,3.9,163.2,64.5,183.6,0.48,9.9,139.3,4.1,243.9,40.8,High-Protein,Soy,Heart Healthy
+Cucumber (109g),Vegetable,354.2,18.6,8.7,53.0,5.6,560.6,64.0,119.0,1.47,8.1,60.8,1.3,360.5,111.3,Low-Fat,Nuts,Supports Bone Health
+Mushroom (86g),Fungus,248.3,23.7,7.3,52.4,3.4,502.8,26.3,366.5,1.68,7.3,73.0,2.5,397.0,85.2,High-Protein,None,Boosts Immunity
+Green Peas (100g),Legume,257.9,4.5,6.3,3.6,0.5,511.5,60.8,184.8,0.82,4.1,66.4,0.3,104.0,107.8,Vegetarian,Gluten,Heart Healthy
+Potato (109g),Root,59.6,13.9,7.3,57.1,1.9,656.5,75.7,68.2,0.04,1.1,95.3,2.7,159.4,16.2,Vegan,Gluten,Supports Bone Health
+Beetroot (102g),Vegetable,123.2,18.0,26.8,32.4,5.4,39.2,57.1,209.1,1.59,6.6,39.8,3.5,180.4,91.7,Vegan,Nuts,Supports Bone Health
+Paneer (103g),Dairy,547.1,5.4,0.6,2.6,0.4,656.6,61.2,25.3,2.3,1.1,252.3,3.4,291.0,11.4,Diabetic-Friendly,None,Improves Digestion
+Egg (115g),Protein,383.5,15.8,28.0,24.3,5.2,186.7,9.5,129.3,0.04,6.6,13.5,1.1,91.9,100.4,High-Protein,Soy,Improves Digestion
+Chickpeas (84g),Legume,533.6,10.6,23.0,30.5,11.9,570.3,71.2,368.9,1.37,2.6,37.5,1.7,254.2,61.3,Vegetarian,Gluten,Supports Bone Health
+Watermelon (100g),Fruit,587.3,16.8,2.1,2.0,11.0,359.7,46.0,296.7,1.21,7.1,13.9,0.2,304.8,23.0,Vegetarian,Nuts,Supports Bone Health
+Pineapple (85g),Fruit,54.8,9.7,9.0,9.9,2.6,31.3,83.1,239.2,2.27,7.4,105.3,1.5,259.2,115.3,Diabetic-Friendly,Nuts,Improves Digestion
+Lentils (Toor Dal) (94g),Legume,511.2,8.6,7.3,32.8,10.9,532.3,22.4,274.9,1.73,6.1,120.6,1.7,179.7,5.9,Low-Fat,None,Supports Bone Health
+Brown Rice (120g),Grain,595.4,23.5,3.9,11.2,6.7,636.4,18.4,203.0,1.02,4.7,57.6,1.1,172.5,92.8,High-Protein,Gluten,Energy Boost
+Beetroot (120g),Vegetable,136.8,21.6,14.5,57.1,4.4,302.8,42.4,169.1,1.46,4.4,55.2,4.8,195.4,115.5,Low-Fat,None,Improves Digestion
+Guava (114g),Fruit,108.6,18.3,7.8,28.4,5.6,300.7,54.5,28.8,0.33,4.7,54.9,1.0,10.1,77.6,High-Protein,Nuts,Heart Healthy
+Bitter Gourd (105g),Vegetable,582.9,9.6,14.7,38.8,7.1,327.6,3.5,368.6,0.92,5.7,66.3,2.2,105.8,137.4,High-Protein,Soy,Heart Healthy
+Watermelon (103g),Fruit,423.9,16.4,27.8,44.4,3.1,28.6,73.2,252.4,1.62,7.0,197.1,1.4,184.9,103.8,High-Protein,Dairy,Energy Boost
+Papaya (90g),Fruit,27.2,19.4,19.4,55.1,4.9,469.3,81.1,207.4,0.45,4.3,250.6,1.3,124.4,145.3,Low-Fat,Soy,Improves Digestion
+Bitter Gourd (85g),Vegetable,83.4,14.5,23.9,49.0,3.4,168.4,67.3,279.6,0.02,1.8,152.6,0.6,310.6,65.6,Low-Fat,Gluten,Heart Healthy
+Mango (91g),Fruit,237.3,17.7,6.0,11.7,11.4,361.1,73.3,74.3,0.14,1.9,230.2,1.4,361.4,64.3,Diabetic-Friendly,None,Supports Bone Health
+Chapati (Whole Wheat) (98g),Grain,69.7,3.6,2.0,2.8,3.0,388.7,68.4,3.8,0.64,9.6,202.9,4.0,21.5,35.6,Vegan,Nuts,Energy Boost
+Rajma (Kidney Beans) (97g),Legume,560.6,12.1,10.2,26.3,4.6,712.2,90.0,326.7,2.26,6.7,119.7,0.4,145.6,52.9,Vegan,None,Heart Healthy
+Bottle Gourd (88g),Vegetable,34.9,3.5,16.0,57.1,9.1,199.6,40.7,274.5,2.09,5.2,201.5,0.1,257.0,141.6,High-Protein,None,Improves Digestion
+Chickpeas (100g),Legume,413.2,6.2,14.6,44.6,9.6,279.3,84.5,376.6,1.14,6.6,212.9,0.6,157.0,93.0,Vegetarian,Soy,Energy Boost
+Green Peas (82g),Legume,94.2,20.0,9.1,40.7,6.7,700.0,15.1,178.5,0.28,6.7,79.9,1.1,302.5,100.7,Vegan,None,Heart Healthy
+Lentils (Toor Dal) (90g),Legume,558.8,8.5,11.6,17.5,8.7,533.1,85.6,268.2,1.6,9.2,193.7,2.5,319.2,53.3,Vegetarian,Soy,Energy Boost
+White Rice (101g),Grain,238.7,18.1,22.1,23.5,7.8,450.0,77.1,323.4,0.54,1.2,35.4,0.5,297.5,140.9,Vegan,Soy,Improves Digestion
+Carrot (100g),Vegetable,573.4,14.6,0.2,4.7,6.5,677.8,88.2,127.9,0.88,6.8,241.0,2.6,242.6,37.2,Low-Fat,None,Energy Boost
+Cucumber (100g),Vegetable,103.9,23.6,25.1,30.5,5.6,481.6,13.1,266.1,1.92,7.1,183.7,1.6,396.2,22.9,Diabetic-Friendly,Nuts,Supports Bone Health
+Potato (98g),Root,428.4,9.7,29.4,20.7,10.0,169.3,65.9,324.2,1.68,0.6,261.0,1.0,197.6,61.8,Vegetarian,None,Energy Boost
+Bottle Gourd (101g),Vegetable,265.0,12.1,10.5,24.1,1.0,581.7,25.4,369.2,1.68,5.5,38.2,1.7,317.6,130.5,Vegan,Gluten,Heart Healthy
+Muskmelon (90g),Fruit,354.8,11.3,14.5,53.9,2.7,643.7,17.6,260.5,0.87,8.6,39.6,3.9,344.1,59.6,Low-Fat,Dairy,Boosts Immunity
+Cabbage (102g),Vegetable,585.0,4.9,1.7,58.8,7.9,475.1,87.3,250.8,0.97,0.4,79.8,2.5,276.8,143.4,Low-Fat,None,Heart Healthy
+Muskmelon (104g),Fruit,179.6,16.5,11.1,8.1,1.2,391.9,60.2,203.9,0.06,5.8,176.1,1.4,299.4,120.2,Vegetarian,Nuts,Heart Healthy
+Muskmelon (107g),Fruit,193.1,3.6,9.8,43.1,10.4,430.5,36.5,280.3,0.95,8.2,237.2,2.7,30.3,126.4,Diabetic-Friendly,None,Supports Bone Health
+Tomato (91g),Vegetable,520.0,17.5,0.3,27.4,3.9,32.3,51.8,261.1,0.21,2.6,228.4,0.5,54.3,48.3,Diabetic-Friendly,Dairy,Heart Healthy
+Spinach (95g),Vegetable,194.3,23.7,15.6,47.2,8.0,356.5,51.9,278.0,1.25,9.9,112.1,2.7,87.9,19.4,Vegan,Dairy,Boosts Immunity
+Apple (89g),Fruit,193.8,20.9,28.7,36.5,2.7,287.9,11.6,248.9,0.18,2.6,120.7,4.5,163.0,17.1,High-Protein,Nuts,Supports Bone Health
+Soybeans (93g),Legume,60.9,18.5,29.9,42.1,2.5,298.3,59.2,328.2,1.45,4.3,54.5,5.0,176.3,8.8,Diabetic-Friendly,Dairy,Boosts Immunity
+Almonds (87g),Nut,328.3,17.3,12.3,20.4,1.2,727.5,70.0,58.5,1.92,2.8,38.4,4.9,92.8,143.0,Vegan,Dairy,Energy Boost
+Groundnuts (117g),Nut,496.4,12.5,15.9,42.3,10.4,441.7,54.7,358.6,0.41,9.5,123.0,1.8,297.8,145.4,Diabetic-Friendly,Soy,Energy Boost
+Bottle Gourd (110g),Vegetable,363.5,6.8,20.6,43.1,8.0,115.0,51.1,106.9,2.2,6.4,117.3,3.9,272.9,65.6,Low-Fat,Dairy,Heart Healthy
+Mutton (109g),Meat,311.3,7.3,12.9,56.6,10.6,651.4,27.5,343.2,2.27,4.1,100.7,0.5,36.4,110.8,Vegan,Dairy,Energy Boost
+Brown Rice (85g),Grain,451.2,14.1,14.8,52.6,11.6,339.8,45.8,292.3,1.15,5.2,299.4,4.5,280.7,63.8,Diabetic-Friendly,Dairy,Boosts Immunity
+Brinjal (114g),Vegetable,454.8,6.5,22.2,57.1,9.9,704.4,47.5,243.7,1.46,9.7,205.6,4.4,211.8,37.6,Vegan,Gluten,Supports Bone Health
+Green Peas (102g),Legume,572.4,10.9,11.4,23.0,1.5,731.3,22.5,215.6,1.84,1.3,96.8,1.5,89.2,112.0,Diabetic-Friendly,Nuts,Supports Bone Health
+Groundnuts (112g),Nut,498.9,1.4,13.9,37.4,6.0,285.2,55.4,131.4,0.85,0.2,268.2,1.0,145.0,19.7,Low-Fat,Dairy,Boosts Immunity
+Rajma (Kidney Beans) (112g),Legume,541.1,10.6,27.4,1.4,9.3,200.9,42.4,149.7,0.87,8.9,165.6,1.4,395.8,100.2,Low-Fat,Dairy,Supports Bone Health
+Mutton (107g),Meat,23.4,22.1,21.3,7.5,3.6,107.8,37.9,132.5,0.08,6.7,285.0,4.8,393.3,22.2,Low-Fat,Soy,Heart Healthy
+Carrot (100g),Vegetable,455.6,19.6,12.1,43.8,9.0,660.7,11.8,383.1,1.9,1.3,109.8,0.2,275.4,12.5,High-Protein,Nuts,Energy Boost
+Spinach (107g),Vegetable,298.5,7.4,2.6,26.3,7.5,583.7,16.8,112.5,0.28,2.7,213.3,3.4,174.5,73.7,Vegan,Soy,Energy Boost
+Banana (92g),Fruit,595.7,15.0,19.1,14.5,1.8,31.7,89.1,371.6,1.02,6.2,36.4,0.3,165.9,49.4,Vegetarian,Dairy,Improves Digestion
+Brinjal (110g),Vegetable,55.6,11.0,1.6,7.5,4.5,754.5,64.0,98.8,2.15,1.9,10.2,3.3,132.0,46.4,High-Protein,Soy,Boosts Immunity
+Brinjal (91g),Vegetable,166.3,12.5,10.1,7.6,8.1,546.7,69.3,52.1,0.87,8.1,225.5,3.0,243.9,39.5,High-Protein,Dairy,Energy Boost
+Fish (Pomfret) (85g),Seafood,534.6,3.7,22.3,8.1,7.1,729.8,58.9,76.2,1.69,9.3,31.7,2.8,140.4,110.2,Vegetarian,Soy,Supports Bone Health
+Chickpeas (88g),Legume,131.2,14.0,7.7,52.7,10.3,725.5,87.8,358.0,1.08,7.2,274.1,0.4,170.5,140.0,Diabetic-Friendly,None,Supports Bone Health
+Guava (97g),Fruit,424.1,3.7,1.5,34.4,9.6,555.3,66.7,159.0,1.64,8.7,291.7,0.9,301.5,60.7,Low-Fat,Nuts,Energy Boost
+Almonds (93g),Nut,126.8,4.4,6.6,42.1,10.6,632.7,41.0,283.1,1.26,3.1,73.9,3.6,223.1,29.8,Vegan,Soy,Supports Bone Health
+Cashews (82g),Nut,391.0,23.6,8.4,8.8,10.5,42.2,88.2,395.8,0.5,1.3,198.1,3.2,389.0,52.1,Diabetic-Friendly,Gluten,Supports Bone Health
+Bitter Gourd (119g),Vegetable,191.0,24.6,18.8,1.6,4.4,584.7,25.2,102.4,0.04,6.6,261.7,4.7,235.4,109.8,Low-Fat,Gluten,Energy Boost
+Tofu (93g),Soy Product,493.8,5.9,8.1,35.3,9.7,602.6,14.0,92.7,1.74,3.7,271.6,0.6,76.7,31.8,Vegetarian,Dairy,Energy Boost
+Potato (91g),Root,395.6,1.0,5.0,11.5,4.9,486.6,6.3,28.8,0.59,9.1,291.4,0.6,213.1,110.4,Vegan,Soy,Boosts Immunity
+Fish (Pomfret) (104g),Seafood,32.0,20.8,22.9,39.0,0.7,199.4,7.5,57.1,1.51,0.2,290.2,4.8,47.0,111.7,High-Protein,None,Supports Bone Health
+Carrot (110g),Vegetable,460.6,22.4,24.5,19.1,5.9,195.8,48.9,107.0,1.3,0.3,22.9,2.8,45.5,133.5,Low-Fat,Dairy,Boosts Immunity
+Milk (Cow) (81g),Dairy,151.5,9.9,10.7,17.9,11.1,547.8,61.8,285.9,2.16,5.0,297.3,1.2,382.8,45.9,Vegan,Soy,Improves Digestion
+Tomato (103g),Vegetable,555.5,23.0,26.9,36.7,2.3,424.9,54.0,271.8,0.36,6.7,97.5,4.1,142.6,20.1,Low-Fat,Gluten,Improves Digestion
+White Rice (80g),Grain,519.8,24.5,23.4,9.6,1.9,357.9,71.7,390.5,1.96,1.2,134.0,3.7,62.1,51.8,Vegetarian,Dairy,Heart Healthy
+Mutton (100g),Meat,306.6,12.3,29.2,36.5,7.7,111.4,85.0,368.6,0.92,5.5,166.2,2.5,216.8,38.4,Vegan,Soy,Heart Healthy
+Rajma (Kidney Beans) (116g),Legume,470.4,20.4,6.7,6.1,4.5,163.4,76.6,145.0,1.14,1.4,41.9,4.6,147.5,128.2,Vegetarian,Gluten,Heart Healthy
+Cauliflower (115g),Vegetable,583.7,22.9,7.4,49.8,0.9,111.1,86.6,281.6,0.91,0.4,289.8,1.9,282.1,101.1,Vegan,Nuts,Energy Boost
+Mango (81g),Fruit,105.2,4.0,7.4,1.7,10.0,333.8,68.9,187.9,0.34,5.3,285.1,2.4,290.4,69.4,Vegan,Gluten,Boosts Immunity
+Cauliflower (83g),Vegetable,531.1,1.3,22.6,30.7,0.3,666.3,61.2,350.4,1.33,8.3,276.6,2.6,285.2,66.4,Vegetarian,Gluten,Boosts Immunity
+Rajma (Kidney Beans) (104g),Legume,587.2,3.6,6.4,37.5,2.8,147.8,67.1,223.7,2.02,8.2,145.8,1.6,258.5,125.0,Vegetarian,None,Improves Digestion
+Muskmelon (107g),Fruit,132.9,3.2,2.4,36.6,10.2,23.4,25.4,216.6,0.16,6.0,229.4,1.6,222.9,97.6,Vegan,Dairy,Improves Digestion
+Chapati (Whole Wheat) (116g),Grain,347.6,14.3,23.7,3.7,3.9,754.9,0.8,142.7,0.68,4.0,66.5,3.8,291.6,146.2,Vegan,Gluten,Heart Healthy
+Green Peas (86g),Legume,311.3,19.5,0.8,48.0,5.8,695.2,3.4,64.5,1.64,0.9,191.5,4.8,96.5,36.3,Vegetarian,Dairy,Energy Boost
+Rajma (Kidney Beans) (118g),Legume,397.8,23.3,10.3,47.3,4.2,288.9,77.0,172.4,2.14,7.8,122.4,1.1,246.1,15.9,Vegetarian,Soy,Heart Healthy
+Cabbage (80g),Vegetable,102.7,21.8,16.5,58.2,9.4,70.6,8.5,125.5,2.24,1.7,91.2,1.9,40.2,31.0,Low-Fat,Gluten,Heart Healthy
+Curd (108g),Dairy,397.2,3.9,3.8,34.6,0.7,687.3,36.1,342.8,2.2,1.4,116.4,4.2,381.1,59.2,Low-Fat,Soy,Heart Healthy
+Curd (82g),Dairy,380.0,16.3,22.3,15.4,9.9,7.3,76.8,116.3,0.38,4.1,31.2,2.0,187.6,18.6,Low-Fat,Nuts,Energy Boost
+Cucumber (86g),Vegetable,69.8,18.4,27.5,55.4,9.3,160.4,29.6,126.9,2.39,4.9,213.7,2.4,115.0,10.6,Vegetarian,Nuts,Supports Bone Health
+Watermelon (93g),Fruit,205.7,1.3,18.1,23.4,11.3,289.8,38.7,189.4,0.13,8.7,286.3,3.4,111.6,97.2,Vegan,Dairy,Boosts Immunity
+Almonds (105g),Nut,67.4,21.9,13.6,25.8,2.7,714.6,16.6,21.5,2.15,4.3,289.4,1.6,83.4,141.6,Low-Fat,Nuts,Energy Boost
+Mango (107g),Fruit,225.7,17.5,11.7,1.6,9.4,478.1,7.0,267.2,1.48,3.3,296.0,4.7,298.4,111.8,High-Protein,None,Supports Bone Health
+Cucumber (89g),Vegetable,309.7,8.3,23.8,40.8,3.3,578.1,88.9,377.3,2.06,6.4,195.3,2.9,19.4,113.1,Vegetarian,Nuts,Energy Boost
+Mango (118g),Fruit,239.0,9.0,28.6,58.3,7.0,12.5,73.2,6.5,2.15,5.1,261.6,3.5,261.3,71.1,Low-Fat,Gluten,Improves Digestion
+Soybeans (107g),Legume,323.4,19.2,3.5,11.4,5.3,142.3,53.5,217.1,0.92,8.5,209.7,2.2,116.9,95.0,Vegan,None,Boosts Immunity
+Chapati (Whole Wheat) (81g),Grain,377.4,10.6,14.9,45.4,11.1,80.7,40.0,232.5,0.08,3.0,132.0,1.2,184.6,60.3,Vegetarian,Nuts,Boosts Immunity
+Mutton (109g),Meat,259.5,20.6,21.1,44.7,0.3,300.3,20.2,113.4,2.11,2.7,253.2,4.0,168.8,40.0,Low-Fat,None,Boosts Immunity
+Lentils (Toor Dal) (89g),Legume,478.5,21.1,15.6,44.7,3.9,137.2,51.5,172.0,1.33,4.0,188.7,2.0,25.4,140.1,Low-Fat,Dairy,Heart Healthy
+Banana (105g),Fruit,544.4,13.2,13.2,6.9,9.7,403.9,56.8,313.7,2.02,6.3,85.5,2.8,379.7,34.5,Vegan,None,Heart Healthy
+Spinach (120g),Vegetable,466.6,4.2,18.6,33.1,11.7,457.9,2.3,293.7,2.36,6.4,235.5,1.0,262.7,37.2,Vegetarian,Soy,Supports Bone Health
+Fish (Pomfret) (96g),Seafood,402.4,7.2,28.1,38.0,7.7,463.9,9.3,183.7,1.43,1.2,91.9,4.5,41.6,76.7,High-Protein,Dairy,Heart Healthy
+Cabbage (111g),Vegetable,481.4,10.6,14.6,37.9,2.7,336.5,80.1,253.4,1.08,1.7,96.6,4.5,265.6,96.5,Vegan,None,Improves Digestion
+Mutton (110g),Meat,597.1,15.2,0.2,31.8,3.2,98.2,54.5,214.4,1.24,7.6,72.7,1.9,359.9,9.3,Vegetarian,Dairy,Boosts Immunity
+Carrot (97g),Vegetable,178.7,5.4,2.8,42.8,7.9,374.2,72.8,174.4,2.27,9.2,82.5,1.1,339.2,109.0,Low-Fat,None,Energy Boost
+Papaya (99g),Fruit,116.1,5.5,21.7,26.6,5.5,477.5,24.5,127.5,0.26,3.9,67.9,1.8,359.7,123.8,Low-Fat,Dairy,Boosts Immunity
+Green Peas (96g),Legume,360.4,7.7,24.8,39.1,11.6,282.5,2.7,72.0,0.77,7.9,113.7,0.5,264.5,58.9,High-Protein,None,Boosts Immunity
+Egg (80g),Protein,435.7,5.7,17.1,20.0,2.9,53.9,25.5,84.9,0.52,5.7,217.7,4.7,323.9,102.3,Diabetic-Friendly,Nuts,Heart Healthy
+Egg (100g),Protein,134.9,1.7,14.9,3.8,3.4,96.3,40.8,240.6,1.42,2.4,16.2,0.2,314.4,88.5,Vegan,Nuts,Improves Digestion
+Carrot (105g),Vegetable,41.5,13.6,15.9,20.9,0.4,376.4,74.7,166.0,0.72,3.2,110.3,0.5,311.0,76.6,Vegan,Nuts,Improves Digestion
+Cucumber (111g),Vegetable,512.2,24.2,3.7,23.1,7.5,24.4,4.3,4.2,0.25,3.3,209.4,2.2,72.2,32.7,High-Protein,Soy,Boosts Immunity
+Brown Rice (96g),Grain,532.3,1.6,1.5,19.0,3.3,550.6,71.2,151.8,1.68,9.3,179.2,0.7,131.1,26.5,Diabetic-Friendly,Nuts,Heart Healthy
+Tomato (113g),Vegetable,326.0,14.7,19.9,58.6,4.0,585.0,20.3,105.5,0.71,0.9,172.0,4.4,265.5,111.6,Vegetarian,None,Boosts Immunity
+Potato (83g),Root,143.2,16.9,14.1,23.7,6.0,273.0,73.3,304.6,1.23,3.2,283.9,3.6,263.8,127.9,Vegan,Dairy,Supports Bone Health
+Fish (Rohu) (104g),Seafood,585.5,21.8,15.5,47.0,2.4,223.0,14.8,122.9,2.09,6.5,52.7,4.4,299.3,39.9,Low-Fat,Dairy,Improves Digestion
+Lentils (Toor Dal) (110g),Legume,403.9,11.6,8.0,55.7,1.2,345.7,13.6,200.9,1.22,0.6,89.1,0.6,261.2,111.1,Low-Fat,Dairy,Improves Digestion
+Apple (105g),Fruit,122.5,7.3,18.3,31.6,1.5,40.8,22.4,44.4,0.28,9.0,176.8,1.3,215.2,44.9,Diabetic-Friendly,Nuts,Heart Healthy
+Bottle Gourd (86g),Vegetable,147.5,20.7,20.8,30.2,2.2,163.7,57.3,282.3,0.69,0.1,63.7,4.5,250.7,112.2,Vegetarian,Dairy,Improves Digestion
+White Rice (90g),Grain,128.7,22.5,4.3,1.8,5.8,267.9,16.0,105.5,0.18,6.8,257.4,3.0,388.0,89.6,Low-Fat,Dairy,Heart Healthy
+Tomato (82g),Vegetable,495.0,14.4,29.7,50.3,6.4,134.7,13.2,37.6,0.73,7.4,141.3,3.7,396.0,42.3,Low-Fat,Gluten,Improves Digestion
+Cucumber (80g),Vegetable,500.1,7.9,10.1,31.6,8.0,692.2,75.9,193.7,0.65,5.2,195.5,0.8,167.1,36.9,Vegetarian,Gluten,Heart Healthy
+Lentils (Toor Dal) (95g),Legume,355.0,17.5,13.0,13.2,1.3,736.6,34.0,43.2,0.66,6.3,168.0,4.6,395.0,132.0,Vegetarian,Gluten,Improves Digestion
+Chicken Breast (105g),Meat,361.7,23.7,8.4,12.2,7.0,561.8,75.1,49.2,1.91,5.7,239.8,1.8,48.5,6.2,Vegetarian,Nuts,Supports Bone Health
+Rajma (Kidney Beans) (98g),Legume,381.8,16.8,9.2,18.0,9.6,13.5,3.7,113.2,1.42,0.6,98.7,2.2,265.8,5.1,High-Protein,Dairy,Improves Digestion
+Cashews (112g),Nut,405.9,19.3,4.7,6.1,3.4,796.7,17.7,234.1,0.19,2.3,147.2,1.8,325.6,97.4,Low-Fat,Nuts,Boosts Immunity
+Curd (99g),Dairy,366.3,4.7,13.1,52.7,9.7,112.2,69.1,100.0,1.0,2.1,98.4,1.6,371.2,71.9,Vegetarian,Nuts,Heart Healthy
+Cabbage (88g),Vegetable,325.4,17.5,15.2,41.4,4.4,284.0,42.0,384.6,1.11,9.1,17.7,3.9,39.9,25.4,High-Protein,Dairy,Energy Boost
+Green Peas (103g),Legume,93.8,13.8,17.0,18.3,9.1,314.7,36.3,2.4,1.94,8.8,143.5,0.4,26.6,125.3,Vegan,Gluten,Energy Boost
+Cabbage (98g),Vegetable,348.0,17.4,25.9,8.2,7.1,409.1,64.5,280.6,1.24,5.7,290.5,0.8,358.5,97.8,Vegetarian,Gluten,Improves Digestion
+Spinach (111g),Vegetable,381.7,5.4,2.1,10.0,10.6,416.3,22.2,41.4,0.06,5.1,123.3,4.6,123.5,75.1,Vegetarian,Dairy,Energy Boost
+Curd (119g),Dairy,415.2,21.6,18.6,26.5,7.7,148.7,73.7,263.0,0.41,7.4,168.5,2.4,119.6,101.8,Diabetic-Friendly,Nuts,Improves Digestion
+Almonds (105g),Nut,243.8,20.1,14.0,49.0,1.9,227.5,10.8,155.8,1.39,0.4,198.6,3.3,180.6,136.7,High-Protein,Dairy,Heart Healthy
+Cucumber (97g),Vegetable,25.3,4.4,15.1,51.8,2.7,722.1,47.3,205.2,0.42,1.6,200.2,2.9,186.5,129.5,Vegetarian,Gluten,Improves Digestion
+Bottle Gourd (84g),Vegetable,551.4,16.3,11.4,28.8,8.0,461.3,83.5,310.2,1.26,1.4,104.0,4.8,142.5,94.5,Low-Fat,None,Boosts Immunity
+Lentils (Toor Dal) (90g),Legume,154.4,16.8,15.0,41.1,4.0,186.0,69.5,366.9,1.91,1.1,265.4,3.7,156.7,146.1,Vegan,None,Energy Boost
+Curd (87g),Dairy,41.7,18.9,13.3,23.1,7.6,24.5,15.7,43.1,1.08,1.4,194.8,2.8,82.3,76.2,High-Protein,Dairy,Supports Bone Health
+Mango (107g),Fruit,492.0,20.3,5.8,35.3,7.6,535.3,18.3,324.0,2.14,3.7,128.3,2.8,33.4,31.9,Diabetic-Friendly,Nuts,Supports Bone Health
+Orange (116g),Fruit,500.0,12.8,10.8,54.1,10.3,641.5,39.5,250.2,2.1,5.7,46.9,2.6,44.9,77.3,Vegan,Soy,Energy Boost
+Chicken Breast (81g),Meat,149.9,23.5,27.7,15.8,8.5,55.3,78.4,387.2,0.18,5.8,257.4,4.7,202.5,62.9,Vegan,Soy,Boosts Immunity
+Papaya (110g),Fruit,563.4,24.6,19.6,2.9,5.2,161.2,79.9,23.8,0.49,8.2,105.6,3.8,365.4,14.0,Low-Fat,None,Energy Boost
+Pineapple (82g),Fruit,220.6,2.2,12.5,44.6,11.2,710.1,43.1,51.8,1.74,1.1,154.0,1.2,143.4,74.3,Vegetarian,None,Boosts Immunity
+Lentils (Toor Dal) (92g),Legume,329.8,21.6,20.5,44.5,6.7,42.7,68.9,278.2,1.03,4.3,50.0,2.2,359.4,147.5,High-Protein,Gluten,Supports Bone Health
+Chicken Breast (107g),Meat,552.5,6.3,2.9,1.6,5.1,602.3,72.7,214.5,0.11,8.0,263.2,1.3,27.5,13.2,Low-Fat,Dairy,Improves Digestion
+Chickpeas (100g),Legume,222.8,16.6,7.4,18.3,7.4,383.5,11.0,30.7,0.6,5.5,153.5,3.7,146.0,137.7,Vegetarian,Nuts,Improves Digestion
+Fish (Rohu) (115g),Seafood,189.8,16.5,15.9,16.8,8.4,403.3,4.9,360.2,1.69,6.3,91.1,1.1,59.2,146.5,Vegetarian,Gluten,Energy Boost
+Orange (87g),Fruit,236.0,20.5,4.3,58.7,8.4,520.3,40.8,45.7,1.2,0.4,90.6,2.0,331.7,17.3,High-Protein,Soy,Heart Healthy
+Potato (81g),Root,520.4,9.9,1.4,13.1,2.4,345.4,4.7,122.1,1.3,3.5,17.5,3.1,357.8,138.8,High-Protein,Soy,Supports Bone Health
+Lentils (Toor Dal) (101g),Legume,441.0,15.7,26.0,47.2,11.2,602.2,72.7,221.3,2.29,9.3,93.4,5.0,216.2,66.5,Diabetic-Friendly,Soy,Improves Digestion
+Mango (104g),Fruit,291.1,24.8,7.2,54.6,3.5,546.4,24.7,399.5,1.85,3.0,175.6,0.3,113.3,44.0,High-Protein,Soy,Boosts Immunity
+Tomato (99g),Vegetable,349.7,8.4,8.0,11.5,5.7,352.5,42.0,386.4,1.15,8.5,73.2,0.4,375.8,45.1,Diabetic-Friendly,Soy,Improves Digestion
+White Rice (108g),Grain,124.3,19.3,8.4,52.3,1.7,504.6,13.2,247.2,0.12,1.2,21.2,3.5,344.9,89.1,Vegan,Soy,Supports Bone Health
+Brown Rice (96g),Grain,585.7,0.9,25.4,51.1,6.6,36.7,21.1,43.7,1.22,1.2,32.5,1.1,230.3,125.2,Low-Fat,None,Heart Healthy
+Cashews (89g),Nut,34.3,15.4,10.9,58.5,10.8,300.4,84.8,117.6,0.07,3.7,94.4,0.8,238.5,20.4,Vegetarian,Gluten,Energy Boost
+Green Peas (117g),Legume,433.4,23.5,11.4,35.4,8.0,120.9,68.6,259.7,2.29,9.6,297.8,2.9,399.1,96.4,Low-Fat,Soy,Boosts Immunity
+Rajma (Kidney Beans) (83g),Legume,372.1,16.7,15.7,19.7,2.5,460.6,82.0,131.5,1.92,9.8,77.0,1.6,389.1,105.5,Low-Fat,Nuts,Improves Digestion
+Chapati (Whole Wheat) (102g),Grain,345.1,2.4,10.9,29.6,2.9,629.3,20.7,331.1,2.37,9.3,81.0,4.6,271.3,101.6,Diabetic-Friendly,Gluten,Improves Digestion
+Chicken Breast (100g),Meat,88.4,10.5,15.2,9.8,6.0,705.3,17.8,72.0,1.09,1.8,131.4,3.9,286.0,73.1,Vegan,Dairy,Boosts Immunity
+Brinjal (81g),Vegetable,420.2,24.8,4.1,52.1,11.0,723.5,31.9,160.9,1.34,7.1,44.5,4.5,359.8,90.8,Diabetic-Friendly,None,Boosts Immunity
+White Rice (102g),Grain,571.0,22.8,19.0,44.7,5.3,606.4,63.0,293.4,1.74,5.9,247.8,2.6,65.1,6.1,Diabetic-Friendly,Gluten,Heart Healthy
+Fish (Pomfret) (100g),Seafood,274.4,13.0,17.7,56.7,1.3,238.6,30.7,225.7,2.15,5.8,254.8,2.2,132.5,51.2,Vegetarian,Dairy,Boosts Immunity
+Orange (107g),Fruit,321.1,14.6,18.5,6.9,3.6,95.7,24.6,175.6,2.12,3.0,276.1,4.9,302.6,139.1,High-Protein,Dairy,Boosts Immunity
+Orange (115g),Fruit,506.5,19.0,0.9,54.2,11.5,432.3,71.9,2.7,2.0,0.4,68.9,4.7,230.6,111.2,Diabetic-Friendly,Dairy,Heart Healthy
+Cashews (87g),Nut,435.4,23.0,3.7,53.4,6.0,70.4,12.3,111.4,1.6,9.7,243.1,3.7,92.9,15.8,Vegetarian,Soy,Improves Digestion
+Almonds (109g),Nut,385.8,13.1,23.3,42.7,3.9,739.9,39.0,372.9,1.91,3.2,254.0,3.3,351.6,10.2,Vegan,Dairy,Supports Bone Health
+Papaya (104g),Fruit,525.8,5.9,6.0,28.7,5.9,150.5,44.7,52.7,1.52,1.0,159.7,3.6,89.6,68.0,Low-Fat,Soy,Energy Boost
+Orange (91g),Fruit,42.5,17.4,18.4,38.2,3.0,279.6,47.7,381.7,2.11,8.4,263.8,3.4,198.6,96.4,Diabetic-Friendly,Gluten,Energy Boost
+Sweet Potato (98g),Root,76.0,3.3,26.4,45.5,3.6,775.5,29.3,265.0,0.28,4.7,102.5,0.7,280.3,107.2,Low-Fat,Nuts,Energy Boost
+Bitter Gourd (95g),Vegetable,36.8,7.1,6.5,51.2,5.0,450.2,29.1,270.0,0.99,8.1,133.3,1.4,26.6,75.4,Vegetarian,Gluten,Boosts Immunity
+Groundnuts (108g),Nut,257.7,14.5,5.1,13.2,7.6,758.4,55.2,131.9,1.45,0.3,219.4,4.0,40.6,107.2,High-Protein,Soy,Boosts Immunity
+Muskmelon (83g),Fruit,320.8,9.4,6.0,10.3,6.5,687.9,20.6,320.5,2.19,3.4,72.5,3.7,376.3,10.2,Vegan,Soy,Boosts Immunity
+Green Peas (105g),Legume,479.0,1.5,8.6,2.4,7.7,550.8,3.0,300.0,1.95,3.8,126.2,4.1,351.3,130.0,Vegan,None,Energy Boost
+Bitter Gourd (81g),Vegetable,28.6,20.8,18.2,10.0,8.9,634.3,17.5,242.3,0.75,3.3,158.6,0.2,113.2,34.4,High-Protein,Soy,Heart Healthy
+Fish (Pomfret) (98g),Seafood,269.1,5.9,12.2,17.4,3.6,562.6,45.6,153.0,2.38,7.3,285.9,3.8,287.3,70.6,Diabetic-Friendly,None,Heart Healthy
+Milk (Cow) (108g),Dairy,234.5,14.3,19.3,20.6,9.8,780.7,8.6,67.7,2.08,4.9,82.5,0.8,248.5,73.7,Diabetic-Friendly,Dairy,Boosts Immunity
+Potato (96g),Root,258.9,18.6,25.0,3.2,8.3,479.4,78.4,107.3,0.5,5.7,151.7,2.5,384.0,39.2,Low-Fat,Nuts,Energy Boost
+Tofu (85g),Soy Product,554.3,10.9,2.4,8.5,0.4,416.4,10.9,78.9,2.09,1.2,266.8,2.5,252.3,81.1,Vegetarian,Soy,Heart Healthy
+Bottle Gourd (80g),Vegetable,192.1,11.2,8.9,55.4,8.2,418.5,55.4,148.7,1.56,1.5,161.7,1.1,247.5,108.6,Diabetic-Friendly,Soy,Improves Digestion
+Sweet Potato (109g),Root,142.2,8.6,22.4,59.8,11.1,132.2,64.4,189.5,0.76,1.9,146.4,5.0,7.2,106.7,Vegetarian,None,Energy Boost
+Cucumber (101g),Vegetable,74.9,15.8,17.9,4.9,7.7,706.8,31.0,5.7,0.46,2.9,274.3,2.2,293.1,58.3,Low-Fat,Gluten,Energy Boost
+Soybeans (92g),Legume,64.9,4.2,21.9,17.5,3.3,82.8,71.7,234.9,1.84,3.4,233.9,3.0,114.5,122.1,Diabetic-Friendly,Nuts,Supports Bone Health
+Mango (80g),Fruit,474.4,24.7,2.8,48.4,1.9,132.7,78.7,129.3,2.15,0.6,158.4,2.3,267.6,52.4,Diabetic-Friendly,None,Supports Bone Health
+Tofu (105g),Soy Product,238.8,9.9,14.3,19.4,6.4,425.0,79.5,336.9,2.29,9.5,251.7,3.6,336.8,86.3,Low-Fat,Gluten,Boosts Immunity
+Tofu (107g),Soy Product,398.2,4.9,26.0,51.5,9.3,277.4,38.2,246.8,2.1,9.2,65.4,1.9,373.6,149.3,Vegetarian,Nuts,Improves Digestion
+Rajma (Kidney Beans) (92g),Legume,23.3,8.1,2.9,22.8,3.2,737.3,54.6,13.4,0.66,4.8,22.7,3.5,104.9,95.7,Diabetic-Friendly,None,Heart Healthy
+Guava (120g),Fruit,283.6,4.8,22.5,39.2,6.6,84.0,33.3,245.2,1.71,7.1,61.3,4.3,37.7,125.9,Vegan,None,Heart Healthy
+Watermelon (83g),Fruit,202.3,21.5,8.4,51.3,7.9,590.2,29.9,268.8,2.16,9.0,59.1,4.9,290.2,58.1,Vegan,Nuts,Heart Healthy
+Brown Rice (84g),Grain,131.9,19.2,4.5,16.7,2.2,36.6,54.8,275.5,0.98,6.4,254.2,4.7,127.9,86.3,Vegan,Gluten,Heart Healthy
+Mushroom (85g),Fungus,348.4,11.8,3.6,6.3,8.8,149.3,53.2,386.3,1.84,7.9,73.1,1.9,37.1,110.0,Vegetarian,Gluten,Supports Bone Health
+Carrot (99g),Vegetable,50.9,17.8,5.4,9.3,3.9,181.5,16.9,353.4,0.43,3.0,212.3,1.4,198.5,88.9,High-Protein,Soy,Heart Healthy
+Watermelon (90g),Fruit,41.3,21.0,11.6,32.7,2.7,562.0,31.2,324.4,1.91,2.2,212.9,2.6,332.8,120.2,Vegan,Soy,Supports Bone Health
+Curd (93g),Dairy,291.3,1.3,3.5,39.8,2.4,112.7,52.8,148.9,0.91,5.9,19.8,3.5,253.6,131.1,Vegan,Dairy,Heart Healthy
+Sweet Potato (101g),Root,215.3,22.6,5.7,22.1,2.1,437.9,67.7,175.6,1.48,6.0,211.4,3.7,192.1,40.3,High-Protein,Soy,Improves Digestion
+Sweet Potato (105g),Root,194.1,24.3,26.3,46.0,10.8,406.1,37.9,309.6,2.29,4.1,18.3,2.6,369.3,133.6,Diabetic-Friendly,Dairy,Energy Boost
+Carrot (88g),Vegetable,404.8,19.8,1.7,6.3,9.6,114.0,31.1,158.4,1.11,6.6,68.1,0.9,126.5,31.8,Vegetarian,Nuts,Boosts Immunity
+Paneer (89g),Dairy,417.1,21.2,11.3,29.2,4.3,377.2,61.8,279.5,2.19,6.7,251.1,3.6,306.4,18.9,Vegetarian,Gluten,Supports Bone Health
+Bottle Gourd (100g),Vegetable,540.9,20.6,21.9,26.1,4.8,58.3,43.9,296.2,1.41,2.3,186.5,3.9,150.8,54.3,Vegan,Soy,Energy Boost
+Bottle Gourd (84g),Vegetable,394.4,3.9,5.7,13.5,5.3,272.3,58.9,170.3,0.68,3.9,248.2,0.3,383.6,66.2,Vegetarian,Nuts,Energy Boost
+Cabbage (109g),Vegetable,487.6,9.0,22.0,39.7,5.0,645.7,14.5,51.5,1.22,6.9,13.4,3.3,269.7,66.3,Vegan,Gluten,Heart Healthy
+Curd (120g),Dairy,87.3,20.3,27.3,30.6,9.4,569.9,76.0,388.7,0.27,1.9,133.0,3.8,348.8,16.6,Vegan,Gluten,Energy Boost
+Curd (92g),Dairy,318.6,15.6,26.2,26.7,5.7,32.8,78.1,184.1,0.12,6.0,117.1,2.2,271.6,116.2,Vegan,Soy,Improves Digestion
+Banana (98g),Fruit,227.0,0.9,9.8,38.5,7.2,286.4,3.3,295.5,0.6,0.9,37.4,3.7,255.0,67.5,High-Protein,Gluten,Heart Healthy
+Pineapple (95g),Fruit,552.9,22.6,28.0,49.4,6.9,33.5,29.4,15.3,1.46,7.3,245.6,0.6,207.5,110.2,High-Protein,Gluten,Heart Healthy
+Bottle Gourd (81g),Vegetable,126.7,18.8,21.7,44.8,1.1,730.0,86.9,317.5,1.37,9.9,188.5,2.7,318.5,105.7,Vegan,Gluten,Energy Boost
+Sweet Potato (93g),Root,461.2,11.2,22.4,46.9,3.5,537.5,54.4,363.9,1.63,2.8,128.1,0.2,168.7,23.8,High-Protein,Nuts,Energy Boost
+Watermelon (100g),Fruit,76.3,6.0,21.3,14.0,7.4,582.8,54.8,184.3,1.01,6.0,167.0,2.4,225.3,54.7,High-Protein,Gluten,Heart Healthy
+Cauliflower (109g),Vegetable,515.5,12.7,16.0,11.0,4.8,322.9,59.5,228.5,0.19,4.9,295.6,0.5,300.5,81.8,High-Protein,Gluten,Improves Digestion
+Beetroot (109g),Vegetable,37.1,15.8,5.1,21.7,5.3,796.7,2.1,389.3,1.34,5.0,78.1,4.6,57.0,93.0,Vegan,None,Heart Healthy
+Orange (93g),Fruit,595.4,14.5,5.4,10.4,9.4,587.8,36.1,163.4,1.8,4.2,183.8,1.7,148.5,20.3,High-Protein,Soy,Energy Boost
+Soybeans (105g),Legume,150.6,10.4,22.7,17.9,11.1,126.4,78.6,160.0,0.01,8.3,231.3,3.3,274.9,19.3,Diabetic-Friendly,Nuts,Heart Healthy
+Bitter Gourd (92g),Vegetable,389.1,15.7,4.2,37.6,12.0,480.1,65.9,378.2,0.78,2.6,175.1,2.4,40.9,58.7,Diabetic-Friendly,Nuts,Energy Boost
+Green Peas (92g),Legume,513.2,4.5,11.1,52.6,2.3,749.8,82.9,129.1,0.7,9.0,70.0,2.4,101.8,92.5,Vegetarian,Dairy,Heart Healthy
+Green Peas (87g),Legume,486.1,21.0,26.2,54.6,3.1,577.9,6.3,299.4,1.64,4.1,160.7,2.4,157.2,118.5,High-Protein,Soy,Boosts Immunity
+Guava (114g),Fruit,434.6,11.2,24.8,4.5,9.8,662.8,65.3,16.0,0.96,9.3,192.5,2.3,316.0,20.0,High-Protein,Soy,Boosts Immunity
+Mango (103g),Fruit,259.5,8.8,27.4,47.9,2.7,78.6,57.8,29.6,2.16,5.0,81.0,1.4,121.6,69.5,Low-Fat,Gluten,Energy Boost
+Almonds (118g),Nut,40.7,3.9,15.7,2.5,10.6,451.3,64.2,122.7,1.72,5.7,98.4,3.6,270.9,27.4,Vegetarian,Dairy,Energy Boost
+Cashews (104g),Nut,169.2,6.1,25.5,35.4,2.0,10.6,32.8,203.4,2.09,5.2,148.3,4.5,389.1,98.4,Diabetic-Friendly,Soy,Improves Digestion
+Rajma (Kidney Beans) (103g),Legume,239.2,23.2,19.5,52.4,5.9,387.7,34.2,267.5,0.16,2.3,69.9,0.8,245.4,110.7,Vegan,Dairy,Improves Digestion
+Potato (109g),Root,350.3,16.1,0.5,45.0,9.9,630.4,80.8,296.6,0.87,0.4,191.7,4.8,205.4,44.4,Diabetic-Friendly,Soy,Boosts Immunity
+Brown Rice (108g),Grain,348.7,6.6,7.8,44.6,8.3,521.0,22.1,275.9,1.09,0.5,186.6,2.8,41.1,32.6,Vegan,Dairy,Energy Boost
+Groundnuts (83g),Nut,140.5,6.5,22.9,29.2,1.4,705.4,4.6,316.0,0.18,4.8,138.2,2.4,44.5,90.5,Diabetic-Friendly,Nuts,Improves Digestion
+Mushroom (80g),Fungus,357.4,21.6,3.4,53.3,9.4,156.6,72.5,245.8,1.1,0.1,228.8,3.0,199.6,30.6,Diabetic-Friendly,Nuts,Energy Boost
+Cashews (99g),Nut,173.2,13.5,10.3,41.0,6.1,501.1,10.0,302.6,0.44,0.2,269.1,2.6,200.8,30.9,Low-Fat,Gluten,Boosts Immunity
+Beetroot (101g),Vegetable,390.0,13.7,5.6,46.9,9.2,171.4,45.2,128.0,1.27,1.1,97.0,3.1,230.5,27.4,Vegetarian,Dairy,Heart Healthy
+Mango (90g),Fruit,373.9,4.3,28.7,58.9,7.9,631.2,70.2,107.8,2.24,4.8,258.3,1.6,62.3,53.4,High-Protein,Gluten,Heart Healthy
+Groundnuts (107g),Nut,346.7,19.2,0.3,56.5,0.9,327.6,58.1,56.0,1.1,2.8,247.4,1.1,266.5,42.1,High-Protein,None,Improves Digestion
+Brinjal (104g),Vegetable,208.9,14.2,6.1,13.7,6.1,685.3,9.6,97.3,0.78,4.8,219.2,2.4,388.6,11.7,Low-Fat,Nuts,Supports Bone Health
+Almonds (118g),Nut,359.9,2.0,1.8,21.2,6.5,351.1,25.6,188.7,2.11,0.8,293.4,3.7,330.6,131.7,Diabetic-Friendly,Gluten,Energy Boost
+Apple (115g),Fruit,71.0,6.5,17.2,46.0,3.3,425.3,26.2,8.7,1.85,0.8,237.9,3.6,129.0,128.7,Low-Fat,Dairy,Supports Bone Health
+Egg (109g),Protein,152.1,9.4,6.0,58.3,3.3,483.3,83.9,56.1,1.54,4.3,243.8,4.0,333.5,13.7,Diabetic-Friendly,Gluten,Boosts Immunity
+Mushroom (107g),Fungus,597.5,24.0,26.2,20.3,6.6,226.8,30.0,26.8,0.18,1.0,171.9,0.7,67.5,79.5,Vegan,Soy,Heart Healthy
+Pineapple (92g),Fruit,456.1,19.3,13.0,17.3,5.5,704.6,66.5,260.2,0.18,6.5,108.5,2.7,278.6,123.9,Low-Fat,None,Heart Healthy
+Mushroom (98g),Fungus,23.7,20.8,0.7,14.3,5.2,207.8,20.1,269.8,0.78,4.6,203.0,3.9,231.9,56.4,Diabetic-Friendly,Dairy,Supports Bone Health
+Cauliflower (93g),Vegetable,198.9,3.0,16.0,56.7,0.7,102.7,31.4,27.7,2.09,9.3,200.9,1.1,69.5,148.7,Vegetarian,Dairy,Improves Digestion
+Lentils (Toor Dal) (88g),Legume,529.0,23.6,3.8,56.9,0.5,694.2,76.9,83.4,0.12,4.4,67.6,3.9,238.1,23.1,Vegetarian,Soy,Energy Boost
+Rajma (Kidney Beans) (87g),Legume,114.5,5.6,28.2,44.7,4.4,796.3,37.4,84.1,0.22,5.1,148.6,2.6,378.2,7.3,Low-Fat,Nuts,Heart Healthy
+Cabbage (102g),Vegetable,229.0,8.1,2.1,56.8,7.9,184.3,63.1,260.2,1.94,8.8,14.6,4.8,293.2,135.1,Vegan,Dairy,Supports Bone Health
+Banana (116g),Fruit,25.4,13.2,4.3,28.7,0.7,477.4,18.9,295.9,0.7,6.2,248.7,2.2,74.0,80.2,Vegetarian,Dairy,Improves Digestion
+Tomato (90g),Vegetable,37.4,5.5,12.2,23.0,10.1,497.9,2.6,10.3,0.07,4.8,223.1,0.8,166.0,83.2,Diabetic-Friendly,Soy,Supports Bone Health
+Mango (86g),Fruit,28.7,22.5,2.9,59.3,1.5,381.1,88.5,342.5,1.29,1.4,184.9,3.2,128.0,73.1,High-Protein,Dairy,Improves Digestion
+Soybeans (103g),Legume,575.0,16.9,3.0,30.1,10.0,457.4,11.3,205.9,1.93,1.5,201.2,3.7,288.3,45.9,Diabetic-Friendly,None,Supports Bone Health
+Milk (Cow) (96g),Dairy,127.1,16.7,9.9,58.5,8.1,416.4,51.9,353.4,1.82,1.4,132.4,3.3,233.9,140.5,Vegan,Nuts,Boosts Immunity
+Apple (91g),Fruit,28.3,16.0,25.1,15.0,4.9,10.4,43.3,343.1,0.45,8.7,291.5,2.1,397.1,70.7,High-Protein,Soy,Heart Healthy
+Tomato (97g),Vegetable,400.2,13.1,10.2,59.8,2.4,273.4,78.5,308.8,1.1,1.1,258.3,3.8,108.8,118.4,Low-Fat,None,Energy Boost
+Carrot (86g),Vegetable,151.7,11.7,3.4,33.5,3.7,698.8,27.6,174.5,2.36,0.9,261.4,2.6,162.0,141.5,Diabetic-Friendly,Dairy,Supports Bone Health
+Milk (Cow) (81g),Dairy,135.2,18.7,15.8,47.0,6.8,424.9,4.2,213.3,1.29,7.0,299.2,0.9,67.7,103.7,Diabetic-Friendly,Dairy,Supports Bone Health
+Soybeans (119g),Legume,265.9,5.5,1.6,58.2,4.9,312.4,47.0,168.5,1.14,3.3,219.2,1.6,34.6,107.7,High-Protein,Dairy,Energy Boost
+Guava (84g),Fruit,54.3,10.6,4.4,49.5,9.2,645.8,85.6,97.0,1.89,6.5,123.4,1.0,334.6,15.2,High-Protein,Dairy,Heart Healthy
+Tomato (117g),Vegetable,567.7,4.2,13.4,40.7,9.2,9.6,10.6,124.5,0.25,6.3,146.6,3.3,123.0,23.1,Diabetic-Friendly,Nuts,Supports Bone Health
+White Rice (101g),Grain,527.6,23.8,1.3,50.4,3.2,501.9,38.3,67.4,1.7,8.7,151.3,1.5,211.5,17.8,Diabetic-Friendly,Soy,Improves Digestion
+Paneer (111g),Dairy,505.3,24.1,12.7,38.6,10.4,224.9,65.2,110.3,0.6,5.1,131.7,4.2,393.3,17.0,Vegan,Nuts,Supports Bone Health
+Papaya (111g),Fruit,148.4,11.1,8.0,59.8,9.9,390.8,54.6,226.2,1.46,8.7,203.6,0.3,47.6,126.5,Vegan,Soy,Boosts Immunity
+Tomato (95g),Vegetable,229.2,17.0,27.1,25.9,4.8,595.7,31.3,315.3,2.05,5.8,161.6,4.7,326.2,96.1,Low-Fat,None,Supports Bone Health
+Mushroom (91g),Fungus,34.0,23.7,3.1,55.3,9.7,583.5,76.4,101.4,1.96,3.5,292.3,1.3,181.2,11.9,Low-Fat,Gluten,Supports Bone Health
+Orange (115g),Fruit,467.1,13.9,9.7,24.7,4.3,652.6,76.0,342.7,0.8,6.2,224.6,4.2,94.9,125.2,Vegan,None,Heart Healthy
+Egg (119g),Protein,308.4,5.1,11.5,16.6,8.5,281.1,72.5,358.3,1.81,9.6,103.6,0.6,234.8,136.8,Diabetic-Friendly,Gluten,Energy Boost
+Soybeans (91g),Legume,250.8,17.5,6.0,6.3,7.3,701.7,36.4,105.3,1.72,5.4,125.1,4.6,45.9,143.6,High-Protein,Soy,Energy Boost
+Chapati (Whole Wheat) (100g),Grain,599.7,11.3,1.3,33.3,8.1,219.8,44.5,333.3,2.36,2.5,75.5,3.3,90.3,6.8,Vegetarian,None,Energy Boost
+Sweet Potato (108g),Root,260.4,14.0,17.1,25.3,10.2,465.1,56.5,355.4,2.35,7.5,215.0,4.9,322.4,43.2,High-Protein,Gluten,Supports Bone Health
+Egg (114g),Protein,227.1,24.0,4.1,51.7,11.8,198.3,48.4,51.5,2.35,7.9,157.2,2.4,128.8,122.1,Diabetic-Friendly,Dairy,Improves Digestion
+Muskmelon (115g),Fruit,496.2,6.0,8.1,50.4,5.6,350.9,53.2,25.9,2.39,0.3,140.1,3.3,358.9,74.1,Vegetarian,None,Improves Digestion
+White Rice (97g),Grain,350.5,23.7,21.9,43.1,6.0,563.7,84.8,394.5,0.52,4.6,166.1,3.4,135.6,87.6,Diabetic-Friendly,Nuts,Supports Bone Health
+Soybeans (117g),Legume,202.4,0.7,18.3,43.0,4.4,96.6,88.0,245.5,1.27,7.3,222.4,1.3,242.6,115.0,Vegetarian,Dairy,Boosts Immunity
+Muskmelon (111g),Fruit,442.6,8.6,2.9,24.8,8.5,548.6,72.4,152.5,1.14,8.5,63.1,1.6,75.1,67.4,High-Protein,Nuts,Boosts Immunity
+Banana (96g),Fruit,252.8,6.1,29.6,38.3,4.2,601.7,47.1,8.2,1.45,9.8,27.2,1.9,71.6,144.7,Diabetic-Friendly,None,Boosts Immunity
+Egg (104g),Protein,197.6,20.1,17.1,23.1,1.0,138.7,57.3,199.3,1.28,9.8,38.1,3.4,66.1,59.3,Vegetarian,Nuts,Supports Bone Health
+Green Peas (89g),Legume,492.3,11.4,18.7,56.2,10.7,635.1,10.8,373.7,2.24,1.2,208.1,3.0,71.1,19.5,Vegetarian,Soy,Supports Bone Health
+Pineapple (101g),Fruit,563.9,23.3,16.5,23.9,5.5,94.0,49.9,135.3,0.88,2.5,247.1,1.0,164.7,57.0,Low-Fat,Soy,Boosts Immunity
+Rajma (Kidney Beans) (85g),Legume,404.8,8.4,15.9,34.9,6.5,316.0,49.2,80.4,0.77,4.5,67.4,4.7,173.4,68.1,Vegan,Nuts,Boosts Immunity
+Potato (86g),Root,206.5,12.4,11.7,30.4,9.5,230.5,61.6,22.0,2.0,2.0,35.9,4.5,300.4,87.8,Vegetarian,Gluten,Boosts Immunity
+Soybeans (81g),Legume,47.4,7.9,5.7,57.9,0.8,660.5,78.6,295.4,1.26,1.9,117.5,3.5,364.7,19.3,Vegetarian,Dairy,Improves Digestion
+White Rice (93g),Grain,307.3,14.5,18.4,3.7,4.7,720.4,10.5,116.2,2.17,6.6,275.4,1.7,74.9,61.5,Vegetarian,Gluten,Heart Healthy
+Chickpeas (89g),Legume,102.2,6.5,20.1,53.0,5.2,456.9,77.7,250.5,0.49,8.8,223.6,1.4,277.7,65.3,Low-Fat,Nuts,Improves Digestion
+Apple (111g),Fruit,167.0,0.8,20.8,3.5,9.3,104.0,62.1,28.2,0.27,1.7,239.4,0.4,217.1,29.3,High-Protein,Nuts,Improves Digestion
+Soybeans (98g),Legume,185.1,14.5,3.3,8.0,9.9,707.3,85.5,221.9,1.2,1.4,298.7,2.4,48.2,38.2,Low-Fat,Dairy,Boosts Immunity
+White Rice (95g),Grain,272.9,9.6,22.2,27.1,9.3,530.6,45.3,389.8,1.84,7.3,22.7,0.2,65.3,129.6,High-Protein,Dairy,Improves Digestion
+Cucumber (92g),Vegetable,542.9,1.9,11.5,56.9,6.2,181.0,56.4,134.4,1.73,0.4,137.8,4.2,242.7,46.7,Vegetarian,Dairy,Energy Boost
+Egg (83g),Protein,84.6,2.1,15.6,2.0,8.7,579.5,28.9,15.4,2.16,6.9,11.7,0.1,28.1,61.2,Diabetic-Friendly,None,Supports Bone Health
+Watermelon (82g),Fruit,346.9,2.3,19.5,54.7,11.3,516.2,25.4,246.4,1.08,7.5,208.0,3.1,141.3,148.3,Low-Fat,Nuts,Supports Bone Health
+Cucumber (114g),Vegetable,530.1,6.0,8.7,44.1,11.6,311.4,23.1,64.1,1.78,4.4,97.0,0.3,167.1,132.6,Vegetarian,Nuts,Supports Bone Health
+Watermelon (102g),Fruit,140.7,10.4,26.5,28.2,5.5,761.9,41.7,135.1,1.6,1.4,163.7,1.3,286.5,87.4,Diabetic-Friendly,Gluten,Heart Healthy
+Tofu (106g),Soy Product,237.4,8.0,11.8,28.7,6.6,362.4,81.4,382.3,2.09,4.2,67.8,1.8,356.5,100.6,Diabetic-Friendly,Nuts,Supports Bone Health
+Beetroot (81g),Vegetable,422.5,10.0,20.0,17.1,9.0,451.1,14.0,160.8,1.88,2.1,129.3,2.4,347.9,23.9,Low-Fat,Gluten,Energy Boost
+Pineapple (113g),Fruit,446.5,22.0,20.3,47.4,1.2,7.9,77.6,21.1,2.05,3.2,271.5,1.1,64.5,35.9,Vegan,Gluten,Energy Boost
+Egg (117g),Protein,544.6,11.4,10.2,11.3,3.8,642.1,14.4,352.2,0.39,1.3,274.0,2.1,226.9,96.2,High-Protein,Dairy,Boosts Immunity
+Cauliflower (108g),Vegetable,76.3,1.5,26.4,28.9,5.8,613.9,52.8,395.1,0.87,4.5,175.9,2.3,12.8,76.3,Diabetic-Friendly,Gluten,Improves Digestion
+Chapati (Whole Wheat) (103g),Grain,60.0,3.8,9.1,24.2,2.0,794.3,71.2,267.6,2.31,3.3,216.3,4.7,37.8,92.4,Low-Fat,None,Energy Boost
+Papaya (106g),Fruit,595.2,9.4,7.7,31.3,11.8,723.5,2.1,127.4,0.4,6.5,213.1,1.4,398.5,53.9,High-Protein,Nuts,Boosts Immunity
+Chicken Breast (115g),Meat,38.2,21.9,27.8,1.6,7.0,242.9,18.0,188.0,0.93,7.0,88.4,1.9,149.9,79.3,Low-Fat,Nuts,Improves Digestion
+Carrot (102g),Vegetable,437.1,14.0,14.7,16.7,11.0,735.1,7.6,266.5,0.76,5.1,42.9,4.1,323.5,20.5,Vegan,Dairy,Improves Digestion
+White Rice (89g),Grain,351.7,6.3,2.7,5.4,8.7,589.5,30.7,363.6,0.17,5.9,290.0,4.8,254.2,53.0,Vegan,Soy,Boosts Immunity
+Brown Rice (88g),Grain,135.7,18.8,2.5,6.4,11.4,4.1,71.2,93.2,0.12,0.9,102.9,2.7,193.0,33.6,Low-Fat,Soy,Supports Bone Health
+Sweet Potato (98g),Root,444.3,15.0,25.8,27.1,6.2,64.6,87.7,105.3,2.11,5.8,64.9,0.7,305.9,32.3,High-Protein,Dairy,Supports Bone Health
+Bottle Gourd (120g),Vegetable,504.9,7.8,12.4,38.8,2.8,201.5,31.0,96.3,0.02,8.9,208.2,1.5,68.7,13.9,Low-Fat,Gluten,Boosts Immunity
+Pineapple (107g),Fruit,66.4,19.2,21.5,1.7,9.0,71.5,52.9,366.5,0.87,6.8,206.7,0.4,108.7,126.8,Low-Fat,Gluten,Heart Healthy
+Fish (Rohu) (111g),Seafood,194.1,12.5,16.4,45.0,2.9,137.3,62.2,163.9,2.11,3.3,240.9,4.7,164.3,131.0,Low-Fat,Nuts,Supports Bone Health
+Cauliflower (104g),Vegetable,263.4,1.1,4.3,19.7,11.9,506.1,35.9,5.6,1.9,6.7,60.1,3.0,77.6,18.8,Low-Fat,Nuts,Supports Bone Health
+Almonds (101g),Nut,134.7,12.7,4.8,50.0,10.3,222.9,17.1,242.7,1.2,4.4,257.0,2.5,268.0,56.2,Vegan,None,Improves Digestion
+Sweet Potato (118g),Root,187.8,6.3,28.3,48.4,5.1,11.4,27.7,63.4,1.51,6.9,134.4,0.7,56.1,45.9,High-Protein,Dairy,Improves Digestion
+Mushroom (110g),Fungus,56.6,11.5,12.6,13.4,4.0,187.5,78.5,125.0,2.2,9.7,238.2,2.8,233.0,53.0,Vegetarian,Dairy,Improves Digestion
+Watermelon (116g),Fruit,583.3,6.1,17.8,15.0,9.9,391.4,42.3,7.8,1.23,1.0,227.6,3.2,37.1,76.2,Diabetic-Friendly,Gluten,Boosts Immunity
+Beetroot (104g),Vegetable,470.9,19.9,8.4,9.4,10.2,48.2,22.2,253.2,0.79,8.3,149.9,0.8,112.7,51.4,High-Protein,Soy,Energy Boost
+Apple (92g),Fruit,575.5,15.1,3.7,44.3,8.9,156.8,71.9,113.0,1.9,4.3,247.4,0.2,108.1,25.9,Vegan,None,Heart Healthy
+Chapati (Whole Wheat) (103g),Grain,289.7,22.8,4.5,37.9,6.8,475.5,68.3,43.1,0.66,2.8,214.8,2.3,69.3,23.6,Vegan,None,Boosts Immunity
+Egg (115g),Protein,296.7,4.0,25.0,23.1,0.5,348.0,29.1,71.2,1.47,7.6,196.7,1.7,303.8,10.7,Diabetic-Friendly,None,Supports Bone Health
+Potato (84g),Root,557.6,3.9,3.2,10.6,8.6,74.4,32.4,142.8,0.19,3.5,30.2,2.1,29.5,65.4,Low-Fat,Dairy,Energy Boost
+Chapati (Whole Wheat) (93g),Grain,280.1,3.3,27.4,16.4,3.0,516.2,50.2,21.0,2.02,2.3,22.3,1.2,96.9,27.1,Vegetarian,Soy,Improves Digestion
+Egg (104g),Protein,458.5,16.9,0.7,46.2,6.0,536.0,62.7,220.0,0.1,5.9,70.6,3.0,7.8,106.8,Diabetic-Friendly,Gluten,Energy Boost
+Mango (105g),Fruit,143.4,13.6,27.5,44.9,3.5,445.5,46.0,63.9,0.48,6.1,107.0,1.7,107.8,22.3,High-Protein,Nuts,Boosts Immunity
+Beetroot (118g),Vegetable,581.3,17.0,23.1,13.1,1.5,310.6,9.6,373.2,0.49,7.6,223.4,1.6,277.5,36.1,Diabetic-Friendly,Gluten,Improves Digestion
+Cucumber (83g),Vegetable,395.7,6.1,26.7,50.8,2.8,20.0,1.1,331.8,2.06,2.1,284.6,2.0,134.3,147.7,Diabetic-Friendly,Dairy,Heart Healthy
+Sweet Potato (115g),Root,366.1,20.0,20.0,56.3,1.1,86.7,0.0,12.5,0.12,0.2,89.5,0.1,180.8,110.7,Vegetarian,None,Boosts Immunity
+Fish (Rohu) (93g),Seafood,394.5,24.3,22.3,23.0,3.5,523.2,26.8,14.0,0.29,1.5,142.5,4.7,393.4,137.6,Vegan,None,Heart Healthy
+Banana (80g),Fruit,85.3,18.3,13.7,53.3,8.4,219.2,2.0,225.3,0.15,6.9,72.5,2.0,154.1,10.4,Low-Fat,Nuts,Heart Healthy
+Banana (80g),Fruit,354.5,1.6,2.0,46.4,3.5,226.0,43.1,320.8,0.06,2.8,262.9,1.3,182.0,5.3,Vegan,Soy,Heart Healthy
+Tofu (111g),Soy Product,479.3,18.0,22.3,17.9,1.2,294.5,73.9,217.8,0.9,9.0,220.6,2.7,131.7,97.7,Low-Fat,Dairy,Energy Boost
+Bottle Gourd (103g),Vegetable,291.1,9.0,8.8,49.0,9.1,396.1,48.8,144.1,1.04,6.1,266.6,1.7,146.7,72.7,Diabetic-Friendly,Dairy,Boosts Immunity
+Chicken Breast (112g),Meat,552.6,24.6,4.4,21.2,7.7,596.1,76.6,229.5,2.35,7.9,249.2,2.0,330.3,132.7,Diabetic-Friendly,Soy,Boosts Immunity
+Rajma (Kidney Beans) (86g),Legume,353.8,6.7,16.6,56.6,8.9,547.5,70.9,195.7,0.78,8.4,118.3,4.7,211.6,123.8,Vegetarian,Soy,Improves Digestion
+Bitter Gourd (86g),Vegetable,151.0,16.3,4.8,41.9,9.1,573.2,80.4,387.7,1.92,5.0,275.6,3.5,126.1,114.6,High-Protein,Dairy,Energy Boost
+Watermelon (86g),Fruit,571.9,5.2,0.6,18.5,2.6,662.3,61.2,26.8,1.09,1.3,284.0,3.3,9.2,91.6,High-Protein,Nuts,Improves Digestion
+Orange (99g),Fruit,268.5,14.9,14.4,37.3,0.7,393.6,2.8,127.9,0.07,7.0,259.7,2.0,217.9,19.2,Diabetic-Friendly,Soy,Improves Digestion
+Potato (81g),Root,240.4,24.1,22.8,6.1,3.2,74.5,22.1,332.3,1.52,1.0,120.2,1.8,243.4,73.0,High-Protein,Gluten,Energy Boost
+Beetroot (93g),Vegetable,376.0,2.8,20.5,36.0,8.2,23.6,45.6,27.6,0.43,2.8,173.9,4.0,216.6,110.0,High-Protein,Soy,Boosts Immunity
+Rajma (Kidney Beans) (111g),Legume,120.9,11.6,25.6,3.3,7.3,342.0,61.8,387.4,0.18,4.9,82.2,2.0,299.1,99.8,Vegetarian,Nuts,Boosts Immunity
+Groundnuts (91g),Nut,149.6,21.7,17.5,30.1,8.6,646.9,85.3,46.4,0.39,1.4,293.9,3.1,14.4,76.9,Low-Fat,None,Energy Boost
+Fish (Rohu) (120g),Seafood,335.2,10.8,1.1,26.7,8.5,54.5,7.9,351.1,1.6,4.8,157.1,1.3,371.5,24.9,Vegan,Dairy,Boosts Immunity
+Mushroom (91g),Fungus,405.5,11.4,29.9,23.0,3.3,54.4,71.1,74.2,0.99,5.6,77.4,0.8,57.6,106.7,Vegan,Gluten,Boosts Immunity
+Green Peas (80g),Legume,85.4,16.8,17.6,1.5,10.6,110.5,82.9,344.2,1.92,2.0,147.7,2.4,44.1,61.2,Diabetic-Friendly,None,Supports Bone Health
+Carrot (112g),Vegetable,104.3,19.1,14.4,59.4,1.1,132.6,56.4,165.4,1.5,9.4,250.1,2.1,302.2,11.2,High-Protein,Nuts,Boosts Immunity
+Apple (103g),Fruit,246.7,15.4,26.0,45.2,1.7,492.3,71.1,355.5,1.55,7.6,55.6,3.0,118.6,117.1,Low-Fat,Soy,Boosts Immunity
+Bitter Gourd (84g),Vegetable,345.8,17.8,23.3,46.6,0.7,222.6,25.3,260.1,2.37,3.5,252.5,3.1,368.1,129.0,Low-Fat,Soy,Heart Healthy
+Fish (Pomfret) (117g),Seafood,423.2,23.1,18.2,40.0,7.0,376.0,8.2,195.9,0.82,5.2,193.1,1.3,110.9,44.3,High-Protein,Soy,Energy Boost
+Milk (Cow) (100g),Dairy,557.6,8.4,7.3,12.3,11.7,154.3,30.1,270.4,0.67,6.0,204.2,1.0,247.2,119.1,High-Protein,Dairy,Improves Digestion
+Soybeans (115g),Legume,206.3,20.1,17.5,11.2,8.8,701.0,57.5,82.3,1.9,8.3,63.1,3.3,201.3,40.6,Low-Fat,Gluten,Energy Boost
+Cucumber (114g),Vegetable,218.0,6.7,2.3,8.3,4.6,441.0,35.4,26.6,1.95,2.6,153.6,4.7,222.5,124.1,Diabetic-Friendly,Soy,Heart Healthy
+Apple (97g),Fruit,49.6,11.0,29.5,36.1,5.8,310.1,10.8,72.4,0.87,8.0,25.8,4.3,114.6,84.5,High-Protein,Dairy,Boosts Immunity
+Brinjal (93g),Vegetable,43.2,16.7,1.9,7.6,11.7,575.9,25.6,96.3,0.53,6.1,228.0,4.6,144.7,39.3,Vegan,Soy,Energy Boost
+Egg (94g),Protein,119.7,24.2,11.6,33.0,0.4,129.2,51.4,245.7,2.34,8.1,46.1,1.3,165.5,40.1,Diabetic-Friendly,Dairy,Supports Bone Health
+Milk (Cow) (97g),Dairy,82.3,6.3,9.3,35.2,7.3,310.0,19.2,40.1,0.2,7.2,138.3,3.7,156.9,94.2,Low-Fat,None,Energy Boost
+Almonds (93g),Nut,531.4,12.5,23.7,31.9,4.0,399.7,55.4,335.3,1.46,3.8,214.0,3.0,281.1,59.8,Low-Fat,Dairy,Supports Bone Health
+Egg (102g),Protein,255.0,6.6,8.8,14.6,7.3,376.3,2.2,374.1,0.59,7.0,141.2,4.0,158.6,55.1,Low-Fat,None,Heart Healthy
+Brinjal (108g),Vegetable,547.3,2.7,7.7,14.5,4.5,797.7,43.1,67.4,2.05,6.5,183.7,4.1,339.1,147.0,High-Protein,None,Supports Bone Health
+Chapati (Whole Wheat) (90g),Grain,73.6,17.5,1.6,5.7,11.2,363.0,26.4,343.4,0.67,9.2,76.4,1.6,210.6,38.6,Vegan,Soy,Boosts Immunity
+Mushroom (91g),Fungus,187.2,12.0,12.8,10.9,0.4,769.1,54.2,30.8,1.85,2.8,237.1,2.7,312.7,85.2,High-Protein,Dairy,Supports Bone Health
+Soybeans (91g),Legume,162.5,0.7,25.7,46.2,6.3,17.6,45.4,22.7,0.32,0.6,55.2,0.7,345.4,126.0,Diabetic-Friendly,Gluten,Heart Healthy
+Paneer (109g),Dairy,121.6,3.2,7.5,38.8,9.1,54.6,34.0,0.2,1.11,8.0,206.5,2.0,218.9,63.6,Diabetic-Friendly,Nuts,Energy Boost
+Mutton (118g),Meat,354.9,21.0,12.2,15.8,11.3,134.3,77.2,50.5,0.09,0.8,298.5,4.2,50.6,136.1,Low-Fat,Nuts,Improves Digestion
+Fish (Rohu) (81g),Seafood,202.4,5.4,0.6,26.7,7.7,118.6,77.9,316.2,1.8,6.5,97.6,1.3,11.5,37.9,Low-Fat,Gluten,Heart Healthy
+Bottle Gourd (109g),Vegetable,433.5,9.6,6.2,8.7,11.5,197.0,13.1,256.0,0.24,3.8,111.7,4.6,355.4,131.5,Vegan,Soy,Improves Digestion
+Mutton (112g),Meat,339.9,1.5,29.4,51.0,1.0,265.8,27.9,202.7,0.03,1.1,225.9,2.9,28.7,78.9,Diabetic-Friendly,Gluten,Boosts Immunity
+Beetroot (105g),Vegetable,213.7,15.5,10.5,20.3,4.5,641.2,52.7,353.4,1.82,4.4,159.1,3.4,221.5,113.6,Diabetic-Friendly,None,Supports Bone Health
+Fish (Pomfret) (101g),Seafood,403.2,11.3,21.7,16.8,1.9,732.1,8.4,153.6,0.95,0.5,97.8,4.8,81.8,87.5,Low-Fat,Dairy,Heart Healthy
+Tofu (116g),Soy Product,168.0,22.9,0.1,4.9,10.3,213.1,43.4,26.4,1.12,9.8,278.2,2.5,36.6,71.6,High-Protein,Soy,Improves Digestion
+Sweet Potato (96g),Root,354.7,13.9,27.0,44.8,7.7,261.9,14.0,272.8,1.72,5.2,90.9,3.0,359.2,37.8,Vegan,Nuts,Heart Healthy
+Almonds (101g),Nut,565.2,7.9,29.2,59.5,0.8,473.8,72.2,103.1,1.98,5.6,254.9,1.2,382.7,72.3,Vegetarian,None,Energy Boost
+Green Peas (103g),Legume,259.3,10.3,17.0,18.6,3.1,498.8,85.4,265.2,1.86,9.3,26.5,2.1,175.7,65.1,Vegan,Gluten,Improves Digestion
+Tomato (99g),Vegetable,156.7,22.0,14.8,57.5,7.1,324.8,76.5,114.6,1.47,1.7,56.2,1.7,153.9,17.0,Vegan,None,Boosts Immunity
+Cauliflower (114g),Vegetable,268.6,22.5,28.0,47.8,8.4,122.4,4.6,188.5,0.08,3.0,254.6,3.4,367.6,106.5,Diabetic-Friendly,None,Boosts Immunity
+Mango (99g),Fruit,211.5,1.5,17.5,59.3,7.4,657.3,17.3,68.0,0.94,9.9,41.2,3.0,248.1,81.3,Diabetic-Friendly,Gluten,Supports Bone Health
+White Rice (109g),Grain,371.6,6.9,19.3,42.3,1.3,485.6,62.0,12.8,2.05,6.7,211.5,4.1,146.7,78.8,High-Protein,Nuts,Heart Healthy
+Paneer (99g),Dairy,406.4,5.7,13.9,42.5,0.6,47.9,78.8,59.1,2.4,1.3,219.6,1.5,136.4,51.4,Vegetarian,Nuts,Heart Healthy
+Bitter Gourd (87g),Vegetable,559.3,16.9,20.2,44.0,3.8,567.6,80.6,262.5,0.87,4.0,110.1,0.3,337.2,121.5,Low-Fat,Dairy,Heart Healthy
+Cucumber (105g),Vegetable,474.6,21.6,13.5,49.1,9.0,566.2,59.3,383.2,1.8,8.7,63.3,4.4,69.9,41.3,Vegan,Nuts,Improves Digestion
+Cauliflower (82g),Vegetable,532.8,6.4,18.2,57.5,10.9,576.9,37.6,308.3,1.52,7.1,242.1,1.9,6.1,75.0,Diabetic-Friendly,Dairy,Supports Bone Health
+Cauliflower (101g),Vegetable,414.6,21.5,22.3,17.1,4.8,423.5,53.1,370.6,0.47,7.7,222.1,0.3,385.8,90.7,High-Protein,Soy,Heart Healthy
+Chickpeas (98g),Legume,212.9,10.5,18.8,47.7,5.8,702.7,83.6,365.6,1.46,2.4,101.4,3.0,182.5,48.5,Vegan,Dairy,Energy Boost
+Curd (105g),Dairy,173.9,13.5,1.3,57.2,5.5,318.2,38.7,383.5,1.93,2.8,246.2,2.8,169.6,77.8,High-Protein,Soy,Boosts Immunity
+Potato (117g),Root,143.8,16.7,8.7,7.8,3.0,791.4,50.5,131.4,1.31,2.1,208.7,0.5,260.5,142.3,Vegan,None,Supports Bone Health
+Curd (90g),Dairy,401.3,17.0,12.5,54.5,2.6,132.0,8.8,372.7,0.74,5.5,169.1,0.4,393.2,131.6,Vegan,Dairy,Boosts Immunity
+Almonds (91g),Nut,85.8,11.6,3.7,46.2,9.4,372.8,11.0,267.2,0.67,0.9,238.8,1.8,158.2,32.4,High-Protein,None,Energy Boost
+Chapati (Whole Wheat) (84g),Grain,114.1,8.9,15.7,41.7,2.5,792.9,68.2,140.6,0.82,4.0,229.5,0.6,207.4,122.7,Vegetarian,Dairy,Supports Bone Health
+Pineapple (120g),Fruit,300.4,14.9,21.0,58.6,9.0,667.8,84.0,312.3,1.34,4.6,103.4,1.9,360.5,10.3,Vegetarian,None,Energy Boost
+Mutton (81g),Meat,592.8,23.4,19.5,25.5,10.1,775.7,77.6,34.1,2.02,6.0,172.8,0.7,58.6,76.7,Diabetic-Friendly,Gluten,Boosts Immunity
+Pineapple (82g),Fruit,476.0,16.1,7.5,32.7,5.2,32.1,9.6,375.6,1.6,10.0,211.8,4.1,399.7,45.7,Low-Fat,None,Energy Boost
+Fish (Rohu) (84g),Seafood,309.0,18.6,12.3,2.5,3.6,148.6,8.4,55.0,1.26,6.0,39.0,0.7,390.0,116.4,High-Protein,None,Supports Bone Health
+Mushroom (93g),Fungus,357.7,2.4,1.6,19.4,9.2,604.1,82.2,31.9,1.71,9.4,262.4,2.8,363.0,100.4,Vegan,Nuts,Boosts Immunity
+Groundnuts (106g),Nut,73.9,8.7,22.3,9.1,1.3,755.8,0.4,356.6,0.1,8.1,127.7,0.6,67.7,141.3,Vegetarian,None,Improves Digestion
+Mango (91g),Fruit,396.1,14.4,26.0,38.2,0.4,175.5,63.7,67.7,2.3,8.7,157.8,4.9,7.1,80.8,High-Protein,Soy,Supports Bone Health
+Potato (115g),Root,158.0,11.0,18.4,23.9,9.9,234.9,12.3,389.5,0.99,5.8,88.1,3.1,356.4,107.5,High-Protein,Soy,Heart Healthy
+Spinach (87g),Vegetable,255.2,5.2,7.7,8.6,2.4,513.0,10.8,268.4,0.32,0.5,299.5,3.7,293.8,104.2,Vegetarian,Dairy,Improves Digestion
+Tomato (116g),Vegetable,21.6,5.7,3.4,42.1,5.1,273.7,40.2,58.8,1.56,1.3,116.9,4.9,154.6,80.2,High-Protein,Nuts,Supports Bone Health
+Watermelon (89g),Fruit,139.9,9.2,26.1,51.6,8.0,392.4,85.4,175.0,0.61,4.4,56.0,3.9,334.3,113.5,Diabetic-Friendly,Gluten,Supports Bone Health
+Bitter Gourd (87g),Vegetable,531.2,3.9,8.5,26.1,0.4,628.8,47.7,234.6,0.83,6.5,140.3,3.5,113.9,74.1,Low-Fat,Gluten,Supports Bone Health
+Sweet Potato (94g),Root,274.1,3.8,23.5,39.1,4.7,789.2,49.7,256.8,0.35,2.7,117.5,1.3,44.0,130.0,Diabetic-Friendly,Gluten,Heart Healthy
+Lentils (Toor Dal) (84g),Legume,349.0,22.2,7.3,17.7,9.8,606.4,60.2,222.4,1.47,8.0,163.7,1.0,201.3,81.6,Vegetarian,None,Improves Digestion
+Tofu (106g),Soy Product,349.4,0.5,5.9,7.4,3.8,611.6,22.6,321.8,1.41,6.3,204.3,4.8,228.3,56.7,Low-Fat,Nuts,Energy Boost
+Apple (95g),Fruit,208.3,21.5,10.8,45.8,6.5,395.0,38.8,225.0,1.66,1.1,269.8,1.2,347.3,34.7,Low-Fat,Soy,Boosts Immunity
+Cabbage (115g),Vegetable,275.9,3.8,22.2,13.9,1.3,205.9,82.6,163.7,2.38,6.5,268.0,4.5,41.9,138.9,Diabetic-Friendly,None,Boosts Immunity
+Curd (118g),Dairy,331.4,15.9,22.9,3.6,8.3,433.3,59.2,278.3,0.02,8.4,246.9,1.2,167.7,53.0,Vegan,Soy,Energy Boost
+Milk (Cow) (116g),Dairy,181.0,11.0,10.5,22.1,5.5,557.1,2.4,39.0,1.51,0.3,89.8,0.9,67.0,111.9,Vegetarian,Dairy,Supports Bone Health
+Apple (88g),Fruit,191.1,2.0,13.5,37.5,0.6,580.9,65.2,146.7,1.82,7.6,252.1,2.2,276.7,125.9,Vegetarian,Nuts,Heart Healthy
+Spinach (90g),Vegetable,237.2,13.6,20.6,53.7,1.5,611.8,19.1,61.5,0.26,2.4,245.7,1.4,210.5,85.5,Diabetic-Friendly,Soy,Energy Boost
+Chicken Breast (108g),Meat,111.3,24.9,16.0,34.5,11.5,340.5,55.0,317.9,0.67,2.7,72.1,3.7,309.9,7.9,Low-Fat,Gluten,Heart Healthy
+Soybeans (109g),Legume,557.8,21.9,3.5,42.0,10.8,184.6,63.0,379.8,0.27,4.8,273.7,2.9,296.4,24.6,Diabetic-Friendly,Dairy,Energy Boost
+Milk (Cow) (88g),Dairy,159.5,1.7,25.8,33.1,1.1,431.7,7.5,210.0,0.22,2.7,169.2,4.2,22.4,76.1,Vegetarian,Dairy,Supports Bone Health
+Watermelon (85g),Fruit,320.4,15.8,2.2,43.5,6.7,590.5,29.0,65.9,0.66,8.5,18.7,3.9,313.1,117.4,Vegan,None,Boosts Immunity
+Egg (90g),Protein,459.4,20.3,17.6,5.9,2.4,762.5,8.8,313.5,1.29,3.8,238.4,3.8,243.9,109.3,High-Protein,Gluten,Heart Healthy
+Tomato (112g),Vegetable,394.5,18.9,7.9,6.0,9.8,480.7,51.9,190.7,1.18,9.1,32.2,1.0,306.5,77.7,Vegan,Gluten,Heart Healthy
+Sweet Potato (82g),Root,314.1,11.9,1.4,3.9,8.0,708.7,34.0,254.7,0.21,7.3,89.8,0.8,154.2,22.8,Low-Fat,Dairy,Improves Digestion
+Green Peas (94g),Legume,594.6,9.6,1.6,19.3,2.2,461.9,65.7,221.0,0.09,4.8,128.0,1.3,242.8,94.1,Low-Fat,Soy,Improves Digestion
+Lentils (Toor Dal) (119g),Legume,471.6,23.9,25.7,32.0,1.7,49.5,72.2,371.3,2.08,2.6,163.3,4.5,366.5,112.1,High-Protein,Gluten,Supports Bone Health
+Tofu (110g),Soy Product,309.1,23.3,15.5,23.3,9.2,423.1,5.8,107.1,0.37,0.7,212.0,3.1,121.6,29.8,Diabetic-Friendly,Gluten,Heart Healthy
+Groundnuts (90g),Nut,32.0,22.0,22.7,8.7,8.7,676.2,38.8,41.6,2.31,2.6,144.0,0.3,159.1,142.1,Low-Fat,Dairy,Improves Digestion
+Fish (Rohu) (98g),Seafood,522.4,1.5,12.2,14.5,8.2,272.6,61.5,117.5,2.3,9.1,16.7,0.5,154.0,64.6,High-Protein,Gluten,Energy Boost
+Mushroom (113g),Fungus,313.0,23.0,23.2,44.1,4.5,445.3,45.1,71.4,2.36,3.4,292.0,2.4,333.5,13.9,High-Protein,None,Improves Digestion
+Watermelon (83g),Fruit,596.0,7.6,6.2,13.8,11.6,659.3,17.5,210.5,1.41,8.8,45.4,3.7,323.6,121.9,Vegan,None,Energy Boost
+Cucumber (113g),Vegetable,290.5,22.0,3.8,3.9,11.7,193.6,8.2,271.5,1.18,1.4,196.8,5.0,20.5,64.0,Vegan,None,Boosts Immunity
+Pineapple (112g),Fruit,308.1,24.1,29.7,6.6,11.5,686.8,70.1,288.1,1.26,0.2,274.3,1.1,15.5,122.5,Diabetic-Friendly,None,Improves Digestion
+Bitter Gourd (87g),Vegetable,338.8,21.0,15.8,1.8,8.3,267.7,57.3,198.9,1.75,8.2,182.9,4.8,363.6,137.9,Diabetic-Friendly,Dairy,Heart Healthy
+Fish (Rohu) (119g),Seafood,479.4,3.8,1.8,19.4,1.0,99.4,47.3,308.7,0.69,5.4,75.5,2.0,193.6,126.5,Diabetic-Friendly,Dairy,Heart Healthy
+Apple (90g),Fruit,492.7,4.4,6.5,36.5,1.9,192.9,24.8,135.1,0.18,2.6,20.6,3.8,293.6,23.9,Diabetic-Friendly,Nuts,Boosts Immunity
+Fish (Rohu) (120g),Seafood,32.3,19.9,7.2,56.2,5.3,773.1,66.9,207.7,0.23,7.5,133.7,4.2,375.8,141.9,Vegan,Soy,Supports Bone Health
+Fish (Rohu) (104g),Seafood,250.7,15.4,24.6,46.0,4.8,548.2,6.5,376.1,0.51,9.5,232.6,1.3,139.5,12.5,Low-Fat,Soy,Energy Boost
+Banana (107g),Fruit,351.8,12.4,25.4,26.0,6.8,722.0,55.9,393.6,2.0,3.0,289.3,0.7,125.1,85.4,Diabetic-Friendly,Nuts,Supports Bone Health
+Chicken Breast (99g),Meat,157.7,21.6,27.4,44.5,6.4,326.6,19.1,258.1,1.47,1.3,39.7,1.9,278.0,7.6,Vegan,Soy,Improves Digestion
+Mushroom (117g),Fungus,430.4,20.2,8.6,11.7,0.4,796.3,89.3,233.2,0.4,7.6,214.8,3.2,252.3,116.2,Diabetic-Friendly,Nuts,Improves Digestion
+Tofu (118g),Soy Product,460.5,18.8,20.3,45.9,10.3,72.6,47.0,58.1,1.88,5.8,194.7,2.9,63.0,87.0,High-Protein,None,Energy Boost
+Groundnuts (116g),Nut,378.9,24.4,5.9,11.3,2.4,148.8,70.2,327.7,0.71,1.5,291.0,2.1,226.1,140.9,Low-Fat,Soy,Boosts Immunity
+Tofu (110g),Soy Product,109.9,16.2,13.8,25.6,10.7,513.9,15.7,86.4,1.35,9.9,76.2,3.1,133.7,101.1,High-Protein,Dairy,Energy Boost
+Carrot (115g),Vegetable,459.1,21.0,29.4,49.9,10.8,768.1,79.9,47.1,0.34,7.0,186.9,1.8,222.0,128.1,Vegetarian,Nuts,Energy Boost
+Mutton (114g),Meat,412.4,11.1,8.1,47.2,4.7,303.3,36.6,29.1,1.99,0.2,149.8,2.2,270.4,104.4,Vegetarian,Dairy,Energy Boost
+Egg (116g),Protein,215.4,23.1,3.7,50.8,9.4,319.5,13.4,235.0,1.86,8.5,88.9,4.5,342.6,125.7,Vegetarian,Nuts,Supports Bone Health
+Spinach (80g),Vegetable,407.3,13.1,18.1,54.5,4.8,798.8,10.5,391.9,0.93,2.1,33.6,1.0,246.7,124.4,Vegan,None,Boosts Immunity
+Fish (Pomfret) (113g),Seafood,52.5,16.4,2.5,38.2,1.1,590.4,4.9,163.1,0.43,6.3,66.8,3.0,180.1,64.6,Vegetarian,None,Improves Digestion
+Milk (Cow) (120g),Dairy,182.3,0.9,14.9,27.1,3.5,130.7,64.3,179.6,0.34,4.1,260.3,3.4,240.5,55.0,Diabetic-Friendly,None,Heart Healthy
+Watermelon (110g),Fruit,555.2,23.1,29.5,34.4,11.2,54.4,70.0,9.1,2.25,6.8,86.2,4.9,83.4,70.8,Vegan,Dairy,Improves Digestion
+Mutton (90g),Meat,137.5,22.9,12.1,28.6,11.1,371.9,18.4,398.4,2.18,6.8,32.8,0.9,155.0,36.7,Low-Fat,Dairy,Energy Boost
+Egg (88g),Protein,291.3,13.9,29.3,23.2,2.4,358.5,80.2,218.1,0.74,6.0,220.5,0.9,233.6,11.9,Low-Fat,Gluten,Energy Boost
+Chickpeas (86g),Legume,270.1,7.5,1.7,27.7,8.2,665.8,35.9,213.7,2.23,9.1,224.9,2.5,207.8,137.7,Vegan,None,Supports Bone Health
+Watermelon (85g),Fruit,529.3,22.4,17.7,49.8,1.4,155.5,46.7,389.5,0.41,5.5,223.0,2.5,293.8,92.9,Vegetarian,Nuts,Supports Bone Health
+Soybeans (95g),Legume,528.5,21.3,5.4,41.2,4.0,24.3,20.6,300.1,2.3,0.3,237.8,3.0,289.1,67.2,Vegan,Nuts,Heart Healthy
+Brown Rice (105g),Grain,519.3,12.7,27.0,31.6,9.7,688.2,1.4,305.8,0.9,1.5,201.1,0.9,93.4,55.6,Vegetarian,None,Heart Healthy
+Fish (Rohu) (80g),Seafood,470.8,13.7,13.5,7.2,3.3,456.0,65.9,209.1,1.85,1.8,294.7,0.8,229.3,145.5,Diabetic-Friendly,None,Energy Boost
+Papaya (114g),Fruit,468.1,7.1,13.0,36.9,3.6,437.8,1.5,63.3,2.14,0.5,106.0,0.3,244.0,110.8,Diabetic-Friendly,Nuts,Energy Boost
+Curd (112g),Dairy,582.1,16.4,9.0,36.7,10.2,488.2,49.8,26.4,0.2,3.5,191.6,2.6,385.2,113.9,Vegan,Nuts,Boosts Immunity
+Mutton (91g),Meat,156.5,13.8,13.5,29.2,6.6,777.7,16.8,373.6,1.08,3.9,32.6,3.1,289.2,101.2,Low-Fat,Nuts,Energy Boost
+Soybeans (111g),Legume,243.0,4.2,18.7,55.0,6.2,575.1,13.9,333.6,0.77,5.8,153.2,3.8,317.3,82.2,Diabetic-Friendly,None,Heart Healthy
+Muskmelon (91g),Fruit,415.8,19.9,11.1,42.0,10.6,531.2,78.1,302.2,0.94,7.3,106.2,2.3,20.1,102.6,Vegetarian,Gluten,Energy Boost
+Banana (101g),Fruit,514.4,7.1,5.6,31.9,5.6,315.9,12.6,330.6,1.47,1.9,81.5,4.8,275.0,112.2,High-Protein,Nuts,Supports Bone Health
+Apple (114g),Fruit,577.1,23.1,28.0,21.1,2.1,64.6,61.2,131.2,1.28,3.4,296.9,2.5,366.0,54.8,Vegetarian,Soy,Supports Bone Health
+Bottle Gourd (117g),Vegetable,148.6,17.5,10.4,36.9,8.3,82.7,77.4,375.8,0.25,7.1,117.1,0.2,260.1,80.2,Low-Fat,Soy,Improves Digestion
+Lentils (Toor Dal) (119g),Legume,205.9,12.5,20.4,49.7,2.8,156.1,56.5,48.0,1.62,5.2,177.3,4.6,49.7,74.8,Low-Fat,Dairy,Boosts Immunity
+Apple (113g),Fruit,503.2,8.7,7.2,47.8,1.2,292.0,35.5,35.3,0.7,1.2,250.0,1.1,90.6,30.2,Diabetic-Friendly,Dairy,Heart Healthy
+Sweet Potato (113g),Root,76.5,20.1,13.5,19.7,0.4,497.0,85.7,59.9,2.07,8.0,92.2,3.9,39.4,117.6,Vegetarian,Nuts,Heart Healthy
+Pineapple (113g),Fruit,569.8,3.5,17.8,28.9,0.9,586.3,11.8,191.2,0.65,1.4,255.0,2.7,343.3,55.5,Vegetarian,Dairy,Improves Digestion
+Tofu (107g),Soy Product,261.3,23.9,25.9,35.4,5.1,603.7,48.5,111.8,2.07,1.5,214.8,2.6,393.3,134.5,High-Protein,Soy,Improves Digestion
+Papaya (107g),Fruit,579.4,20.0,9.6,43.0,7.4,143.0,11.6,383.2,2.19,9.7,245.6,2.2,136.3,24.7,Vegan,None,Boosts Immunity
+Cauliflower (99g),Vegetable,236.1,6.1,19.5,14.7,11.5,105.8,79.0,353.2,1.98,8.0,261.9,0.4,7.2,54.3,Vegan,Soy,Supports Bone Health
+Watermelon (120g),Fruit,266.9,18.6,20.5,17.8,3.6,416.3,55.5,154.3,1.49,7.2,51.8,4.8,277.7,140.8,Low-Fat,Nuts,Heart Healthy
+Cashews (106g),Nut,106.8,0.7,11.1,31.4,8.9,135.0,33.2,83.7,2.3,5.3,243.6,0.9,219.6,123.4,Vegetarian,Dairy,Boosts Immunity
+Carrot (92g),Vegetable,371.8,22.0,19.4,38.0,7.6,48.1,66.4,354.2,1.25,4.2,152.0,1.1,223.3,55.0,Diabetic-Friendly,Dairy,Heart Healthy
+Bottle Gourd (113g),Vegetable,429.6,16.8,5.4,11.7,4.3,371.9,23.4,389.3,1.35,2.7,49.3,0.9,230.6,9.7,Vegetarian,Soy,Boosts Immunity
+Green Peas (109g),Legume,241.8,16.6,7.3,7.0,0.8,695.4,64.6,384.1,1.55,1.8,142.6,1.2,179.9,109.0,Vegetarian,Soy,Energy Boost
+Banana (81g),Fruit,209.0,4.7,17.3,34.4,7.5,593.1,79.3,382.1,1.76,8.0,200.6,3.0,257.9,39.3,Diabetic-Friendly,Dairy,Supports Bone Health
+Mango (100g),Fruit,398.9,17.7,7.4,35.1,10.8,163.3,50.0,123.2,1.0,4.9,196.9,3.7,353.6,36.7,Low-Fat,Gluten,Supports Bone Health
+Lentils (Toor Dal) (116g),Legume,212.9,21.7,17.4,57.2,6.1,572.7,10.5,357.3,1.45,8.5,178.9,0.1,230.6,68.8,Vegetarian,None,Improves Digestion
+Paneer (118g),Dairy,291.7,13.4,15.0,7.6,6.0,716.4,29.4,231.8,1.34,9.2,80.5,0.8,325.9,114.1,Vegan,Dairy,Improves Digestion
+Bottle Gourd (83g),Vegetable,337.8,4.7,26.5,16.7,6.7,485.7,84.6,353.9,1.24,5.1,175.0,1.8,88.2,112.3,High-Protein,Soy,Improves Digestion
+Banana (95g),Fruit,389.7,10.2,1.9,50.4,9.1,798.0,69.2,80.8,0.67,3.1,277.5,3.3,326.8,129.0,Diabetic-Friendly,Gluten,Boosts Immunity
+Cucumber (84g),Vegetable,221.2,21.9,28.6,52.4,6.9,742.9,8.4,311.6,1.54,1.8,278.8,4.7,301.0,101.3,Vegan,Gluten,Supports Bone Health
+Sweet Potato (97g),Root,399.2,18.5,5.9,37.1,2.5,4.9,37.4,188.0,0.51,6.0,36.9,4.8,62.3,12.0,Vegetarian,Dairy,Boosts Immunity
+Orange (90g),Fruit,88.5,17.3,21.0,28.2,5.7,528.5,4.8,242.3,1.79,1.0,42.7,2.1,56.2,31.2,Vegan,Soy,Boosts Immunity
+Beetroot (88g),Vegetable,439.3,16.7,27.8,45.8,11.2,159.2,56.1,291.9,0.09,5.8,135.1,1.8,216.8,100.7,Low-Fat,Gluten,Energy Boost
+Cabbage (89g),Vegetable,463.3,7.4,3.1,17.8,9.5,546.8,56.3,56.2,0.81,0.2,202.8,4.9,64.3,46.6,Vegetarian,None,Energy Boost
+Apple (103g),Fruit,596.8,9.1,11.5,47.7,9.8,589.1,0.1,372.3,1.72,5.7,110.1,3.9,235.5,124.4,Vegan,Dairy,Heart Healthy
+Tomato (89g),Vegetable,179.8,10.9,10.8,20.3,4.5,246.2,83.2,84.8,0.06,9.4,267.5,3.9,15.1,148.6,Vegan,Nuts,Boosts Immunity
+Fish (Rohu) (119g),Seafood,113.9,6.2,14.9,4.6,7.3,50.2,64.7,385.6,1.03,8.6,16.5,1.2,55.0,45.8,Vegan,Gluten,Improves Digestion
+Curd (90g),Dairy,500.1,17.3,19.3,14.1,8.6,229.1,22.5,49.9,1.48,9.1,127.6,2.5,366.1,97.8,High-Protein,Nuts,Improves Digestion
+Pineapple (84g),Fruit,235.1,15.0,23.4,21.5,3.6,675.0,85.1,100.5,2.02,1.5,244.9,2.4,6.1,11.4,Vegan,None,Energy Boost
+Tomato (82g),Vegetable,140.2,20.2,22.1,25.3,2.9,360.0,24.9,377.3,1.17,4.3,22.4,0.2,43.5,110.4,High-Protein,Nuts,Boosts Immunity
+Cauliflower (117g),Vegetable,37.7,18.1,29.2,42.6,5.7,157.2,3.8,181.2,0.59,4.7,76.5,0.5,23.9,131.2,High-Protein,Soy,Improves Digestion
+Potato (99g),Root,135.7,10.3,3.5,12.6,0.4,348.6,31.4,343.8,1.62,4.5,214.0,3.0,201.0,34.7,Diabetic-Friendly,None,Improves Digestion
+Apple (92g),Fruit,372.0,4.3,24.3,56.4,11.1,670.8,80.1,174.7,0.36,3.6,28.6,1.3,59.6,128.8,Vegan,None,Boosts Immunity
+Almonds (105g),Nut,260.6,3.0,29.0,38.0,0.5,55.2,10.5,178.8,1.17,4.7,275.0,0.3,300.9,43.1,Vegetarian,Soy,Energy Boost
+White Rice (116g),Grain,459.2,21.5,19.0,16.9,0.2,200.2,89.8,26.3,1.88,0.5,187.1,2.6,324.1,48.2,Diabetic-Friendly,Nuts,Heart Healthy
+Guava (113g),Fruit,594.0,16.2,19.5,12.7,7.2,548.4,73.2,152.9,1.34,3.0,129.2,2.0,44.3,36.4,High-Protein,None,Heart Healthy
+Sweet Potato (116g),Root,174.4,6.2,5.3,20.0,2.4,589.8,87.0,267.9,1.43,5.9,274.5,5.0,181.2,7.1,High-Protein,Dairy,Heart Healthy
+Carrot (81g),Vegetable,144.3,1.7,13.9,54.3,10.2,85.4,37.0,336.4,1.59,6.6,192.9,3.3,107.5,128.2,Diabetic-Friendly,None,Supports Bone Health
+Fish (Rohu) (119g),Seafood,351.5,15.1,26.6,47.0,5.5,118.1,10.1,390.4,2.31,7.3,165.9,3.2,386.0,139.5,Diabetic-Friendly,None,Boosts Immunity
+Soybeans (105g),Legume,538.6,8.0,4.2,45.7,5.5,704.3,32.0,205.3,2.23,5.8,137.7,2.6,177.9,6.7,Vegetarian,None,Boosts Immunity
+Curd (114g),Dairy,47.2,12.1,14.3,6.5,10.1,673.9,34.2,34.1,1.43,1.0,197.9,0.5,67.3,134.2,Diabetic-Friendly,Gluten,Supports Bone Health
+Guava (107g),Fruit,344.6,12.9,14.0,45.4,7.0,799.2,83.7,190.9,1.52,2.7,180.8,1.2,51.6,136.2,Vegan,Soy,Heart Healthy
+Tomato (102g),Vegetable,267.7,12.6,16.6,15.6,6.0,539.7,72.8,221.3,0.54,7.3,112.7,3.9,186.8,120.7,Low-Fat,Dairy,Improves Digestion
+Watermelon (82g),Fruit,533.2,23.2,21.1,17.7,7.4,307.6,22.4,105.9,1.47,0.4,141.4,1.6,30.6,6.7,Diabetic-Friendly,Gluten,Boosts Immunity
+Fish (Pomfret) (89g),Seafood,112.7,23.4,17.4,15.3,7.6,220.9,49.2,0.1,2.32,9.6,235.8,1.4,163.1,106.0,Vegetarian,Soy,Boosts Immunity
+Brinjal (88g),Vegetable,591.3,10.2,4.6,59.3,6.4,482.0,6.1,8.8,2.0,1.0,31.4,5.0,49.6,134.9,Vegetarian,Gluten,Energy Boost
+Watermelon (90g),Fruit,599.2,21.9,21.5,7.4,2.7,576.1,80.5,136.7,2.35,0.5,83.8,2.8,42.3,53.2,Vegan,Dairy,Improves Digestion
+Almonds (99g),Nut,307.4,6.9,18.5,26.3,7.9,698.6,62.7,109.4,1.89,4.2,255.1,2.4,297.4,135.0,Vegan,Soy,Supports Bone Health
+Curd (118g),Dairy,332.2,18.9,19.0,33.3,11.5,583.9,78.0,184.7,1.32,1.1,33.1,1.4,209.2,149.3,Vegetarian,Gluten,Energy Boost
+Banana (105g),Fruit,383.4,23.7,16.4,37.4,6.6,644.0,22.4,390.1,0.95,6.2,137.7,4.7,155.6,50.3,Vegan,Gluten,Improves Digestion
+Papaya (96g),Fruit,587.8,20.2,1.6,8.3,1.8,479.7,16.3,337.9,1.87,9.9,81.5,4.7,356.2,11.5,Vegan,None,Heart Healthy
+Chapati (Whole Wheat) (107g),Grain,416.0,2.0,25.0,32.7,9.3,646.2,18.6,125.8,0.99,7.1,46.5,2.6,107.7,59.0,Vegan,Nuts,Heart Healthy
+Spinach (83g),Vegetable,34.4,16.6,17.2,48.6,3.7,777.0,22.5,18.8,2.21,10.0,207.9,1.4,361.7,129.9,Diabetic-Friendly,Nuts,Heart Healthy
+Potato (106g),Root,49.0,19.8,7.9,1.8,9.5,249.3,38.1,145.7,1.82,3.5,268.8,2.9,314.1,49.7,High-Protein,Dairy,Supports Bone Health
+Green Peas (118g),Legume,36.8,3.7,25.7,22.8,9.6,700.8,70.5,341.7,0.44,4.2,213.2,0.4,161.6,53.4,Diabetic-Friendly,Gluten,Supports Bone Health
+Brown Rice (80g),Grain,423.0,17.0,4.9,12.0,2.3,236.0,86.7,319.3,1.03,8.8,211.2,2.4,163.5,115.8,Diabetic-Friendly,None,Heart Healthy
+Lentils (Toor Dal) (86g),Legume,65.9,7.4,29.5,6.4,10.9,681.6,73.4,100.5,1.91,6.4,298.1,0.1,362.3,82.8,Vegan,Nuts,Energy Boost
+Rajma (Kidney Beans) (105g),Legume,299.1,12.6,16.8,12.6,1.1,462.7,79.4,143.3,2.23,9.0,280.0,1.4,58.3,109.2,High-Protein,Dairy,Heart Healthy
+White Rice (89g),Grain,443.7,23.0,1.7,32.2,2.9,608.0,43.1,91.2,0.83,5.9,121.9,3.8,24.0,85.3,Vegetarian,Gluten,Improves Digestion
+Green Peas (91g),Legume,199.7,3.5,16.8,45.3,6.1,703.0,32.6,301.0,2.28,0.6,206.0,2.2,125.7,58.3,Low-Fat,Gluten,Supports Bone Health
+Apple (84g),Fruit,84.6,23.6,4.7,43.1,5.5,616.0,55.3,294.6,2.35,6.9,190.0,4.1,38.5,68.6,Low-Fat,Dairy,Supports Bone Health
+Cashews (90g),Nut,303.8,1.3,26.0,33.8,4.7,136.6,6.5,189.9,1.71,6.6,27.6,4.2,244.7,61.1,Vegetarian,None,Improves Digestion
+Chicken Breast (120g),Meat,132.7,10.0,29.8,58.8,4.0,436.7,74.7,106.7,2.15,3.4,76.6,1.6,19.1,138.5,Vegan,Soy,Boosts Immunity
+Bottle Gourd (108g),Vegetable,295.0,7.5,27.2,50.7,4.3,138.6,22.9,366.7,2.29,2.7,134.0,4.1,88.1,82.6,High-Protein,None,Heart Healthy
+Guava (119g),Fruit,146.1,17.8,16.6,1.9,8.3,604.8,72.0,267.8,0.58,6.0,52.7,2.3,203.4,100.9,Diabetic-Friendly,Nuts,Energy Boost
+Mushroom (117g),Fungus,266.8,14.9,15.5,10.1,10.7,552.8,5.5,397.3,0.75,5.8,48.5,2.4,113.3,70.2,Vegetarian,Gluten,Heart Healthy
+Milk (Cow) (82g),Dairy,489.9,21.6,29.6,32.9,11.6,568.7,15.8,52.9,0.49,5.6,75.7,2.3,211.0,39.5,Vegan,Dairy,Boosts Immunity
+Muskmelon (115g),Fruit,310.0,10.1,24.5,56.7,6.9,786.7,46.5,205.9,0.12,5.8,278.0,0.9,52.8,123.4,Vegan,Dairy,Supports Bone Health
+Banana (80g),Fruit,29.4,17.4,11.6,26.6,1.6,728.1,45.7,252.6,1.61,5.6,242.6,2.5,157.6,6.6,Vegan,Gluten,Supports Bone Health
+Fish (Rohu) (104g),Seafood,482.2,7.6,27.5,14.9,6.7,742.9,58.5,256.5,0.2,5.2,23.7,2.5,171.4,113.9,Diabetic-Friendly,Dairy,Supports Bone Health
+Egg (99g),Protein,257.0,24.6,9.6,40.9,1.4,3.9,66.0,397.8,1.1,7.5,275.6,0.1,327.9,45.4,High-Protein,Soy,Heart Healthy
+Beetroot (84g),Vegetable,212.2,22.6,1.5,26.5,10.8,312.6,24.2,29.5,2.17,4.0,117.6,4.4,285.0,107.1,Vegetarian,Gluten,Boosts Immunity
+Beetroot (114g),Vegetable,207.9,10.3,24.6,55.1,3.4,495.3,3.8,246.1,0.88,5.7,66.4,2.2,84.9,85.3,Low-Fat,Soy,Energy Boost
+Mushroom (119g),Fungus,255.0,10.0,13.8,1.9,3.0,347.3,50.0,359.1,1.36,4.8,298.6,3.3,196.7,94.1,High-Protein,None,Improves Digestion
+Papaya (107g),Fruit,124.8,11.6,2.4,27.8,4.6,554.9,21.3,8.9,0.21,4.4,213.4,4.9,184.5,144.7,Diabetic-Friendly,Soy,Energy Boost
+Banana (104g),Fruit,28.5,24.5,16.6,1.3,11.3,718.0,33.2,55.7,0.17,4.7,107.3,1.6,383.1,71.8,Low-Fat,Gluten,Boosts Immunity
+Carrot (111g),Vegetable,192.1,15.3,23.5,6.7,8.1,668.0,49.6,112.1,1.46,6.0,282.6,2.2,74.9,25.4,Low-Fat,Gluten,Energy Boost
+Papaya (84g),Fruit,280.6,20.4,26.5,54.9,3.3,585.4,24.0,52.8,1.98,3.5,95.2,2.5,334.8,51.2,Diabetic-Friendly,Dairy,Boosts Immunity
+Mushroom (89g),Fungus,93.3,21.8,15.0,1.0,7.0,750.5,4.5,252.8,0.53,7.1,109.2,1.4,25.9,29.9,Vegetarian,Gluten,Heart Healthy
+Banana (112g),Fruit,114.5,14.2,9.9,43.5,9.5,5.0,8.0,208.1,2.27,8.2,63.0,3.5,288.2,39.9,Vegetarian,Nuts,Boosts Immunity
+Fish (Pomfret) (114g),Seafood,556.0,20.0,11.3,29.4,0.9,281.8,50.6,279.2,2.28,1.0,176.6,4.9,246.1,127.4,Vegan,None,Improves Digestion
+Banana (107g),Fruit,66.9,22.1,22.3,14.4,9.8,635.4,4.8,227.8,0.48,0.4,30.6,2.2,129.0,7.1,Low-Fat,Gluten,Boosts Immunity
+Green Peas (116g),Legume,475.4,14.3,9.9,18.3,9.8,113.5,51.1,187.3,1.42,5.8,260.9,2.1,56.9,42.3,Low-Fat,None,Heart Healthy
+Chapati (Whole Wheat) (119g),Grain,480.0,13.1,4.3,29.0,9.7,648.9,7.4,360.7,1.74,0.8,84.8,0.3,144.0,86.4,Diabetic-Friendly,Nuts,Supports Bone Health
+Banana (84g),Fruit,291.6,7.8,29.1,47.2,8.8,350.8,47.2,352.5,0.58,8.7,53.9,2.7,165.2,44.6,Diabetic-Friendly,Nuts,Boosts Immunity
+Brinjal (108g),Vegetable,132.4,13.9,29.7,59.8,10.7,744.8,45.3,218.9,2.32,3.2,76.1,4.6,320.1,96.4,High-Protein,Nuts,Supports Bone Health
+Soybeans (83g),Legume,211.9,1.8,24.5,55.7,8.5,315.4,40.4,134.2,0.19,9.6,56.2,2.9,293.0,6.4,Vegan,Soy,Improves Digestion
+Egg (86g),Protein,44.7,15.9,9.4,2.6,11.9,82.3,21.0,380.4,2.39,4.7,157.2,2.0,242.4,104.6,Vegetarian,Gluten,Improves Digestion
+Beetroot (104g),Vegetable,51.3,17.7,5.1,2.4,8.7,297.4,21.0,327.0,2.24,7.0,34.1,1.0,5.3,17.0,Vegetarian,Dairy,Heart Healthy
+Egg (116g),Protein,227.3,24.1,0.4,51.7,9.2,560.0,4.6,127.8,0.81,8.6,279.8,4.5,142.1,120.7,Diabetic-Friendly,Gluten,Heart Healthy
+Watermelon (119g),Fruit,217.1,11.2,1.4,50.3,1.4,354.9,17.2,51.7,1.43,0.6,112.6,3.7,271.3,98.4,Vegetarian,None,Boosts Immunity
+Spinach (105g),Vegetable,187.0,17.1,6.6,18.9,8.7,163.4,80.8,47.4,0.67,1.3,19.1,1.2,23.0,93.7,High-Protein,None,Boosts Immunity
+Soybeans (99g),Legume,383.6,22.8,28.7,59.4,4.2,492.7,80.3,383.9,0.86,7.6,80.7,1.9,229.0,26.2,High-Protein,Nuts,Boosts Immunity
+Chickpeas (83g),Legume,256.4,12.4,28.2,1.8,0.4,457.4,84.9,363.5,1.31,0.8,122.2,2.3,108.8,117.9,Vegetarian,Nuts,Energy Boost
+Almonds (88g),Nut,435.7,23.9,19.9,34.6,3.6,465.3,86.7,150.0,0.54,0.1,152.3,1.9,340.0,27.8,High-Protein,None,Supports Bone Health
+Mango (120g),Fruit,221.8,0.8,14.8,59.1,3.9,104.9,35.2,114.3,1.1,2.6,178.8,3.2,266.3,88.0,Vegetarian,Dairy,Supports Bone Health
+Groundnuts (101g),Nut,516.5,2.2,22.1,2.9,0.7,716.1,38.0,270.7,0.85,0.2,231.6,2.8,365.8,79.0,Vegetarian,None,Supports Bone Health
+Tomato (85g),Vegetable,242.7,11.4,23.9,37.4,0.3,717.2,30.1,390.1,2.19,3.4,264.2,2.9,317.0,83.7,High-Protein,Soy,Supports Bone Health
+Chapati (Whole Wheat) (90g),Grain,364.2,15.0,12.8,10.9,0.7,762.6,21.6,268.4,2.12,8.0,266.6,0.8,151.2,80.5,Vegan,Gluten,Heart Healthy
+Cucumber (81g),Vegetable,423.0,3.6,27.2,7.8,9.7,673.6,20.3,300.8,0.01,2.0,213.1,0.9,260.6,93.2,Vegetarian,None,Improves Digestion
+Rajma (Kidney Beans) (87g),Legume,322.9,22.8,21.7,41.5,6.9,347.6,69.6,201.3,0.51,3.8,169.6,0.5,237.5,50.4,Low-Fat,Nuts,Supports Bone Health
+Cabbage (104g),Vegetable,342.5,1.6,1.6,59.6,4.2,189.8,48.1,323.3,1.45,2.2,168.8,1.9,377.3,78.7,Diabetic-Friendly,Nuts,Supports Bone Health
+Green Peas (97g),Legume,212.4,22.1,26.0,39.8,11.9,111.3,65.0,190.7,0.0,1.9,72.0,1.5,55.3,139.4,Vegetarian,Dairy,Supports Bone Health
+Brown Rice (96g),Grain,71.4,7.3,29.6,39.6,8.8,739.7,77.4,299.1,0.16,9.7,287.4,2.9,285.7,106.7,Vegetarian,None,Supports Bone Health
+Chickpeas (120g),Legume,140.6,1.7,28.1,42.1,2.8,105.8,64.5,199.2,2.04,1.4,264.0,1.3,288.6,11.0,Vegetarian,Soy,Boosts Immunity
+Bitter Gourd (101g),Vegetable,534.1,10.5,11.9,1.2,11.8,46.9,64.4,237.9,2.24,4.5,143.3,2.0,235.9,93.6,Vegetarian,Dairy,Boosts Immunity
+Lentils (Toor Dal) (90g),Legume,594.6,2.7,20.5,49.0,11.7,60.1,26.9,346.1,0.1,9.5,178.8,4.8,91.2,141.9,Vegan,Gluten,Supports Bone Health
+Soybeans (97g),Legume,58.8,10.0,4.9,34.5,9.7,163.2,10.7,194.7,1.2,3.7,171.6,1.9,337.3,127.0,Low-Fat,Nuts,Boosts Immunity
+Fish (Pomfret) (94g),Seafood,426.2,23.3,2.6,31.2,4.8,290.0,27.3,114.8,1.83,2.6,200.2,2.3,175.4,147.1,High-Protein,Soy,Supports Bone Health
+Milk (Cow) (116g),Dairy,261.8,0.7,19.5,23.2,5.6,104.5,15.2,53.9,2.12,1.3,95.7,0.8,90.5,64.6,Vegetarian,Gluten,Energy Boost
+Egg (97g),Protein,410.6,3.0,15.5,31.3,10.7,32.4,66.1,379.7,1.43,6.9,38.4,3.2,166.0,97.7,High-Protein,None,Energy Boost
+Mushroom (104g),Fungus,172.9,5.4,10.2,15.1,1.8,772.6,89.0,378.9,2.34,1.9,116.0,0.4,215.0,37.6,High-Protein,Dairy,Boosts Immunity
+Paneer (84g),Dairy,65.6,20.9,25.5,32.2,5.0,299.7,64.7,147.9,1.12,7.3,275.7,2.9,111.1,53.0,Low-Fat,Nuts,Energy Boost
+Almonds (120g),Nut,214.6,5.4,29.0,26.8,6.9,792.9,24.4,154.7,1.75,7.8,120.9,4.1,175.2,136.4,Vegetarian,None,Supports Bone Health
+Chicken Breast (98g),Meat,234.6,13.6,27.3,34.8,11.1,749.5,82.5,122.5,0.21,3.5,230.5,3.0,132.6,141.3,Diabetic-Friendly,Nuts,Heart Healthy
+Groundnuts (108g),Nut,125.4,21.4,7.3,27.7,11.8,110.2,33.1,287.0,2.37,2.7,121.6,4.7,117.9,149.7,High-Protein,Soy,Energy Boost
+Apple (95g),Fruit,479.7,4.4,12.5,7.9,9.4,709.0,19.2,323.8,1.09,4.2,200.8,2.3,46.2,136.6,Vegan,None,Energy Boost
+Muskmelon (87g),Fruit,307.5,13.5,10.8,10.9,11.2,64.4,65.7,178.7,2.2,5.6,102.3,1.1,327.2,100.4,Vegetarian,Nuts,Energy Boost
+Cucumber (96g),Vegetable,174.9,17.2,26.7,30.4,1.5,156.0,86.8,347.9,2.24,6.8,210.5,2.1,139.9,112.6,Vegetarian,Dairy,Heart Healthy
+Cucumber (108g),Vegetable,96.6,11.0,20.5,25.0,2.5,3.7,25.1,24.8,1.99,9.3,192.5,1.8,65.2,68.7,Diabetic-Friendly,None,Boosts Immunity
+Fish (Rohu) (100g),Seafood,396.5,16.6,1.5,2.5,2.0,685.2,16.0,51.2,0.74,3.3,202.1,4.7,52.4,8.8,High-Protein,Dairy,Energy Boost
+Tomato (93g),Vegetable,462.6,13.5,18.9,6.1,11.9,726.8,17.9,79.2,1.49,3.6,54.7,3.9,74.5,109.5,Diabetic-Friendly,Dairy,Energy Boost
+Watermelon (111g),Fruit,474.8,8.9,21.6,58.0,4.4,714.7,59.3,85.3,0.56,1.8,195.6,3.9,179.9,106.4,Vegetarian,Soy,Energy Boost
+Guava (91g),Fruit,20.8,9.4,14.3,41.9,10.8,665.4,70.4,90.2,0.54,4.3,157.1,4.9,190.5,18.3,Vegan,Soy,Heart Healthy
+Chickpeas (112g),Legume,128.7,15.4,23.7,8.1,6.2,127.6,76.8,152.5,0.24,5.0,55.2,0.6,259.7,143.1,Diabetic-Friendly,Dairy,Energy Boost
+Tofu (120g),Soy Product,577.9,17.8,28.9,30.1,9.6,504.6,83.1,304.8,1.28,2.7,126.7,1.1,179.8,43.1,Vegetarian,Dairy,Supports Bone Health
+Cauliflower (89g),Vegetable,572.3,23.0,15.3,38.4,9.1,234.3,89.7,138.4,2.38,8.6,174.2,3.6,267.7,104.4,Vegetarian,Dairy,Improves Digestion
+Bottle Gourd (83g),Vegetable,238.7,20.6,18.6,59.6,2.7,525.2,81.0,96.9,2.15,7.9,148.8,4.0,31.3,98.9,Diabetic-Friendly,None,Improves Digestion
+Bottle Gourd (111g),Vegetable,180.0,20.8,0.3,40.5,2.9,447.6,27.4,48.8,1.35,1.6,267.7,0.5,311.0,30.3,Vegan,Soy,Improves Digestion
+Bottle Gourd (94g),Vegetable,351.1,18.1,19.7,23.8,3.9,222.2,42.9,144.6,0.6,0.8,60.5,3.2,31.6,17.5,High-Protein,None,Boosts Immunity
+Mushroom (101g),Fungus,211.4,7.2,17.1,40.6,7.0,301.4,88.6,236.4,1.08,5.0,243.4,0.4,322.4,122.6,Vegan,Gluten,Supports Bone Health
+Brinjal (90g),Vegetable,406.7,2.2,26.0,30.3,1.8,529.6,13.5,29.3,0.48,2.5,217.8,4.5,250.0,72.1,Diabetic-Friendly,Nuts,Heart Healthy
+Chickpeas (116g),Legume,573.8,12.1,2.3,26.2,10.7,185.8,71.8,394.0,0.44,4.4,122.9,3.8,186.9,54.2,Diabetic-Friendly,Soy,Energy Boost
+Pineapple (110g),Fruit,396.3,10.8,7.2,38.6,2.7,505.1,51.4,366.3,1.66,2.1,184.8,3.2,156.0,49.8,Vegan,Soy,Energy Boost
+Watermelon (101g),Fruit,125.4,3.6,1.5,8.1,1.0,673.9,69.7,194.5,0.91,9.9,173.3,2.3,369.1,74.6,Vegan,None,Supports Bone Health
+Bitter Gourd (115g),Vegetable,289.3,8.0,16.4,46.0,6.1,238.9,40.3,180.1,0.74,9.4,131.7,1.1,356.8,66.9,Vegan,Gluten,Improves Digestion
+Chickpeas (81g),Legume,255.9,9.1,21.0,28.7,0.6,591.6,87.8,226.0,1.48,9.6,138.0,0.6,255.8,99.3,Vegetarian,Soy,Heart Healthy
+Milk (Cow) (100g),Dairy,139.4,17.5,17.8,43.4,2.3,280.5,14.5,64.4,0.99,2.1,96.9,4.9,342.1,94.0,Diabetic-Friendly,Soy,Energy Boost
+Mushroom (101g),Fungus,374.8,9.0,8.5,39.8,3.1,777.9,67.8,349.9,2.26,3.0,74.2,3.6,315.3,119.8,High-Protein,Soy,Boosts Immunity
+Bottle Gourd (116g),Vegetable,558.2,14.9,22.6,15.3,8.5,686.3,24.8,180.4,0.54,8.8,264.4,1.4,212.7,103.0,Diabetic-Friendly,Dairy,Supports Bone Health
+Milk (Cow) (83g),Dairy,364.1,12.8,3.9,43.7,8.7,175.6,51.8,327.0,1.54,8.8,179.0,4.7,44.4,27.9,Vegan,Soy,Heart Healthy
+Carrot (83g),Vegetable,420.9,3.3,14.4,3.6,4.1,719.5,46.7,77.1,1.51,7.9,117.5,2.4,236.3,129.6,Vegetarian,None,Supports Bone Health
+Spinach (82g),Vegetable,195.0,14.4,25.5,23.5,1.0,579.1,20.1,21.8,0.07,9.0,263.6,0.6,312.6,34.6,Low-Fat,Gluten,Heart Healthy
