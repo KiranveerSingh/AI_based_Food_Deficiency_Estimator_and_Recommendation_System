@@ -4,26 +4,61 @@ import joblib
 import numpy as np
 import os
 
-# --- Model/Encoder Loading ---
+# --- Load Models & Data ---
 MODEL_PATH = os.path.join('Models', 'finalbest.pkl')
 ENCODER_PATH = os.path.join('Models', 'deficiency_feature_labelencoder.pkl')
+FOOD_DATA_PATH = os.path.join('Dataset', 'cleaned_food_nutrition_dataset.csv')  # Adjust path
 
+# Load prediction model
 model = joblib.load(MODEL_PATH)
+
+# Load label encoder if available
 if os.path.exists(ENCODER_PATH):
     le = joblib.load(ENCODER_PATH)
     encoder_available = True
 else:
     encoder_available = False
 
-st.title("Nutrition Deficiency Predictor")
-st.markdown("Enter your health and dietary details to estimate deficiencies.")
+# Load food nutrition dataset
+food_df = pd.read_csv(FOOD_DATA_PATH).fillna(0)
 
-# INPUTS outside the form for live update
+# Deficiency to nutrient column mapping (adjust names to match your dataset)
+DEFICIENCY_COLUMN_MAP = {
+    'Iron': 'Iron_Intake_(mg)',
+    'Calcium': 'Calcium_Intake_(mg)',
+    'Vitamin B12': 'Vitamin_B12_Intake_(mcg)',
+    'Vitamin D': 'Vitamin_D_Intake_(IU)',
+    'Folate': 'Folate_(Folic_Acid)_Intake_(mcg)',
+    'Vitamin C': 'Vitamin_C_Intake_(mg)',
+    'Zinc': 'Zinc_Intake_(mg)',
+    'Magnesium': 'Magnesium_Intake_(mg)',
+    # Add other nutrients as needed
+}
+
+# --- Streamlit UI ---
+
+st.set_page_config(page_title="Nutrition Deficiency & Food Recommendations", layout="wide")
+
+
+st.title("🍎 Nutrition Deficiency Predictor & Food Recommendation")
+st.markdown("Enter your details, predict nutritional deficiencies, and get personalized food recommendations.")
+
+# Sidebar Filters
+st.sidebar.header("Customize Food Recommendations")
+user_allergens = st.sidebar.multiselect(
+    "Exclude Allergens:",
+    options=['nuts', 'gluten', 'dairy', 'soy', 'eggs', 'shellfish']
+)
+user_diet_tags = st.sidebar.multiselect(
+    "Include Only Diets:",
+    options=['vegetarian', 'vegan', 'keto', 'paleo', 'gluten-free', 'low-carb']
+)
+
+# User Inputs for prediction (outside form for live BMI and calorie calculation)
 Age = st.number_input("Age", 1, 100, value=25)
 Height_cm = st.number_input("Height (cm)", 50, 350, value=170)
 Weight_kg = st.number_input("Weight (kg)", 20, 300, value=70)
 
-# Calculate BMI dynamically on change
 height_m = Height_cm / 100 if Height_cm > 0 else 1
 BMI = Weight_kg / (height_m ** 2) if height_m > 0 else 0
 st.markdown(f"**Calculated BMI:** {BMI:.2f}")
@@ -32,7 +67,6 @@ Daily_Protein_Intake_g = st.number_input("Daily Protein Intake (g)", 0, 300, val
 Daily_Fat_Intake_g = st.number_input("Daily Fat Intake (g)", 0, 500, value=70)
 Daily_Carbohydrate_Intake_g = st.number_input("Daily Carbohydrate Intake (g)", 0, 1000, value=250)
 
-# Calculate calories dynamically on change
 Daily_Calorie_Intake = (
     Daily_Protein_Intake_g * 4 +
     Daily_Carbohydrate_Intake_g * 4 +
@@ -40,7 +74,7 @@ Daily_Calorie_Intake = (
 )
 st.markdown(f"**Calculated Daily Calorie Intake:** {Daily_Calorie_Intake:.0f} kcal")
 
-# Additional inputs in form (organized for clarity)
+# Other inputs inside form for clarity
 with st.form("deficiency_form"):
     Daily_Fiber_Intake_g = st.number_input("Daily Fiber Intake (g)", 0, 150, value=25)
     Daily_Water_Intake_liters = st.number_input("Daily Water Intake (liters)", 0.0, 15.0, value=2.0, step=0.1)
@@ -80,6 +114,28 @@ with st.form("deficiency_form"):
     Medication_Interaction_Score = st.number_input("Medication Interaction Score", 0, 100, value=0)
     
     submitted = st.form_submit_button("Predict Deficiency")
+
+def recommend_foods(food_df, deficiency, top_n=5, exclude_allergens=None, include_tags=None):
+    nutrient_col = DEFICIENCY_COLUMN_MAP.get(deficiency)
+    if nutrient_col is None or nutrient_col not in food_df.columns:
+        st.warning(f"No nutrient data available for '{deficiency}'.")
+        return pd.DataFrame()
+    foods = food_df[food_df[nutrient_col] > 0].copy()
+    if exclude_allergens:
+        for allergen in exclude_allergens:
+            foods = foods[~foods['Allergens'].str.contains(allergen, case=False, na=False)]
+    if include_tags:
+        include_mask = pd.Series(False, index=foods.index)
+        for tag in include_tags:
+            include_mask = include_mask | foods['Tags'].str.contains(tag, case=False, na=False)
+        foods = foods[include_mask]
+    foods = foods.sort_values(nutrient_col, ascending=False).reset_index(drop=True)
+    foods.insert(0, 'Rank', range(1, len(foods) + 1))
+    cols = ['Rank', 'Food_Item', nutrient_col, 'Calories', 'Health_Benefits']
+    cols = [c for c in cols if c in foods.columns]
+    recommended = foods[cols].head(top_n)
+    recommended.rename(columns={nutrient_col: f"{deficiency} per 100g"}, inplace=True)
+    return recommended
 
 if submitted:
     user_data = pd.DataFrame([{
@@ -146,3 +202,17 @@ if submitted:
 
     st.markdown(f"**Predicted Deficiency:** {predicted_deficiency}")
     st.markdown(f"**Deficiency Count:** {deficiency_count}")
+
+    # Show recommendations with filters as selected by user
+    recommended_foods = recommend_foods(
+        food_df,
+        predicted_deficiency,
+        top_n=5,
+        exclude_allergens=user_allergens,
+        include_tags=user_diet_tags
+    )
+    if not recommended_foods.empty:
+        st.subheader(f"Recommended Foods to Overcome {predicted_deficiency} Deficiency")
+        st.table(recommended_foods)
+    else:
+        st.warning("No suitable foods found with current filters.")
