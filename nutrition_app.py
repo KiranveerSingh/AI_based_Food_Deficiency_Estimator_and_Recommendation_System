@@ -5,9 +5,9 @@ import numpy as np
 import os
 
 # --- Load Models & Data ---
-MODEL_PATH = os.path.join('Models', 'finalbest.pkl')
-ENCODER_PATH = os.path.join('Models', 'deficiency_feature_labelencoder.pkl')
-FOOD_DATA_PATH = os.path.join('Dataset', 'cleaned_food_nutrition_dataset.csv')  # Adjust path
+MODEL_PATH = os.path.join(r'C:\My stuff\Coding\ML project\KiranveerSingh_Project\Models', 'best_classification_model.pkl')
+ENCODER_PATH = os.path.join(r'C:\My stuff\Coding\ML project\KiranveerSingh_Project\Models', 'deficiency_feature_labelencoder.pkl')
+FOOD_DATA_PATH = os.path.join(r'C:\My stuff\Coding\ML project\KiranveerSingh_Project\Dataset', 'cleaned_food_nutrition_dataset.csv')  # Adjust path
 
 # Load prediction model
 model = joblib.load(MODEL_PATH)
