@@ -5,9 +5,14 @@ import numpy as np
 import os
 
 # --- Load Models & Data ---
-MODEL_PATH = os.path.join(r'C:\My stuff\Coding\ML project\KiranveerSingh_Project\Models', 'best_classification_model.pkl')
-ENCODER_PATH = os.path.join(r'C:\My stuff\Coding\ML project\KiranveerSingh_Project\Models', 'deficiency_feature_labelencoder.pkl')
-FOOD_DATA_PATH = os.path.join(r'C:\My stuff\Coding\ML project\KiranveerSingh_Project\Dataset', 'cleaned_food_nutrition_dataset.csv')  # Adjust path
+MODEL_PATH = os.path.join("Models", "best_classification_model.pkl")
+
+ENCODER_PATH = os.path.join("Models", "deficiency_feature_labelencoder.pkl")
+
+FOOD_DATA_PATH = os.path.join(
+    "Dataset",
+    "cleaned_food_nutrition_dataset.csv"
+)
 
 # Load prediction model
 model = joblib.load(MODEL_PATH)
@@ -36,9 +41,7 @@ DEFICIENCY_COLUMN_MAP = {
 }
 
 # --- Streamlit UI ---
-
 st.set_page_config(page_title="Nutrition Deficiency & Food Recommendations", layout="wide")
-
 
 st.title("🍎 Nutrition Deficiency Predictor & Food Recommendation")
 st.markdown("Enter your details, predict nutritional deficiencies, and get personalized food recommendations.")
@@ -74,7 +77,7 @@ Daily_Calorie_Intake = (
 )
 st.markdown(f"**Calculated Daily Calorie Intake:** {Daily_Calorie_Intake:.0f} kcal")
 
-# Other inputs inside form for clarity
+# Other inputs inside form (organized for clarity)
 with st.form("deficiency_form"):
     Daily_Fiber_Intake_g = st.number_input("Daily Fiber Intake (g)", 0, 150, value=25)
     Daily_Water_Intake_liters = st.number_input("Daily Water Intake (liters)", 0.0, 15.0, value=2.0, step=0.1)
@@ -112,7 +115,7 @@ with st.form("deficiency_form"):
     Fasting_Glucose_mg_dl = st.number_input("Fasting Glucose (mg/dL)", 0, 400, value=90)
     Alcohol_Consumption_g_day = st.number_input("Alcohol Consumption (g/day)", 0.0, 200.0, value=0.0, step=0.1)
     Medication_Interaction_Score = st.number_input("Medication Interaction Score", 0, 100, value=0)
-    
+
     submitted = st.form_submit_button("Predict Deficiency")
 
 def recommend_foods(food_df, deficiency, top_n=5, exclude_allergens=None, include_tags=None):
@@ -125,12 +128,12 @@ def recommend_foods(food_df, deficiency, top_n=5, exclude_allergens=None, includ
         for allergen in exclude_allergens:
             foods = foods[~foods['Allergens'].str.contains(allergen, case=False, na=False)]
     if include_tags:
-        include_mask = pd.Series(False, index=foods.index)
+        mask = pd.Series(False, index=foods.index)
         for tag in include_tags:
-            include_mask = include_mask | foods['Tags'].str.contains(tag, case=False, na=False)
-        foods = foods[include_mask]
+            mask = mask | foods['Tags'].str.contains(tag, case=False, na=False)
+        foods = foods[mask]
     foods = foods.sort_values(nutrient_col, ascending=False).reset_index(drop=True)
-    foods.insert(0, 'Rank', range(1, len(foods) + 1))
+    foods.insert(0, 'Rank', range(1, len(foods)+1))
     cols = ['Rank', 'Food_Item', nutrient_col, 'Calories', 'Health_Benefits']
     cols = [c for c in cols if c in foods.columns]
     recommended = foods[cols].head(top_n)
@@ -203,7 +206,7 @@ if submitted:
     st.markdown(f"**Predicted Deficiency:** {predicted_deficiency}")
     st.markdown(f"**Deficiency Count:** {deficiency_count}")
 
-    # Show recommendations with filters as selected by user
+    # Show recommendations
     recommended_foods = recommend_foods(
         food_df,
         predicted_deficiency,
